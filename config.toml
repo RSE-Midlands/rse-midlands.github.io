@@ -1,0 +1,30 @@
+baseURL = 'http://rse-midlands.github.io/'
+languageCode = 'en-us'
+title = 'RSE Midlands'
+theme = "mainroad"
+publishDir = "docs"
+
+[Params.logo]
+  image = "images/logo_400x400.jpg"
+  title = "RSE-Midlands"
+  subtitle = "A community of Research Software Engineers (RSEs) within the Midlands in England."
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  # Enable widgets in given order
+  widgets = ["social"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  twitter = "RSE_Midlands"
+  github = "RSE-Midlands"
+
+
+[menu]
