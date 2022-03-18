@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSE Midlands</title>
+    <link>http://rse-midlands.github.io/</link>
+    <description>Recent content on RSE Midlands</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Mar 2022 11:21:24 +0000</lastBuildDate><atom:link href="http://rse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://rse-midlands.github.io/docs/about/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      
+      <guid>http://rse-midlands.github.io/docs/about/</guid>
+      <description>We are a group who work in with and develop research software and are in the Midlands area of England. We are members of the Society of Research Software Engineering.
+You may ask &amp;lsquo;What is a Research Software Engineer?&amp;rsquo;. You can find out more about the sorts of roles here.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http://rse-midlands.github.io/docs/events/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      
+      <guid>http://rse-midlands.github.io/docs/events/</guid>
+      <description>Upcoming events will be posted here.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://rse-midlands.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 18 Mar 2022 11:21:24 +0000</pubDate>
+      
+      <guid>http://rse-midlands.github.io/posts/my-first-post/</guid>
+      <description>Here is my first post.</description>
+    </item>
+    
+  </channel>
+</rss>

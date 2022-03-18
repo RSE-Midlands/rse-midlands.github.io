@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Frequently asked questions (FAQ) - RSE Midlands</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere in the documentation.">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="RSE-Midlands" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/images/logo_400x400.jpg">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">RSE-Midlands</div>
+					<div class="logo__tagline">A community of Research Software Engineers (RSEs) within the Midlands in England.</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item menu__item--active">
+			<a class="menu__link" href="/docs/faq/">
+				
+				<span class="menu__text">FAQ</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Frequently asked questions (FAQ)</h1>
+			
+		</header>
+		<div class="content post__content clearfix">
+			<p>Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere
+in the documentation.</p>
+<p>The answers have been categorized into two groups:</p>
+<ol>
+<li>Answers to general questions without any lines of code.</li>
+<li>Answers to technical questions with code snippets, step-by-step instructions, etc.</li>
+</ol>
+<h2 id="general-questions">General questions</h2>
+<h3 id="do-i-need-to-have-prior-experience-before-proceeding-with-the-mainroad-theme">Do I need to have prior experience before proceeding with the Mainroad theme?</h3>
+<p><strong>Yes.</strong> You&rsquo;ll need to be familiar with Hugo before proceeding.
+<a href="http://rse-midlands.github.io/docs/" title="Mainroad theme documentation">Our docs section</a> is intended for intermediate to
+advanced users and developers. Our documentation may still be helpful to users with minimal experience, but are not
+comprehensive.</p>
+<h3 id="do-i-need-to-use-the-extended-version-of-hugo">Do I need to use the extended version of Hugo?</h3>
+<p><strong>No.</strong> Mainroad theme intentionally does not use any features of the extended version. As such, the extended version of
+Hugo is not required (but applicable).</p>
+<h3 id="is-there-a-list-of-all-possible-configuration-options">Is there a list of all possible configuration options?</h3>
+<p><strong>Configuration:</strong></p>
+<ul>
+<li>See <a href="https://gohugo.io/getting-started/configuration/#all-configuration-settings">All Configuration Settings</a>
+for the full list of Hugo-defined variables with their default values.</li>
+<li>See <a href="https://github.com/Vimux/Mainroad#configtoml-example">Mainroad config.toml example</a> for the full list of
+Mainroad-specific variables.</li>
+</ul>
+<p><strong>Front Matter:</strong></p>
+<ul>
+<li>See <a href="https://gohugo.io/content-management/front-matter#front-matter-variables">Front Matter Variables</a> for the
+list of Hugo-defined Front Matter variables.</li>
+<li>See <a href="https://github.com/Vimux/Mainroad#front-matter-example">Mainroad Front Matter example</a> for the list of
+Mainroad-specific Front Matter variables.</li>
+</ul>
+<h3 id="what-if-i-have-more-questions-should-i-create-an-issue">What if I have more questions? Should I create an issue?</h3>
+<p><strong>We don&rsquo;t provide personal technical support.</strong> As stated in our
+<a href="https://github.com/Vimux/Mainroad/blob/master/CONTRIBUTING.md">contributing guidelines</a>, please do not use the issue
+tracker for personal support. This includes reports like: “How do I do this&quot;, “Everything is broken; help me”, “I
+changed something, and it doesn&rsquo;t work anymore”, “It&rsquo;s not a personal issue, but I just want to ask how X or Y works”,
+“I forked your theme, then something broke; fix this immediately”, and so on.</p>
+<p><strong>The issue tracker should only be used for bug reports, feature requests, and discussions that comply with our
+contributing rules</strong>. All other issues will be closed and marked as invalid.</p>
+<h2 id="technical-questions">Technical questions</h2>
+<p><strong>I want to get the <code>favicon.ico</code> and <code>apple-touch-icon.png</code> to match my <code>hightlightColor</code>. What should I do?</strong></p>
+<p>There is no way to do this on the fly with Hugo, but you can use the one-liners below with some preparations:</p>
+<ol>
+<li>Copy:
+<ul>
+<li><code>./themes/mainroad/favicon.ico</code> to <code>./static/favicon.ico</code></li>
+<li><code>./themes/mainroad/apple-touch-icon.png</code> to <code>./static/apple-touch-icon.png</code></li>
+</ul>
+</li>
+<li>At the beginning of each script, replace the color in the variable with your preferred color. You must use
+six-digit hex triplet notation (e.g., <code>#E22D30</code>) to make it work properly.</li>
+</ol>
+<p>Go to the root of your project directory in the terminal and execute these two commands accordingly.</p>
+<pre tabindex="0"><code>a=#E22D30;a=\\x${a:5:2}\\x${a:3:2}\\x${a:1:2};for i in 98 274 578;do printf $a|dd of=static/favicon.ico bs=1 seek=$i conv=notrunc;done
+</code></pre><pre tabindex="0"><code>a=#E22D30;a=$(echo 504C54452A2A2A${a:1:6}|sed -e &#39;s/../\\x&amp;/g&#39;);printf $a|gzip|tail -c8|od -tx4 -N4 -An|xargs|sed -e &#39;s/../\\x&amp;/g&#39;|printf $a$(cat -)|dd of=static/apple-touch-icon.png bs=1 seek=37 conv=notrunc
+</code></pre><p><a href="https://github.com/vimux/mainroad/blob/master/exampleSite/content/docs/faq.md">Edit this page on GitHub</a></p>
+		</div>
+	</article>
+</main>
+
+
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2022 RSE Midlands.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>

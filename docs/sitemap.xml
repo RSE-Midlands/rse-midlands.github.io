@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://rse-midlands.github.io/docs/about/</loc>
+    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rse-midlands.github.io/docs/events/</loc>
+    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rse-midlands.github.io/posts/my-first-post/</loc>
+    <lastmod>2022-03-18T11:21:24+00:00</lastmod>
+  </url><url>
+    <loc>http://rse-midlands.github.io/posts/</loc>
+    <lastmod>2022-03-18T11:21:24+00:00</lastmod>
+  </url><url>
+    <loc>http://rse-midlands.github.io/</loc>
+    <lastmod>2022-03-18T11:21:24+00:00</lastmod>
+  </url><url>
+    <loc>http://rse-midlands.github.io/docs/</loc>
+    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rse-midlands.github.io/categories/</loc>
+  </url><url>
+    <loc>http://rse-midlands.github.io/tags/</loc>
+  </url>
+</urlset>
