@@ -10,4 +10,5 @@ menu:
   main:
     name: Events
 ---
-Upcoming events will be posted here.
+
+**8th June 2022** - Writers Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom
