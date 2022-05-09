@@ -11,6 +11,14 @@ menu:
     name: Events
 ---
 
-**8th June 2022** - Writers Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom
+##### Inagrual Meeting
+
+When: **8th June 2022**
+
+Where: **The Writer Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom** ([map](https://goo.gl/maps/x6MygSQ8JwRsx4U9A))
+
+Save the date!
+
+More details are forthcoming.
 
 <!--more-->
