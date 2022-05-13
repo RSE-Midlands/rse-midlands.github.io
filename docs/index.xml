@@ -6,22 +6,11 @@
     <description>Recent content on RSE Midlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="http://rse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>8th June - Inaugural Meeting</title>
-      <link>http://rse-midlands.github.io/docs/event-8th-june/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
-      
-      <guid>http://rse-midlands.github.io/docs/event-8th-june/</guid>
-      <description>&lt;h5 id=&#34;inaugural-meeting&#34;&gt;Inaugural Meeting&lt;/h5&gt;
-&lt;p&gt;When: &lt;strong&gt;8th June 2022&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Where: &lt;strong&gt;The Writers&amp;rsquo; Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom&lt;/strong&gt; (&lt;a href=&#34;https://goo.gl/maps/x6MygSQ8JwRsx4U9A&#34;&gt;map&lt;/a&gt;)&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title></title>
       <link>http://rse-midlands.github.io/docs/about/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rse-midlands.github.io/docs/about/</guid>
       <description>&lt;p&gt;We are a group who use or develop research software and work in the Midlands area of England.&lt;/p&gt;
@@ -29,16 +18,25 @@
     </item>
     
     <item>
-      <title>News</title>
-      <link>http://rse-midlands.github.io/docs/news/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <title>8th June meeting</title>
+      <link>http://rse-midlands.github.io/docs/event-8th-june/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rse-midlands.github.io/docs/news/</guid>
-      <description>&lt;h5 id=&#34;inaugural-meeting&#34;&gt;Inaugural Meeting&lt;/h5&gt;
-&lt;p&gt;We are pleased to announce the first RSE Midlands meetup.&lt;/p&gt;
+      <guid>http://rse-midlands.github.io/docs/event-8th-june/</guid>
+      <description>&lt;p&gt;When: &lt;strong&gt;8th June 2022&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Where: &lt;strong&gt;The Writers&amp;rsquo; Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom&lt;/strong&gt; (&lt;a href=&#34;https://goo.gl/maps/x6MygSQ8JwRsx4U9A&#34;&gt;map&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inaugural Meeting</title>
+      <link>http://rse-midlands.github.io/posts/inaugural-meeting/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rse-midlands.github.io/posts/inaugural-meeting/</guid>
+      <description>&lt;p&gt;We are pleased to announce the first RSE Midlands meetup.&lt;/p&gt;
 &lt;p&gt;When: &lt;strong&gt;8th June 2022&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Where: &lt;strong&gt;The Writers&amp;rsquo; Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom&lt;/strong&gt; (&lt;a href=&#34;https://goo.gl/maps/x6MygSQ8JwRsx4U9A&#34;&gt;map&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Save the date!&lt;/p&gt;</description>
+&lt;p&gt;Further details are &lt;a href=&#34;event-8th-june/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,14 +1,12 @@
 ---
-title: 8th June - Inaugural Meeting
+title: 8th June meeting
 description: Details of the first meeting of the RSE Midlands group
-date: 2022-01-24T14:00:00.000Z
+date:
 authorbox: false
 sidebar: false
 pager: false
 weight: 3
 ---
- 
-##### Inaugural Meeting
 
 When: **8th June 2022**
 

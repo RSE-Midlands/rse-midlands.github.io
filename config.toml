@@ -4,6 +4,11 @@ title = 'RSE Midlands'
 theme = "mainroad"
 publishDir = "docs"
 
+[Params]
+  opengraph = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["posts"]
+
 [Params.logo]
   image = "images/logo_400x400.jpg"
   title = "RSE-Midlands"
@@ -37,12 +42,7 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "about"
     name = "About Us"
-    url = "/about/"
-    weight = 2
-  [[menu.main]]
-    identifier = "News"
-    name = "News"
-    url = "/news/"
+    url = "/docs/about/"
     weight = 2
   [[menu.main]]
     identifier = "category"
@@ -51,7 +51,7 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "category1"
     name = "8th June 2022"
-    url = "/event-8th-June"
+    url = "/docs/event-8th-June"
     parent = "category"
     weight = 1
 # https://codingnconcepts.com/hugo/nested-menu-hugo/
