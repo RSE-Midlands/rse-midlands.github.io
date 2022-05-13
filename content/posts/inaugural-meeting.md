@@ -7,6 +7,8 @@ categories:
 ---
 We will be holding our first meeting soon. You are welcome to join us.
 
+### [Get your ticket](https://pretix.eu/rsemidlands/tickets/)
+
 **When:** 8th June 2022
 
 **Where:** The Writers' Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom ([map](https://goo.gl/maps/x6MygSQ8JwRsx4U9A))
