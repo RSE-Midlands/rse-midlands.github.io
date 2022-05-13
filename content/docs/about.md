@@ -1,5 +1,5 @@
 ---
-title: About
+title:
 description: About RSE Midlands
 date: 2022-01-24T14:00:00.000Z
 authorbox: false
