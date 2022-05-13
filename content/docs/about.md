@@ -6,9 +6,6 @@ authorbox: false
 sidebar: false
 pager: false
 weight: 3
-menu:
-  main:
-    name: About
 ---
 
 We are a group who use or develop research software and work in the Midlands area of England.

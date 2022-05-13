@@ -6,9 +6,6 @@ authorbox: false
 sidebar: false
 pager: false
 weight: 3
-menu:
-  main:
-    name: News
 ---
 
 ##### Inaugural Meeting

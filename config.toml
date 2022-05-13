@@ -29,3 +29,24 @@ publishDir = "docs"
 
 
 [menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About Us"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "category"
+    name = "Events"
+    weight = 3
+  [[menu.main]]
+    identifier = "category1"
+    name = "8th June 2022"
+    url = "/8th-June-meeting"
+    parent = "category"
+    weight = 1
+# https://codingnconcepts.com/hugo/nested-menu-hugo/
