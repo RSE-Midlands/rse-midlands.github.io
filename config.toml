@@ -40,6 +40,11 @@ publishDir = "docs"
     url = "/about/"
     weight = 2
   [[menu.main]]
+    identifier = "News"
+    name = "News"
+    url = "/news/"
+    weight = 2
+  [[menu.main]]
     identifier = "category"
     name = "Events"
     weight = 3
