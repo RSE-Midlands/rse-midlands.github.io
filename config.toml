@@ -7,7 +7,7 @@ publishDir = "docs"
 [Params.logo]
   image = "images/logo_400x400.jpg"
   title = "RSE-Midlands"
-  subtitle = "A community of Research Software Engineers (RSEs) within the Midlands in England."
+  subtitle = "A community of Research Software Engineers (RSEs) within the Midlands of England."
 
 [Params.sidebar]
   home = "right"
