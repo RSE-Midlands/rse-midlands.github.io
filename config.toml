@@ -51,7 +51,7 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "category1"
     name = "8th June 2022"
-    url = "/8th-June-meeting"
+    url = "/event-8th-June"
     parent = "category"
     weight = 1
 # https://codingnconcepts.com/hugo/nested-menu-hugo/
