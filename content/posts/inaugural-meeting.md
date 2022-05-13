@@ -5,7 +5,6 @@ categories:
   - "Events"
   - "Meetups"
 ---
-We will be holding our first meeting soon.
 
 ### [Get your ticket](https://pretix.eu/rsemidlands/tickets/)
 
