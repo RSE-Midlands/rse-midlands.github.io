@@ -15,7 +15,7 @@ weight: 3
 ### Speakers
 tbc
 
-### Sponsers
+### Sponsors
 We are pleased to announce the following organisations are sponsors of our Inaugural meeting.
 
 ![Lenovo](/images/logo-lenovo.png)
