@@ -4,6 +4,9 @@ title = 'RSE Midlands'
 theme = "mainroad"
 publishDir = "docs"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [Params]
   opengraph = true
   post_meta = ["date", "categories"] # Order of post meta information
