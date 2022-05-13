@@ -25,6 +25,7 @@ publishDir = "docs"
   # Enable parts of social widget
   twitter = "RSE_Midlands"
   github = "RSE-Midlands"
+  linkedin = "groups/12657864"
 
 
 [menu]
