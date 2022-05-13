@@ -22,9 +22,9 @@ tbc
 ### Sponsors
 We are pleased to announce the following organisations are sponsors of our Inaugural meeting.
 
-![Lenovo](/images/logo-lenovo.png)
+[![Lenovo](/images/logo-lenovo.png)](https://support.lenovo.com/gb/en)
 
-![NVidia](/images/logo-nvidia-elite-partner-s.png)
+[![NVidia](/images/logo-nvidia-elite-partner-s.png)](https://www.nvidia.com/en-gb/)
 
-![OCF](/images/logo-OCF-s.jpg)
+[![OCF](/images/logo-OCF-s.jpg)](https://www.ocf.co.uk/)
 <!--more-->
