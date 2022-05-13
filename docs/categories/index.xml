@@ -5,6 +5,25 @@
     <link>http://rse-midlands.github.io/categories/</link>
     <description>Recent content in Categories on RSE Midlands</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://rse-midlands.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rse-midlands.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Events</title>
+      <link>http://rse-midlands.github.io/categories/events/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rse-midlands.github.io/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetups</title>
+      <link>http://rse-midlands.github.io/categories/meetups/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rse-midlands.github.io/categories/meetups/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

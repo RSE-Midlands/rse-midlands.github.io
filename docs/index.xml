@@ -6,11 +6,11 @@
     <description>Recent content on RSE Midlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 11:21:24 +0000</lastBuildDate><atom:link href="http://rse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title></title>
       <link>http://rse-midlands.github.io/docs/about/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rse-midlands.github.io/docs/about/</guid>
       <description>&lt;p&gt;We are a group who use or develop research software and work in the Midlands area of England.&lt;/p&gt;
@@ -18,25 +18,29 @@
     </item>
     
     <item>
-      <title>Events</title>
-      <link>http://rse-midlands.github.io/docs/events/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <title>8th June meeting</title>
+      <link>http://rse-midlands.github.io/docs/event-8th-june/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rse-midlands.github.io/docs/events/</guid>
-      <description>&lt;h5 id=&#34;inaugural-meeting&#34;&gt;Inaugural Meeting&lt;/h5&gt;
-&lt;p&gt;When: &lt;strong&gt;8th June 2022&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Where: &lt;strong&gt;The Writers&amp;rsquo; Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom&lt;/strong&gt; (&lt;a href=&#34;https://goo.gl/maps/x6MygSQ8JwRsx4U9A&#34;&gt;map&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Save the date!&lt;/p&gt;
-&lt;p&gt;More details are forthcoming.&lt;/p&gt;</description>
+      <guid>http://rse-midlands.github.io/docs/event-8th-june/</guid>
+      <description>&lt;p&gt;When: &lt;strong&gt;8th June 2022&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Where: &lt;strong&gt;The Writers&amp;rsquo; Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom&lt;/strong&gt; (&lt;a href=&#34;https://goo.gl/maps/x6MygSQ8JwRsx4U9A&#34;&gt;map&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>http://rse-midlands.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 18 Mar 2022 11:21:24 +0000</pubDate>
+      <title>Inaugural Meeting</title>
+      <link>http://rse-midlands.github.io/posts/inaugural-meeting/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://rse-midlands.github.io/posts/my-first-post/</guid>
-      <description>Here is my first post.</description>
+      <guid>http://rse-midlands.github.io/posts/inaugural-meeting/</guid>
+      <description>&lt;p&gt;We will be holding our first meeting soon. You are welcome to join us.&lt;/p&gt;
+&lt;p&gt;When: &lt;strong&gt;8th June 2022&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Where: &lt;strong&gt;The Writers&amp;rsquo; Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom&lt;/strong&gt; (&lt;a href=&#34;https://goo.gl/maps/x6MygSQ8JwRsx4U9A&#34;&gt;map&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Further details are &lt;a href=&#34;docs/event-8th-june/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are pleased to announce the following organisations are sponsors of our Inaugural meeting.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/logo-lenovo.png&#34; alt=&#34;Lenovo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/logo-nvidia-elite-partner-s.png&#34; alt=&#34;NVidia&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/logo-OCF.jpg&#34; alt=&#34;OCF&#34;&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

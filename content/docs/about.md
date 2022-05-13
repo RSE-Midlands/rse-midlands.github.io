@@ -1,14 +1,11 @@
 ---
-title: About
+title:
 description: About RSE Midlands
-date: 2022-01-24T14:00:00.000Z
+date:
 authorbox: false
 sidebar: false
 pager: false
 weight: 3
-menu:
-  main:
-    name: About
 ---
 
 We are a group who use or develop research software and work in the Midlands area of England.
