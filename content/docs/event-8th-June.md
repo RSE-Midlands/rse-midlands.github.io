@@ -42,7 +42,12 @@ weight: 3
 
 15:45 - 16:45 - Keynote Speech 
 
-16:45 - 17:00 - Close 
+16:45 - 17:00 - Close
+
+#### Speakers
+[Rachael Ainsworth](https://twitter.com/rachaelevelyn), SSI, The Software Sustainability Institute Community and Events
+
+[Paul Graham](https://www.linkedin.com/in/paul-graham-59026513/), NVIDIA, Getting started on using GPUs
 
 ### Sponsors
 We are pleased to announce the following organisations are sponsors of our Inaugural meeting.
