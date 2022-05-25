@@ -18,7 +18,7 @@ Further details are available [here](/docs/event-8th-june/)
 
 We are pleased to announce the following organisations are sponsors of our Inaugural meeting.
 
-[![Society of Research Software Engineering](/images/Soc_RSE_master_logo-no_text.png)](https://society-rse.org/)
+[![Society of Research Software Engineering](/images/logo-rse-s.png)](https://society-rse.org/)
 
 [![Lenovo](/images/logo-lenovo.png)](https://support.lenovo.com/gb/en)
 
