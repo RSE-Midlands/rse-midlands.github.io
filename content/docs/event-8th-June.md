@@ -22,7 +22,7 @@ weight: 3
 
 10:00 - 10:30 - RSE Midlands Welcome
 
-10:30 - 11:00 - Talk 1 – Matt Williams (Society of Research Software Engineering)
+10:30 - 11:00 - Talk 1 – Rachel Ainsworth (SSI), "The Software Sustainability Institute Community and Events" 
 
 11:00 - 11:15 - Refreshment break
 
@@ -38,9 +38,9 @@ weight: 3
 
 15:00 - 15:15 - Refreshment break
 
-15:15 - 15:45 - Talk 3 – Rachel Ainsworth (SSI), "The Software Sustainability Institute Community and Events"
+15:15 - 15:30 - Talk 3 – Matt Williams (Society of Research Software Engineering)
 
-15:45 - 16:00 - Closing Talk
+15:30 - 16:00 - Closing Talk
 
 **Note*:* end time could potentially be 17:00 with confirmation of other talks.
 
@@ -49,7 +49,7 @@ weight: 3
 
 [Paul Graham](https://www.linkedin.com/in/paul-graham-59026513/), NVIDIA, Getting started on using GPUs
 
-[Matt Williams](https://research-information.bris.ac.uk/en/persons/matt-williams), Society of Research Software Engineering
+[Matt Williams](https://twitter.com/milliams), Society of Research Software Engineering
 
 ### Sponsors
 We are pleased to announce the following organisations are sponsors of our Inaugural meeting.
