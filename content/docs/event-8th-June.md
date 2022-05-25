@@ -20,29 +20,29 @@ weight: 3
 
 09:30 - 10:00 - Arrival tea and coffee
 
-10:00 - 10:30 - RSE Midlands Welcome
+10:00 - 10:30 - RSE Midlands Welcome (Opening speech)
 
-10:30 - 11:00 - Talk 1 – Rachel Ainsworth (SSI), "The Software Sustainability Institute Community and Events" 
+10:30 - 11:00 - Speech 1
 
-11:00 - 11:15 - Refreshment break
+11:00 - 11:15 - Comfort break
 
-11:15 - 11:45 - Talk 2 – Paul Graham (NVIDIA), "Getting started on using GPUs"
+11:15 - 11:45 - Speech 2
 
-11:45 - 12:30 - Workshop - establishing an RSE Midlands Community
+11:45 - 12:30 - Workshop 1 - establishing an RSE Midlands Community
 
 12:30 - 13:30 - Lunch
 
-13:30 - 14:15 - Lightning talks
+13:30 - 14:15 - Lightning panel
 
-14:15 - 15:00 - TBC
+14:15 - 15:00 - Workshop 2 - RSE direction and opportunities
 
-15:00 - 15:15 - Refreshment break
+15:00 - 15:15 - Comfort break
 
-15:15 - 15:30 - Talk 3 – Matt Williams (Society of Research Software Engineering)
+15:15 - 15:45 - Speech 3
 
-15:30 - 16:00 - Closing Talk
+15:45 - 16:45 - Keynote Speech
 
-**Note*:* end time could potentially be 17:00 with confirmation of other talks.
+16:45 - 17:00 - Close
 
 #### Speakers
 [Rachael Ainsworth](https://twitter.com/rachaelevelyn), SSI, The Software Sustainability Institute Community and Events
