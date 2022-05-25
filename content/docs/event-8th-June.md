@@ -18,29 +18,29 @@ weight: 3
 
 ### Agenda
 
-09:30 - 10:00 -Arrival tea and coffee 
+09:30 - 10:00 - Arrival tea and coffee
 
-10:00 - 10:30 - RSE Midlands Welcome (Opening speech) 
+10:00 - 10:30 - RSE Midlands Welcome (Opening speech)
 
-10:30 - 11:00 - Speech 1 
+10:30 - 11:00 - Speech 1
 
-11:00 - 11:15 - Comfort break 
+11:00 - 11:15 - Comfort break
 
-11:15 - 11:45 - Speech 2 
+11:15 - 11:45 - Speech 2
 
-11:45 - 12:30 - Workshop 1 - establishing an RSE Midlands Community 
+11:45 - 12:30 - Workshop 1 - establishing an RSE Midlands Community
 
-12:30 - 13:30 - Lunch 
+12:30 - 13:30 - Lunch
 
-13:30 - 14:15 - Lightning panel 
+13:30 - 14:15 - Lightning panel
 
-14:15 - 15:00 - Workshop 2 - RSE direction and opportunities 
+14:15 - 15:00 - Workshop 2 - RSE direction and opportunities
 
-15:00 - 15:15 - Comfort break 
+15:00 - 15:15 - Comfort break
 
-15:15 - 15:45 - Speech 3 
+15:15 - 15:45 - Speech 3
 
-15:45 - 16:45 - Keynote Speech 
+15:45 - 16:45 - Keynote Speech
 
 16:45 - 17:00 - Close
 
@@ -49,8 +49,12 @@ weight: 3
 
 [Paul Graham](https://www.linkedin.com/in/paul-graham-59026513/), NVIDIA, Getting started on using GPUs
 
+[Matt Williams](https://twitter.com/milliams), Society of Research Software Engineering
+
 ### Sponsors
 We are pleased to announce the following organisations are sponsors of our Inaugural meeting.
+
+[![Society of Research Software Engineering](/images/Soc_RSE_master_logo-no_text.png)](https://society-rse.org/)
 
 [![Lenovo](/images/logo-lenovo.png)](https://support.lenovo.com/gb/en)
 
