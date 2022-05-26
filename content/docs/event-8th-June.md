@@ -45,6 +45,9 @@ weight: 3
 15:30 - 16:00 - Closing Talk
 
 #### Speakers
+
+[Claire Wyatt](https://www.software.ac.uk/about/staff/person/claire-wyatt), RSE Community Manager, Software Sustainability Institute
+
 [Rachael Ainsworth](https://twitter.com/rachaelevelyn), SSI, The Software Sustainability Institute Community and Events
 
 [Paul Graham](https://www.linkedin.com/in/paul-graham-59026513/), NVIDIA, Getting started on using GPUs
