@@ -1,5 +1,5 @@
 ---
-title: Inagural Meeting
+title: Inaugural Meeting
 description: Details of the first meeting of the RSE Midlands group
 date:
 authorbox: false
