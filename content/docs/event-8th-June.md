@@ -22,7 +22,7 @@ weight: 3
 
 10:00 - 10:10 - RSE Midlands Welcome
 
-10:10 - 10:30 - Talk 1 - Claire Wyatt - Regional RSE Societies
+10:10 - 10:30 - Talk 1 - Claire Wyatt, RSE Community Manager, Software Sustainability Institute - Regional RSE Societies
 
 10:30 - 11:15 – Lightning talks
 
