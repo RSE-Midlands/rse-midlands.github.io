@@ -28,7 +28,7 @@ weight: 3
 
 11:15 - 11:30 - Refreshment break
 
-11:30 – 12:00 - Talk 2 – Rachel Ainsworth (SSI), "*The Software Sustainability Institute Community and Events*" 
+11:30 – 12:00 - Talk 2 – Rachael Ainsworth (SSI), "*The Software Sustainability Institute Community and Events*" 
 
 12:00 - 12:45 - Workshop - establishing an RSE Midlands Community
 
