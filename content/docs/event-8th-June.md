@@ -24,13 +24,13 @@ weight: 3
 
 10:10 - 10:30 - Talk 1 - Claire Wyatt, RSE Community Manager, Software Sustainability Institute - Regional RSE Societies
 
-10:30 - 11:15 – Lightning talks
+10:30 - 11:15 – Workshop - establishing an RSE Midlands Community
 
 11:15 - 11:30 - Refreshment break
 
 11:30 – 12:00 - Talk 2 – Rachael Ainsworth (SSI), "*The Software Sustainability Institute Community and Events*" 
 
-12:00 - 12:45 - Workshop - establishing an RSE Midlands Community
+12:00 - 12:45 - Lightening Talks
 
 12:45 - 13:45 - Lunch
 
