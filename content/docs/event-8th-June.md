@@ -36,7 +36,7 @@ weight: 3
 
 13:45 - 14:15 - Talk 3 – Paul Graham (NVIDIA), "*Getting started on using GPUs*"
 
-14:15 - 15:00 - TBC
+14:15 - 15:00 - Talk 4 - Andrew Mallinson (Intel), *An Introduction to the oneAPI Initiative*
 
 15:00 - 15:15 - Refreshment break
 
@@ -48,11 +48,14 @@ weight: 3
 
 [Claire Wyatt](https://www.software.ac.uk/about/staff/person/claire-wyatt), RSE Community Manager, Software Sustainability Institute
 
-[Rachael Ainsworth](https://twitter.com/rachaelevelyn), SSI, The Software Sustainability Institute Community and Events
+[Rachael Ainsworth](https://twitter.com/rachaelevelyn), SSI
 
-[Paul Graham](https://www.linkedin.com/in/paul-graham-59026513/), NVIDIA, Getting started on using GPUs
+[Paul Graham](https://www.linkedin.com/in/paul-graham-59026513/), NVIDIA
 
 [Matt Williams](https://twitter.com/milliams), Society of Research Software Engineering
+
+Andrew Mallinson, Intel
+
 
 ### Sponsors
 We are pleased to announce the following organisations are sponsors of our Inaugural meeting.
