@@ -13,7 +13,7 @@ unsafe= true
   mainSections = ["posts"]
 
 [Params.logo]
-  image = "images/logo_400x400.jpg"
+  image = "images/logo_400x400.png"
   title = "RSE-Midlands"
   subtitle = "A community of Research Software Engineers (RSEs) within the Midlands of England."
 
