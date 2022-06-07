@@ -28,19 +28,21 @@ weight: 3
 
 11:15 - 11:30 - Refreshment break
 
-11:30 – 12:00 - Talk 2 – Rachael Ainsworth (SSI), "*The Software Sustainability Institute Community and Events*" 
+11:30 – 12:00 - Talk 2 – Rachael Ainsworth (SSI), “The Software Sustainability Institute Community and Events”
 
-12:00 - 12:45 - Lightening Talks
+12:00 - 12:45 - Lightning Talks
 
 12:45 - 13:45 - Lunch
 
-13:45 - 14:15 - Talk 3 – Paul Graham (NVIDIA), "*Getting started on using GPUs*"
+13:45 - 14:15 - Talk 3 – Paul Graham (NVIDIA), “Getting started on using GPUs”
 
-14:15 - 15:00 - Talk 4 - Andrew Mallinson (Intel), *An Introduction to the oneAPI Initiative*
+14:15 - 14:45 - Talk 4 - Andrew Mallinson (Intel), “An Introduction to the oneAPI Initiative”
+
+14:45 - 15:05 - Talk 5 - Jim Roche (Lenovo), “Carbon Controlled Computing and Climate Change - Our Responsibility”
 
 15:00 - 15:15 - Refreshment break
 
-15:15 - 15:30 - Talk 4 – Matt Williams (Society of Research Software Engineering)
+15:15 - 15:30 - Talk 6 – Matt Williams (Society of Research Software Engineering)
 
 15:30 - 16:00 - Closing Talk
 
@@ -55,6 +57,8 @@ weight: 3
 [Matt Williams](https://twitter.com/milliams), Society of Research Software Engineering
 
 Andrew Mallinson, Intel
+
+Jim Roche, Lenovo
 
 
 ### Sponsors
