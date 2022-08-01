@@ -38,7 +38,7 @@ In June 2022 we held our [inaugural meeting](https://rse-midlands.github.io/docs
 
 13:45 - 14:15 - Talk 3 – Paul Graham (NVIDIA), “Getting started on using GPUs”
 
-![Invidia](/photos/NVidia.JPG)
+![Invidia](/photos/Nvidia.JPG)
 
 14:15 - 14:45 - Talk 4 - Andrew Mallinson (Intel), “An Introduction to the oneAPI Initiative”
 
