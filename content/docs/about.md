@@ -8,8 +8,8 @@ pager: false
 weight: 3
 ---
 
-We are a group who use or develop research software and work in the Midlands area of England.
+We are a group of people who use or develop research software and work in the Midlands area of England.
 
-We are members of the [Society of Research Software Engineering (SocRSE)](https://society-rse.org/). You may ask 'What is a Research Software Engineer (RSE)?'. You can find out about a variety of RSE roles in through the [SocRSE case studies](https://society-rse.org/careers/case-studies/).
+We are affiliated with the [Society of Research Software Engineering (SocRSE)](https://society-rse.org/). If you're not sure what a "Research Software Engineer" or "RSE" does, then please check out the [SocRSE case studies](https://society-rse.org/careers/case-studies/).
 
 <!--more-->
