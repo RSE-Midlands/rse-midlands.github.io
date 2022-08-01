@@ -10,7 +10,7 @@ weight: 3
 
 In June 2022 we held our [inaugural meeting](https://rse-midlands.github.io/docs/event-8th-june/) at the University of Birmingham, with attendees from several cities across the Midlands. This event was organised by a committee of volunteers, and chaired by [Gavin Yearwood](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx).
 
-[!]
+[![Group lightening talks](Lightning_all.jpg)]
 
 ### Agenda
 
