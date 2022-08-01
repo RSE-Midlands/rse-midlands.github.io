@@ -59,8 +59,8 @@ Jim Roche, Lenovo
 We are pleased to announce the following organisations are sponsors of our Inaugural meeting.
 
 
-[![Society of Research Software Engineering](/images/logo-rse-s.png)](https://society-rse.org/)[![Lenovo](/images/logo-lenovo.png)](https://support.lenovo.com/gb/en)[![NVidia](/images/logo-nvidia-elite-partner-s.png)](https://www.nvidia.com/en-gb/)
-[![OCF](/images/logo-OCF-s.jpg)](https://www.ocf.co.uk/)|
+[![Society of Research Software Engineering](/images/logo-rse-s.png)](https://society-rse.org/)  [![Lenovo](/images/logo-lenovo.png)](https://support.lenovo.com/gb/en)  [![NVidia](/images/logo-nvidia-elite-partner-s.png)](https://www.nvidia.com/en-gb/)  
+[![OCF](/images/logo-OCF-s.jpg)](https://www.ocf.co.uk/)
 
 
 
