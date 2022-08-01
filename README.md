@@ -2,34 +2,22 @@
 
 The website can be found at [rse-midlands.github.io](https://rse-midlands.github.io). The website is built using [hugo](https://gohugo.io/).
 
-To build the website, add or alter .md files in the content folder, then run
+## Workflow
+
+The page is built and deployed when a commit to main is made. The deployment script can be found [here](https://github.com/RSE-Midlands/rse-midlands.github.io/blob/main/.github/workflows/build_and_deploy.yml) and details of deployments are found [here](https://github.com/RSE-Midlands/rse-midlands.github.io/actions).
+
+If you wish to generate the site locally then install Hugo on your machine and build the website by running, in the root folder, the following:
 
 ```bash
 hugo -D
 ```
 
-and files will be placed in the doc folder. The location of these outputs is important as GitHub expects the files to be in the folder root or doc folder.
+and files will be placed in the doc folder.
 
-To view the content using hugo server.
+## Adding content
 
-```bash
-hugo server
-```
+The content of the site can be found in the various markdown folders in this repository. For instance, the content of the about page is [here](https://github.com/RSE-Midlands/rse-midlands.github.io/blob/main/content/docs/about.md) and the recent event [here](https://github.com/RSE-Midlands/rse-midlands.github.io/blob/main/content/docs/event-8th-June.md).
 
-## Devcontainer
+The site has a blog format. Posts placed in the content/posts folder will be added as new posts. For an example post, see the previous [event blog post](https://github.com/RSE-Midlands/rse-midlands.github.io/blob/bdac4cc7f914fa4d1e486d0861c2c6ffb8ef3ca8/content/posts/inaugural-meeting.md). The information on the front page was added by changing the theme index layout (which you can see [here](https://github.com/RSE-Midlands/rse-midlands.github.io/blob/main/themes/mainroad/layouts/index.html)).
 
-We build the site within a [devcontainer](https://code.visualstudio.com/docs/remote/containers) using Visual Studio Code. If you open the folder within Visual Studio Code, have docker installed and the remotes-containers extension installed, then you will see a prompt to build and enter the container.
-
-Within the container, you can build the website using the below command.
-
-```bash
-hugo -D
-```
-
-I found that port forwarding was not working within Visual Studio Code (and so the hugo server command would be no use). I fixed this by going to the doc folder in powershell (within Windows) and starting the Python web server using the below command.
-
-```bash
-python -m http.server
-```
-
-You should then be able to view the content by going to 127.0.0.1:8000 in your browser.
+Any images or other static content should be added to the [static folder](https://github.com/RSE-Midlands/rse-midlands.github.io/tree/main/static).
