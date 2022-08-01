@@ -9,8 +9,6 @@ jobs:
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - name: Check out repository code
         uses: actions/checkout@v2
-      - name: Build HTML from XML
-        run: java -jar conversion/saxon/saxon9he.jar -xsl:conversion/tei2html.xsl drama.xml > docs/index.html
       - name: Get latest Hugo version
         run: |
           LATEST_HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name')
