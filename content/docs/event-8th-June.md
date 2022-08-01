@@ -10,6 +10,8 @@ weight: 3
 
 In June 2022 we held our [inaugural meeting](https://rse-midlands.github.io/docs/event-8th-june/) at the University of Birmingham, with attendees from several cities across the Midlands. This event was organised by a committee of volunteers, and chaired by [Gavin Yearwood](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx).
 
+[!]
+
 ### Agenda
 
 09:30 - 10:00 - Arrival tea and coffee
@@ -59,8 +61,7 @@ Jim Roche, Lenovo
 We are pleased to announce the following organisations are sponsors of our Inaugural meeting.
 
 
-[![Society of Research Software Engineering](/images/logo-rse-s.png)](https://society-rse.org/)  [![Lenovo](/images/logo-lenovo.png)](https://support.lenovo.com/gb/en)  [![NVidia](/images/logo-nvidia-elite-partner-s.png)](https://www.nvidia.com/en-gb/)  
-[![OCF](/images/logo-OCF-s.jpg)](https://www.ocf.co.uk/)
+[![Society of Research Software Engineering](/images/logo-rse-s.png)](https://society-rse.org/)[![Lenovo](/images/logo-lenovo.png)](https://support.lenovo.com/gb/en)  [![NVidia](/images/logo-nvidia-elite-partner-s.png)](https://www.nvidia.com/en-gb/) [![OCF](/images/logo-OCF-s.jpg)](https://www.ocf.co.uk/)
 
 
 
