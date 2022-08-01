@@ -16,11 +16,11 @@ In June 2022 we held our [inaugural meeting](https://rse-midlands.github.io/docs
 
 10:00 - 10:10 - RSE Midlands Welcome
 
-![Intro](/photos/intro.jpg)
+![Intro](/photos/intro.JPG)
 
 10:10 - 10:30 - Talk 1 - Claire Wyatt, RSE Community Manager, Software Sustainability Institute - Regional RSE Societies
 
-![RSE Society Talk](/photos/RSE_society.jpg)
+![RSE Society Talk](/photos/RSE_society.JPG)
 
 10:30 - 11:15 – Workshop - establishing an RSE Midlands Community
 
@@ -28,7 +28,7 @@ In June 2022 we held our [inaugural meeting](https://rse-midlands.github.io/docs
 
 11:30 – 12:00 - Talk 2 – Rachael Ainsworth (SSI), “The Software Sustainability Institute Community and Events”
 
-![SSI Presentation](/photos/SSI.jpg)
+![SSI Presentation](/photos/SSI.JPG)
 
 12:00 - 12:45 - Lightning Talks
 
@@ -38,15 +38,15 @@ In June 2022 we held our [inaugural meeting](https://rse-midlands.github.io/docs
 
 13:45 - 14:15 - Talk 3 – Paul Graham (NVIDIA), “Getting started on using GPUs”
 
-![Invidia](/photos/NVidia.jpg)
+![Invidia](/photos/NVidia.JPG)
 
 14:15 - 14:45 - Talk 4 - Andrew Mallinson (Intel), “An Introduction to the oneAPI Initiative”
 
-![Intel](/photos/Intel.jpg)
+![Intel](/photos/Intel.JPG)
 
 14:45 - 15:05 - Talk 5 - Jim Roche (Lenovo), “Carbon Controlled Computing and Climate Change - Our Responsibility”
 
-![Lenovo](/photos/Lenovo.jpg)
+![Lenovo](/photos/Lenovo.JPG)
 
 15:00 - 15:15 - Refreshment break
 
