@@ -8,13 +8,7 @@ pager: false
 weight: 3
 ---
 
-### [Get your ticket](https://pretix.eu/rsemidlands/tickets/)
-
-**When:** 8th June 2022
-
-**Where:** The Writers' Suite, Edgbaston Park Hotel and Conference Centre, 53 Edgbaston Park Road, Edgbaston, Birmingham, B15 2RS, United Kingdom ([map](https://goo.gl/maps/x6MygSQ8JwRsx4U9A))
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19452.46497648188!2d-1.9386499!3d52.4509189!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc4af1ef4715%3A0x7405976418d394d1!2sEdgbaston%20Park%20Hotel!5e0!3m2!1sen!2suk!4v1652467288581!5m2!1sen!2suk" width="500" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+In June 2022 we held our [inaugural meeting](https://rse-midlands.github.io/docs/event-8th-june/) at the University of Birmingham, with attendees from several cities across the Midlands. This event was organised by a committee of volunteers, and chaired by [Gavin Yearwood](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx).
 
 ### Agenda
 
