@@ -1,0 +1,32 @@
+name: XML Validation
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  Validate_and_build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: Build HTML from XML
+        run: java -jar conversion/saxon/saxon9he.jar -xsl:conversion/tei2html.xsl drama.xml > docs/index.html
+      - name: Get latest Hugo version
+        run: |
+          LATEST_HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name')
+          curl -sSL https://github.com/gohugoio/hugo/releases/download/${LATEST_HUGO_VERSION}/hugo_extended_${LATEST_HUGO_VERSION:1}_Linux-64bit.tar.gz | tar -xvzf-
+      - name: Move Hugo executable file
+        run: |
+          sudo mv hugo /usr/local/bin/
+          hugo version
+      - name: Build the Site
+        run: hugo
+      - name: Copy output dir contents to gh-pages
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: gh-pages # The branch name where you want to push the output
+          FOLDER: docs # The directory where output is generated
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
+          MESSAGE: "Build: ({sha}) {msg}" # The commit message
+      - run: echo "🍏 This job's status is ${{ job.status }}."
