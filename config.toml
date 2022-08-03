@@ -43,11 +43,6 @@ unsafe= true
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "about"
-    name = "About Us"
-    url = "/docs/about/"
-    weight = 2
-  [[menu.main]]
     identifier = "category"
     name = "Events"
     url = "/categories/events/"
