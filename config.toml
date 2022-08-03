@@ -45,7 +45,6 @@ unsafe= true
   [[menu.main]]
     identifier = "category"
     name = "Events"
-    url = "/categories/events/"
     weight = 3
   [[menu.main]]
     identifier = "category1"
