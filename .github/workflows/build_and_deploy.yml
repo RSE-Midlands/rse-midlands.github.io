@@ -19,7 +19,7 @@ jobs:
           hugo version
       - name: Build the Site
         run: hugo
-      - if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
+      - if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
         name: Copy output dir contents to live gh-pages branch
         uses: s0/git-publish-subdir-action@develop
         env:
