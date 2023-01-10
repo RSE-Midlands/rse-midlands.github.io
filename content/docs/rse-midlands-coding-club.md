@@ -12,6 +12,7 @@ The RSE-Midlands coding club aims to provide frequent educational and informativ
 
 # Introduction to Docker
 **Date**: 18th Jan. 2023
+
 **Time**: 14:00-15:00
 
 *Speaker*: [James Tripp](https://jamestripp.net/)
@@ -23,6 +24,7 @@ Docker provides a way to replicate a computing environment. We can then run soft
 
 # Introduction
 **Date**: 23rd Nov. 2022
+
 **Time**: 14:00-15:00
 
 *Speaker*: [Gavin Yearwood](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx)
