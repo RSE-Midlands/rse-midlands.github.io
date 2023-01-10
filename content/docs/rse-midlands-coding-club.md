@@ -19,7 +19,7 @@ The RSE-Midlands coding club aims to provide frequent educational and informativ
 
 *Abstract*
 
-Docker provides a way to replicate a computing environment. We can then run software within the environment (container) to give us the same result each time., and each container can be generated from a single shareable template (image).  In this talk, James will introduce docker, present some practical examples and open the floor for discussion. Docker is actively used in research and this presentation will hopefully provide an opportunity to explore how this might help you.
+Docker provides a way to replicate a computing environment. We can then run software within the environment (container) to give us the same result each time, and each container can be generated from a single shareable template (image).  In this talk, James will introduce docker, present some practical examples, and open the floor for discussion. Docker is actively used in research and this presentation will hopefully provide an opportunity to explore how this might help you.
 
 
 # Introduction
