@@ -21,6 +21,13 @@ The RSE-Midlands coding club aims to provide frequent educational and informativ
 
 Docker provides a way to replicate a computing environment. We can then run software within the environment (container) to give us the same result each time, and each container can be generated from a single shareable template (image).  In this talk, James will introduce docker, present some practical examples, and open the floor for discussion. Docker is actively used in research and this presentation will hopefully provide an opportunity to explore how this might help you.
 
+To connect to the presentation please use the link below.
+
+Zoom: [link](https://bham-ac-uk.zoom.us/j/82563243400?pwd=TDdMTDkrOVhnK2IrR3FiMitBekRhdz09)
+
+Meeting ID: 825 6324 3400
+
+Passcode: 486515 (edited)
 
 # Introduction
 **Date**: 23rd Nov. 2022
