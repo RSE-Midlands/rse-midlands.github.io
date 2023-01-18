@@ -17,6 +17,8 @@ The RSE-Midlands coding club aims to provide frequent educational and informativ
 
 *Speaker*: [James Tripp](https://jamestripp.net/)
 
+*Presentation*:[link](https://livewarwickac-my.sharepoint.com/:b:/g/personal/pssnac_live_warwick_ac_uk/Ed7hQy-QG5VLpPhBamLxyeUBsrX8eu-xvi6q1zn3gjUqMw?e=Aaht9I)
+
 *Abstract*
 
 Docker provides a way to replicate a computing environment. We can then run software within the environment (container) to give us the same result each time, and each container can be generated from a single shareable template (image).  In this talk, James will introduce docker, present some practical examples, and open the floor for discussion. Docker is actively used in research and this presentation will hopefully provide an opportunity to explore how this might help you.
