@@ -10,6 +10,32 @@ weight: 3
 
 The RSE-Midlands coding club aims to provide frequent educational and informative presentations or workshops for Research Software Engineers (RSE) or those in RSE adjacent fields. The club will attract speakers primarily from throughout the midlands area to help solidify the RSE Midlands community. We'd love to hear from you about giving a speech or any other coding club queries, if interested please contact Gavin Yearwood [g.yearwood@bham.ac.uk](mailto:g.yearwood@bham.ac.uk)
 
+# Next talk
+**Date**: 23rd Feb. 2023
+
+**Time**: 11:00-12:00
+
+*Speaker*: [Gavin Yearwood](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx)
+
+This will be on the creation of a
+regional group (RSE Midlands) and chairing the first inaugural event last year it will cover my experience and general information on:
+
+* funding
+* organising travel
+* merchandising
+* social media
+* advertising
+
+And will provide interactive and advice session at the end to talk to people who have are interested in organising an event or just want to know how events can be created behind the scenes.
+
+To connect to the session please use the link below.
+
+Zoom: [link](https://bham-ac-uk.zoom.us/j/86916797582?pwd=YndkODNUK09DQXdIMnlWUzBkdFMzQT09)
+
+Meeting ID: 869 1679 7582
+
+Passcode: 701884
+
 # Introduction to Docker
 **Date**: 18th Jan. 2023
 
