@@ -53,6 +53,12 @@ unsafe= true
     parent = "category"
     weight = 1
   [[menu.main]]
+    identifier = "category2"
+    name = "24th April 2023"
+    url = "/docs/event-24th-April-2023"
+    parent = "category"
+    weight = 1
+  [[menu.main]]
     identifier = "Coding Club"
     name = "Coding Club"
     url = "/docs/rse-midlands-coding-club"
