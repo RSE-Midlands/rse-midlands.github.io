@@ -11,6 +11,18 @@ weight: 3
 The RSE-Midlands coding club aims to provide frequent educational and informative presentations or workshops for Research Software Engineers (RSE) or those in RSE adjacent fields. The club will attract speakers primarily from throughout the midlands area to help solidify the RSE Midlands community. We'd love to hear from you about giving a speech or any other coding club queries, if interested please contact Gavin Yearwood [g.yearwood@bham.ac.uk](mailto:g.yearwood@bham.ac.uk)
 
 # Next talk
+
+
+# Journeyman Coder : bits to bytes- programs to apps
+
+John created his first program in 1978 on a black&white Tandy TRS80 machine, since then he has written numerous programs to complete many routine operational and research meteorology applications. This presentation will cover his experiences coding and the history of coding presented through 4 case studies
+
+Zoom: [link](https://bham-ac-uk.zoom.us/j/81439242221?pwd=cTBka2J3Z1ZqYnZqUDdSK0x3U2dUQT09)
+
+Meeting ID: 814 3924 2221
+
+Passcode: 063083
+
 **Date**: 23rd Feb. 2023
 
 **Time**: 11:00-12:00
