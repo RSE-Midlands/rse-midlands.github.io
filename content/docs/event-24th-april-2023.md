@@ -15,6 +15,8 @@ and sponsored by [Health Data Research UK](https://www.hdruk.ac.uk/) and by the
 
 This year’s conference is a chance to build community, meet new and old friends, and learn more about the incredible breadth of skills RSEs in the Midlands possess.
 
+Our organiser committee for this year are James Carpenter, Andrew Edmondson, Adrian Garcia, James Tripp, Heather Turner, Godwin Yeboah, and Jenny Wong.
+
 ## Draft agenda – more details soon!
 - 10am start
 - Morning theme: Health Data
