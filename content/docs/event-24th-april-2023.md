@@ -15,8 +15,6 @@ and sponsored by [Health Data Research UK](https://www.hdruk.ac.uk/) and by the
 
 This year’s conference is a chance to build community, meet new and old friends, and learn more about the incredible breadth of skills RSEs in the Midlands possess.
 
-Our organiser committee for this year are James Carpenter, [Andrew Edmondson](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx), [Adrian Garcia](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/adrian-garcia.aspx), [James Tripp](https://jamestripp.net), [Heather Turner](https://www.heatherturner.net/index.html), [Godwin Yeboah](https://warwick.ac.uk/fac/arts/research/digitalhumanities/team/contactus/), and [Jenny Wong](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/jenny-wong.aspx).
-
 ## Draft agenda – more details soon!
 - 10am start
 - Morning theme: Health Data
