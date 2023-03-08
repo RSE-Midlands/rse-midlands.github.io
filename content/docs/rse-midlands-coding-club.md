@@ -15,6 +15,10 @@ The RSE-Midlands coding club aims to provide frequent educational and informativ
 
 # Journeyman Coder : bits to bytes- programs to apps
 
+**Date**: 15th March
+
+**Time**: 14:00-15:00
+
 John created his first program in 1978 on a black&white Tandy TRS80 machine, since then he has written numerous programs to complete many routine operational and research meteorology applications. This presentation will cover his experiences coding and the history of coding presented through 4 case studies
 
 Zoom: [link](https://bham-ac-uk.zoom.us/j/81439242221?pwd=cTBka2J3Z1ZqYnZqUDdSK0x3U2dUQT09)
