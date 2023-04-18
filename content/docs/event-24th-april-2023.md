@@ -29,7 +29,7 @@ in that field), with the afternoon on more general topics.
 |   | **RSEs in Health Data** |
 | 10:30 | [Krishna Gokhale](https://www.birmingham.ac.uk/staff/profiles/applied-health/gokhale-krishna.aspx) (HDR and Birmingham) - __'Dexter - platform for Automated Epidemiology'__ |
 | 11:15 | Refreshment break |
-| 11:30 | Tom Giles (Nottingham) - __'Building a Health Data tools ecosystem'__|
+| 11:30 | Tom Giles (Nottingham) - __'Building an Open Ecosystem for Data Discovery though Academic and Industrial Collaboration'__|
 | 12:15 | Round table |
 | 12:45 | Lunch |
 |   | **RSE** |
