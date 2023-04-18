@@ -25,15 +25,15 @@ in that field), with the afternoon on more general topics.
 |||
 |--|--|
 | 9:30 | Arrivals |
-| 10:00 | Welcome from Nottingham |
+| 10:00 | Welcome from Nottingham (Sam Cox) |
 |   | **RSEs in Health Data** |
-| 10:30 | [Krishna Gokhale](https://www.birmingham.ac.uk/staff/profiles/applied-health/gokhale-krishna.aspx) (HDR and Birmingham) |
+| 10:30 | [Krishna Gokhale](https://www.birmingham.ac.uk/staff/profiles/applied-health/gokhale-krishna.aspx) (HDR and Birmingham) - __'Dexter - platform for Automated Epidemiology'__ |
 | 11:15 | Refreshment break |
-| 11:30 | Tom Giles (Nottingham) |
+| 11:30 | Tom Giles (Nottingham) - __'Building a Health Data tools ecosystem'__|
 | 12:15 | Round table |
 | 12:45 | Lunch |
 |   | **RSE** |
-| 13:45 | [Adam Seed (ENSEK)](https://www.linkedin.com/in/adam-seed-12450618/) |
+| 13:45 | [Adam Seed (ENSEK)](https://www.linkedin.com/in/adam-seed-12450618/) - __'ENSEK - An Enterprise SaaS company'__ |
 | 14:15 | Lightning talks |
 | 14:45 | Refreshments |
 | 15:00 | Round table |
