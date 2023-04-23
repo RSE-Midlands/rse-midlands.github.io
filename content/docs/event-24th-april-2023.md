@@ -31,6 +31,7 @@ in that field), with the afternoon on more general topics.
 | 11:15 | Refreshment break |
 | 11:30 | Tom Giles (Nottingham) - __'Building an Open Ecosystem for Data Discovery though Academic and Industrial Collaboration'__|
 | 12:15 | Round table |
+| 12:30 | Photo |
 | 12:45 | Lunch |
 |   | **RSE** |
 | 13:45 | [Adam Seed (ENSEK)](https://www.linkedin.com/in/adam-seed-12450618/) - __'ENSEK - An Enterprise SaaS company'__ |
