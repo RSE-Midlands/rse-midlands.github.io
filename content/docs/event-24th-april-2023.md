@@ -8,17 +8,20 @@ pager: false
 weight: 3
 ---
 
-Monday 24th April 2023 sees the second edition of the RSE Midlands conference. 
-This year is hosted by the [Digital Research Service](https://www.nottingham.ac.uk/dts/researcher/digital-research-service/digital-research-service.aspx)
+Monday 24th April 2023 saw the second edition of the RSE Midlands conference. 
+This year was hosted by the [Digital Research Service](https://www.nottingham.ac.uk/dts/researcher/digital-research-service/digital-research-service.aspx)
 at the University of Nottingham’s beautiful [University Park Campus](https://www.nottingham.ac.uk/about/campuses/universityparkcampus.aspx), 
 and sponsored by [Health Data Research UK](https://www.hdruk.ac.uk/) and by the 
 [Society of Research Software Engineering](https://society-rse.org/).
 
-This year’s conference is a chance to build community, meet new and old friends, and learn more about the incredible 
+This year’s conference was a chance to build community, meet new and old friends, and learn more about the incredible 
 breadth of skills RSEs in the Midlands possess.
 
-The morning has a focus on RSEs in Health Data (applicable to all RSEs, not just those working
+The morning had a focus on RSEs in Health Data (applicable to all RSEs, not just those working
 in that field), with the afternoon on more general topics. 
+
+Below you will find the arrangements for the day. Please look out for a blog post in
+the near future, summarising the day and looking forward to the next one!
 
 ## Agenda
 
@@ -51,7 +54,7 @@ generously offered support with any travel expenses. Speak to us if you would li
 ## Location and travel
 
 ### Location
-The conference will be held in Room E06, Monica Partridge Building, University Park Campus. 
+The conference was be held in Room E06, Monica Partridge Building, University Park Campus. 
 This is on the top floor. Stairs and lifts are available, and the building is fully accessible.
 
 [Google Maps](https://www.google.co.uk/maps/place/Monica+Partridge+Building/@52.9388984,-1.1983711,19z/data=!4m6!3m5!1s0x4879c3e2d4c8dc83:0xb48fa08fd229d9a8!8m2!3d52.9391044!4d-1.1980617!16s%2Fg%2F11grnvrdxl)
