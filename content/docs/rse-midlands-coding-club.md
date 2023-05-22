@@ -19,7 +19,6 @@ The RSE-Midlands coding club aims to provide frequent educational and informativ
 **Time**: 15:00 - 17:00
 
 Presentation by NCSA (National Center for Supercomputing Applications) will cover these topics
-- Sustaining software/Establishing Open Source Community, e.g. IN-CORE
 
 1. Sustaining software/Establishing Open Source Community, e.g. IN-CORE
 2. Software and data publication
