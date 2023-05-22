@@ -10,10 +10,46 @@ weight: 3
 
 The RSE-Midlands coding club aims to provide frequent educational and informative presentations or workshops for Research Software Engineers (RSE) or those in RSE adjacent fields. The club will attract speakers primarily from throughout the midlands area to help solidify the RSE Midlands community. We'd love to hear from you about giving a speech or any other coding club queries, if interested please contact Gavin Yearwood [g.yearwood@bham.ac.uk](mailto:g.yearwood@bham.ac.uk)
 
-# Next talk
+# Upcoming talks
 
+## Presentation by NCSA
 
-# Journeyman Coder : bits to bytes- programs to apps
+**Date**: June 14th
+
+**Time**: TBC
+
+Presentation by NCSA (National Center for Supercomputing Applications) will cover these topics
+- Sustaining software/Establishing Open Source Community, e.g. IN-CORE
+
+- Software and data publication
+
+- Co-production of software with researchers e.g. IN-CORE or CoverCrop
+
+- Building and sustaining a team of RSEs
+
+## What testing taught me
+
+**Date**: Thursday 22nd
+
+**Time**: 11:00 - 12:00
+
+*Speaker*: Catherine (Cat) Smith
+
+In this talk I will highlight some of the things I learned when I started testing my code, and the code of other people. It is not a tutorial on how to write tests, so is not specific to a particular language. Instead it focusses on the general approach although I will use code examples where relevant. Most of this has been learned by trial and error and I hope that there will be time for others to share alternative approaches, or additional tips in the discussion afterwards.
+
+## Pre-commit: protecting your future self
+
+**Date**: Monday 3rd July
+
+**Time**: 16:00 - 17:00
+
+*Speaker*: Neil Shephard
+
+If you use Git to version control your software development you can automate your work-flow by applying various linting, tests and code checks to your code before making commits use the pre-commit suite of Git Hooks. This talk gives a brief introduction to what Git, linting and tests are and shows how to incorporate pre-commit into your development and Continuous Integration pipelines to help improve the quality of code incorporated into your main codebase.
+
+# Previous talks
+
+## Journeyman Coder : bits to bytes- programs to apps
 
 **Date**: 15th March
 
@@ -27,7 +63,7 @@ Meeting ID: 814 3924 2221
 
 Passcode: 063083
 
-# The creation of a regional group
+## The creation of a regional group
 
 **Date**: 23rd Feb. 2023
 
@@ -54,7 +90,7 @@ Meeting ID: 869 1679 7582
 
 Passcode: 701884
 
-# Introduction to Docker
+## Introduction to Docker
 **Date**: 18th Jan. 2023
 
 **Time**: 14:00-15:00
@@ -75,7 +111,7 @@ Meeting ID: 825 6324 3400
 
 Passcode: 486515 (edited)
 
-# Introduction
+## Introduction
 **Date**: 23rd Nov. 2022
 
 **Time**: 14:00-15:00
