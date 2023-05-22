@@ -14,18 +14,23 @@ The RSE-Midlands coding club aims to provide frequent educational and informativ
 
 ## Presentation by NCSA
 
-**Date**: June 14th
+**Date**: June 14th TBC
 
-**Time**: TBC
+**Time**: 15:00 - 17:00
 
 Presentation by NCSA (National Center for Supercomputing Applications) will cover these topics
 - Sustaining software/Establishing Open Source Community, e.g. IN-CORE
 
-- Software and data publication
+1. Sustaining software/Establishing Open Source Community, e.g. IN-CORE
+2. Software and data publication
+3. Co-production of software with researchers e.g. IN-CORE or CoverCrop
+4. Building and sustaining a team of RSEs
 
-- Co-production of software with researchers e.g. IN-CORE or CoverCrop
+Zoom: [link](https://bham-ac-uk.zoom.us/j/83070642663?pwd=Y0VNNXJubm5NRTc4Y3pzSGNxQ3ZrQT09)
 
-- Building and sustaining a team of RSEs
+Meeting ID: 830 7064 2663
+
+Passcode: 745031
 
 ## What testing taught me
 
