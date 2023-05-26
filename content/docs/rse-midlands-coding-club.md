@@ -14,13 +14,13 @@ The RSE-Midlands coding club aims to provide frequent educational and informativ
 
 ## Presentation by NCSA
 
-**Date**: June 14th
+**Date**: Wednesday June 14th
 
 **Time**: 15:00 - 17:00
 
-Presentation by NCSA (National Center for Supercomputing Applications) will cover these topics
+We are delighted that the National Center for Supercomputing Applications ([NCSA](https://www.ncsa.illinois.edu)) from the University of Illinois Urbana-Champaign are taking over the RSE Midlands Coding Club in a one-off event not to be missed! Topics will include:
 
-1. Sustaining software/Establishing Open Source Community, e.g. IN-CORE
+1. Sustaining software/Establishing an Open Source Community, e.g. IN-CORE
 2. Research software and data publication 
 3. Co-production of software with researchers e.g. IN-CORE or CoverCrop
 4. Building and sustaining a team of RSEs
@@ -33,7 +33,7 @@ Passcode: 745031
 
 ## What testing taught me
 
-**Date**: Thursday 22nd
+**Date**: Thursday 22nd June
 
 **Time**: 11:00 - 12:00
 
@@ -49,7 +49,7 @@ In this talk I will highlight some of the things I learned when I started testin
 
 *Speaker*: Neil Shephard
 
-If you use Git to version control your software development you can automate your work-flow by applying various linting, tests and code checks to your code before making commits use the pre-commit suite of Git Hooks. This talk gives a brief introduction to what Git, linting and tests are and shows how to incorporate pre-commit into your development and Continuous Integration pipelines to help improve the quality of code incorporated into your main codebase.
+If you use Git to version control your software development you can automate your work-flow by applying various linting, tests and code checks to your code before making commits using the pre-commit suite of Git Hooks. This talk gives a brief introduction to what Git, linting and tests are and shows how to incorporate pre-commit into your development and Continuous Integration pipelines to help improve the quality of code incorporated into your main codebase.
 
 # Previous talks
 
