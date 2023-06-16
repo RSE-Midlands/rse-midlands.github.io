@@ -14,25 +14,6 @@ We also have a mailing list to keep you up to date with RSE Midlands Coding Club
 
 # Upcoming talks
 
-## Presentation by NCSA
-
-**Date**: Wednesday June 14th
-
-**Time**: 15:00 - 17:00
-
-We are delighted that the National Center for Supercomputing Applications ([NCSA](https://www.ncsa.illinois.edu)) from the University of Illinois Urbana-Champaign are taking over the RSE Midlands Coding Club in a one-off event not to be missed! Topics will include:
-
-1. Sustaining software/Establishing an Open Source Community, e.g. IN-CORE
-2. Research software and data publication 
-3. Co-production of software with researchers e.g. IN-CORE or CoverCrop
-4. Building and sustaining a team of RSEs
-
-Zoom: [link](https://bham-ac-uk.zoom.us/j/83070642663?pwd=Y0VNNXJubm5NRTc4Y3pzSGNxQ3ZrQT09)
-
-Meeting ID: 830 7064 2663
-
-Passcode: 745031
-
 ## What testing taught me
 
 **Date**: Thursday 22nd June
@@ -42,6 +23,12 @@ Passcode: 745031
 *Speaker*: Catherine (Cat) Smith
 
 In this talk I will highlight some of the things I learned when I started testing my code, and the code of other people. It is not a tutorial on how to write tests, so is not specific to a particular language. Instead it focusses on the general approach although I will use code examples where relevant. Most of this has been learned by trial and error and I hope that there will be time for others to share alternative approaches, or additional tips in the discussion afterwards.
+
+Zoom: [link](https://bham-ac-uk.zoom.us/j/82547847122?pwd=SUxCUFY4RFp5blRvQmlmR3BJV29NZz09)
+
+Meeting ID: 825 4784 7122
+
+Passcode: 204357
 
 ## Pre-commit: protecting your future self
 
@@ -54,6 +41,19 @@ In this talk I will highlight some of the things I learned when I started testin
 If you use Git to version control your software development you can automate your work-flow by applying various linting, tests and code checks to your code before making commits using the pre-commit suite of Git Hooks. This talk gives a brief introduction to what Git, linting and tests are and shows how to incorporate pre-commit into your development and Continuous Integration pipelines to help improve the quality of code incorporated into your main codebase.
 
 # Previous talks
+
+## Presentation by NCSA
+
+**Date**: Wednesday June 14th
+
+**Time**: 15:00 - 17:00
+
+We are delighted that the National Center for Supercomputing Applications ([NCSA](https://www.ncsa.illinois.edu)) from the University of Illinois Urbana-Champaign are taking over the RSE Midlands Coding Club in a one-off event not to be missed! Topics will include:
+
+1. Sustaining software/Establishing an Open Source Community, e.g. IN-CORE
+2. Research software and data publication - [Slides](https://doi.org/10.5281/zenodo.8030650)
+3. Co-production of software with researchers e.g. IN-CORE or CoverCrop
+4. Building and sustaining a team of RSEs
 
 ## Journeyman Coder : bits to bytes- programs to apps
 
