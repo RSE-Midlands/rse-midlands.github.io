@@ -14,6 +14,19 @@ We also have a mailing list to keep you up to date with RSE Midlands Coding Club
 
 # Upcoming talks
 
+
+## Pre-commit: protecting your future self
+
+**Date**: Monday 3rd July
+
+**Time**: 16:00 - 17:00
+
+*Speaker*: Neil Shephard
+
+If you use Git to version control your software development you can automate your work-flow by applying various linting, tests and code checks to your code before making commits using the pre-commit suite of Git Hooks. This talk gives a brief introduction to what Git, linting and tests are and shows how to incorporate pre-commit into your development and Continuous Integration pipelines to help improve the quality of code incorporated into your main codebase.
+
+# Previous talks
+
 ## What testing taught me
 
 **Date**: Thursday 22nd June
@@ -31,18 +44,6 @@ Zoom: [link](https://bham-ac-uk.zoom.us/j/82547847122?pwd=SUxCUFY4RFp5blRvQmlmR3
 Meeting ID: 825 4784 7122
 
 Passcode: 204357
-
-## Pre-commit: protecting your future self
-
-**Date**: Monday 3rd July
-
-**Time**: 16:00 - 17:00
-
-*Speaker*: Neil Shephard
-
-If you use Git to version control your software development you can automate your work-flow by applying various linting, tests and code checks to your code before making commits using the pre-commit suite of Git Hooks. This talk gives a brief introduction to what Git, linting and tests are and shows how to incorporate pre-commit into your development and Continuous Integration pipelines to help improve the quality of code incorporated into your main codebase.
-
-# Previous talks
 
 ## Presentation by NCSA
 
