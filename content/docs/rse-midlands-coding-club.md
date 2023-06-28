@@ -14,21 +14,6 @@ We also have a mailing list to keep you up to date with RSE Midlands Coding Club
 
 # Upcoming talks
 
-## What testing taught me
-
-**Date**: Thursday 22nd June
-
-**Time**: 11:00 - 12:00
-
-*Speaker*: Catherine (Cat) Smith
-
-In this talk I will highlight some of the things I learned when I started testing my code, and the code of other people. It is not a tutorial on how to write tests, so is not specific to a particular language. Instead it focusses on the general approach although I will use code examples where relevant. Most of this has been learned by trial and error and I hope that there will be time for others to share alternative approaches, or additional tips in the discussion afterwards.
-
-Zoom: [link](https://bham-ac-uk.zoom.us/j/82547847122?pwd=SUxCUFY4RFp5blRvQmlmR3BJV29NZz09)
-
-Meeting ID: 825 4784 7122
-
-Passcode: 204357
 
 ## Pre-commit: protecting your future self
 
@@ -41,6 +26,18 @@ Passcode: 204357
 If you use Git to version control your software development you can automate your work-flow by applying various linting, tests and code checks to your code before making commits using the pre-commit suite of Git Hooks. This talk gives a brief introduction to what Git, linting and tests are and shows how to incorporate pre-commit into your development and Continuous Integration pipelines to help improve the quality of code incorporated into your main codebase.
 
 # Previous talks
+
+## What testing taught me
+
+**Date**: Thursday 22nd June
+
+**Time**: 11:00 - 12:00
+
+*Speaker*: Catherine (Cat) Smith
+
+In this talk I will highlight some of the things I learned when I started testing my code, and the code of other people. It is not a tutorial on how to write tests, so is not specific to a particular language. Instead it focusses on the general approach although I will use code examples where relevant. Most of this has been learned by trial and error and I hope that there will be time for others to share alternative approaches, or additional tips in the discussion afterwards.
+
+*Presentation*: [link](https://bham-my.sharepoint.com/personal/g_yearwood_bham_ac_uk/_layouts/15/guestaccess.aspx?docid=0fb31777292164edd978c317c597198ca&authkey=AdewUuDgg1rDvUmKYRkjUiE&e=Q1m7wXa)
 
 ## Presentation by NCSA
 
@@ -63,11 +60,7 @@ We are delighted that the National Center for Supercomputing Applications ([NCSA
 
 John created his first program in 1978 on a black&white Tandy TRS80 machine, since then he has written numerous programs to complete many routine operational and research meteorology applications. This presentation will cover his experiences coding and the history of coding presented through 4 case studies
 
-Zoom: [link](https://bham-ac-uk.zoom.us/j/81439242221?pwd=cTBka2J3Z1ZqYnZqUDdSK0x3U2dUQT09)
-
-Meeting ID: 814 3924 2221
-
-Passcode: 063083
+*Presentation*: [link](https://bham-my.sharepoint.com/personal/g_yearwood_bham_ac_uk/_layouts/15/guestaccess.aspx?docid=0d6809b8877bb414ea4400a9d189bdbf4&authkey=AZrVbE2NUFaDSl-MKy-QaXE&e=MqHkT5)
 
 ## The creation of a regional group
 
@@ -88,15 +81,8 @@ regional group (RSE Midlands) and chairing the first inaugural event last year i
 
 And will provide interactive and advice session at the end to talk to people who have are interested in organising an event or just want to know how events can be created behind the scenes.
 
-To connect to the session please use the link below.
-
-Zoom: [link](https://bham-ac-uk.zoom.us/j/86916797582?pwd=YndkODNUK09DQXdIMnlWUzBkdFMzQT09)
-
-Meeting ID: 869 1679 7582
-
-Passcode: 701884
-
 ## Introduction to Docker
+
 **Date**: 18th Jan. 2023
 
 **Time**: 14:00-15:00
@@ -109,15 +95,8 @@ Passcode: 701884
 
 Docker provides a way to replicate a computing environment. We can then run software within the environment (container) to give us the same result each time, and each container can be generated from a single shareable template (image).  In this talk, James will introduce docker, present some practical examples, and open the floor for discussion. Docker is actively used in research and this presentation will hopefully provide an opportunity to explore how this might help you.
 
-To connect to the presentation please use the link below.
-
-Zoom: [link](https://bham-ac-uk.zoom.us/j/82563243400?pwd=TDdMTDkrOVhnK2IrR3FiMitBekRhdz09)
-
-Meeting ID: 825 6324 3400
-
-Passcode: 486515 (edited)
-
 ## Introduction
+
 **Date**: 23rd Nov. 2022
 
 **Time**: 14:00-15:00
