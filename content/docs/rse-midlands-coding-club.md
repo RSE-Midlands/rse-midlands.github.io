@@ -14,7 +14,7 @@ We also have a mailing list to keep you up to date with RSE Midlands Coding Club
 
 # Upcoming talks
 
-**Coding Club talks will return after summer hiatus**
+**Coding Club talks will return after a summer hiatus**
 
 # Previous talks
 
