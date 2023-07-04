@@ -14,6 +14,9 @@ We also have a mailing list to keep you up to date with RSE Midlands Coding Club
 
 # Upcoming talks
 
+**Coding Club talks will return after a summer hiatus**
+
+# Previous talks
 
 ## Pre-commit: protecting your future self
 
@@ -25,13 +28,7 @@ We also have a mailing list to keep you up to date with RSE Midlands Coding Club
 
 If you use Git to version control your software development you can automate your work-flow by applying various linting, tests and code checks to your code before making commits using the pre-commit suite of Git Hooks. This talk gives a brief introduction to what Git, linting and tests are and shows how to incorporate pre-commit into your development and Continuous Integration pipelines to help improve the quality of code incorporated into your main codebase.
 
-**Zoom**: [link](https://bham-ac-uk.zoom.us/j/85632967059?pwd=VVZuZ1ArS0liYStib0RUZ2VsWVk1UT09)
-
-**Meeting ID**: 856 3296 7059
-
-**Passcode**: 400058
-
-# Previous talks
+*Presentation*: [link](https://ns-rse.github.io/pre-commit/)
 
 ## What testing taught me
 
