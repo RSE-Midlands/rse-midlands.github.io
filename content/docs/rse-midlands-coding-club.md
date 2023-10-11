@@ -8,13 +8,17 @@ weight: 3
 ---
 ![RSE Midlands Coding Club Logo](/images/logo-RSE-midlands-coding-club.png)
 
-The RSE-Midlands coding club aims to provide frequent educational and informative presentations or workshops for Research Software Engineers (RSE) or those in RSE adjacent fields. The club will attract speakers primarily from throughout the midlands area to help solidify the RSE Midlands community. We'd love to hear from you about giving a speech or any other coding club queries, if interested please contact Gavin Yearwood [g.yearwood@bham.ac.uk](mailto:g.yearwood@bham.ac.uk)
+The RSE-Midlands coding club aims to provide frequent educational and informative presentations or workshops for Research Software Engineers (RSE) or those in RSE adjacent fields. The club will attract speakers primarily from throughout the midlands area to help solidify the RSE Midlands community. We'd love to hear from you about giving a speech or any other coding club queries, if interested please contact Gavin Yearwood [g.yearwood@bham.ac.uk](mailto:g.yearwood@bham.ac.uk).
 
 We also have a mailing list to keep you up to date with RSE Midlands Coding Club events which you can join by [following this link](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=RSE-MIDLANDS-CODING-CLUB-LIST&A=1).
 
+# Become a Coding Club Representative
+
+We are looking for representatives from each of the Midlands Universities to help organise and promote the RSE Midlands Coding Club. If you are interested in becoming a representative please contact Gavin Yearwood [g.yearwood@bham.ac.uk](mailto:g.yearwood@bham.ac.uk).
+
 # Upcoming talks
 
-**Coding Club talks will return after a summer hiatus**
+Coding Club talks are due to resume now that the academic year has started, **we would love to hear from anyone who wants to present a talk or demo to the club.** If you are interested please contact Gavin Yearwood [g.yearwood@bham.ac.uk](mailto:g.yearwood@bham.ac.uk).
 
 # Previous talks
 
