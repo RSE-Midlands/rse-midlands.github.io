@@ -96,7 +96,7 @@ And will provide interactive and advice session at the end to talk to people who
 
 *Speaker*: [James Tripp](https://jamestripp.net/)
 
-*Presentation*: [link](https://livewarwickac-my.sharepoint.com/:b:/g/personal/pssnac_live_warwick_ac_uk/Ed7hQy-QG5VLpPhBamLxyeUBsrX8eu-xvi6q1zn3gjUqMw?e=Aaht9I)
+*Presentation*: [Link](/pdfs/DockerIntro2023.pdf)
 
 *Abstract*
 
