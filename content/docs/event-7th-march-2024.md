@@ -11,7 +11,7 @@ weight: 3
 Thrusday 7th April 2024 saw the third edition of the RSE Midlands conference. 
 This year was hosted by the [University of Warwick](https://warwick.ac.uk/)
 at the University of Warwick’s beautiful [Scarman Conference Centre](https://warwick.ac.uk/services/conferences/spaces/scarman), 
-and sponsored by [CRiSM (the Centre for Research in Statistical Methodology in Statistics)](https://warwick.ac.uk/fac/sci/statistics/crism) and by the 
+and sponsored by [CRiSM (the Centre for Research in Statistical Methodology)](https://warwick.ac.uk/fac/sci/statistics/crism) and by the 
 [Society of Research Software Engineering](https://society-rse.org/).
 
 This year’s conference was a chance to build community, meet new and old friends, and learn more about the incredible 
@@ -23,7 +23,7 @@ in that field), with the afternoon on more general topics.
 Below you will find the arrangements for the day. Please look out for a blog post in
 the near future, summarising the day and looking forward to the next one!
 
-## Agenda
+## Agenda (to be updated)
 
 |||
 |--|--|
