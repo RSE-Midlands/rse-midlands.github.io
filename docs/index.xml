@@ -6,181 +6,35 @@
     <description>Recent content in Docs on RSE Midlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2023 15:00:00 +0000</lastBuildDate><atom:link href="http://rse-midlands.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jun 2023 15:00:00 +0000</lastBuildDate>
+    <atom:link href="http://rse-midlands.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 Annual Conference - 24th April, Nottingham</title>
       <link>http://rse-midlands.github.io/docs/event-24th-april-2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://rse-midlands.github.io/docs/event-24th-april-2023/</guid>
-      <description>&lt;p&gt;Monday 24th April 2023 saw the second edition of the RSE Midlands conference.
-This year was hosted by the &lt;a href=&#34;https://www.nottingham.ac.uk/dts/researcher/digital-research-service/digital-research-service.aspx&#34;&gt;Digital Research Service&lt;/a&gt;
-at the University of Nottingham’s beautiful &lt;a href=&#34;https://www.nottingham.ac.uk/about/campuses/universityparkcampus.aspx&#34;&gt;University Park Campus&lt;/a&gt;,
-and sponsored by &lt;a href=&#34;https://www.hdruk.ac.uk/&#34;&gt;Health Data Research UK&lt;/a&gt; and by the
-&lt;a href=&#34;https://society-rse.org/&#34;&gt;Society of Research Software Engineering&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This year’s conference was a chance to build community, meet new and old friends, and learn more about the incredible
-breadth of skills RSEs in the Midlands possess.&lt;/p&gt;
-&lt;p&gt;The morning had a focus on RSEs in Health Data (applicable to all RSEs, not just those working
-in that field), with the afternoon on more general topics.&lt;/p&gt;
-&lt;p&gt;Below you will find the arrangements for the day. Please look out for a blog post in
-the near future, summarising the day and looking forward to the next one!&lt;/p&gt;
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;9:30&lt;/td&gt;
-&lt;td&gt;Arrivals&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10:00&lt;/td&gt;
-&lt;td&gt;Welcome from Nottingham (Sam Cox)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;RSEs in Health Data&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10:30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.birmingham.ac.uk/staff/profiles/applied-health/gokhale-krishna.aspx&#34;&gt;Krishna Gokhale&lt;/a&gt; (HDR and Birmingham) - &lt;strong&gt;&amp;lsquo;Dexter - platform for Automated Epidemiology&amp;rsquo;&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11:15&lt;/td&gt;
-&lt;td&gt;Refreshment break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11:30&lt;/td&gt;
-&lt;td&gt;Tom Giles (Nottingham) - &lt;strong&gt;&amp;lsquo;Building an Open Ecosystem for Data Discovery though Academic and Industrial Collaboration&amp;rsquo;&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12:15&lt;/td&gt;
-&lt;td&gt;Round table&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12:30&lt;/td&gt;
-&lt;td&gt;Photo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12:45&lt;/td&gt;
-&lt;td&gt;Lunch&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;RSE&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:45&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/adam-seed-12450618/&#34;&gt;Adam Seed (ENSEK)&lt;/a&gt; - &lt;strong&gt;&amp;lsquo;ENSEK - An Enterprise SaaS company&amp;rsquo;&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:15&lt;/td&gt;
-&lt;td&gt;Lightning talks&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:45&lt;/td&gt;
-&lt;td&gt;Refreshments&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:00&lt;/td&gt;
-&lt;td&gt;Round table&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:30&lt;/td&gt;
-&lt;td&gt;Wrap up&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16:00&lt;/td&gt;
-&lt;td&gt;Close&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;We’d love to see you then. Book at &lt;a href=&#34;https://pretix.eu/rsemidlands/2023/&#34;&gt;https://pretix.eu/rsemidlands/2023/&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Thank you to all our wonderful lightning talk volunteers!&lt;/p&gt;
-&lt;p&gt;We don’t want finances to be a barrier to any attendees, and so the Society of Research Software Engineering has
-generously offered support with any travel expenses. Speak to us if you would like to take advantage of this help.&lt;/p&gt;
-&lt;h2 id=&#34;location-and-travel&#34;&gt;Location and travel&lt;/h2&gt;
-&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
-&lt;p&gt;The conference was be held in Room E06, Monica Partridge Building, University Park Campus.
-This is on the top floor. Stairs and lifts are available, and the building is fully accessible.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.google.co.uk/maps/place/Monica+Partridge+Building/@52.9388984,-1.1983711,19z/data=!4m6!3m5!1s0x4879c3e2d4c8dc83:0xb48fa08fd229d9a8!8m2!3d52.9391044!4d-1.1980617!16s%2Fg%2F11grnvrdxl&#34;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;travel&#34;&gt;Travel&lt;/h3&gt;
-&lt;p&gt;The University provides information for travel to University Park Campus: &lt;a href=&#34;https://www.nottingham.ac.uk/about/visitorinformation/mapsanddirections/universityparkcampus.aspx&#34;&gt;https://www.nottingham.ac.uk/about/visitorinformation/mapsanddirections/universityparkcampus.aspx&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;train&#34;&gt;Train&lt;/h4&gt;
-&lt;p&gt;If you&amp;rsquo;re travelling by train, travel to Nottingham Rail Station, and then grab a tram (heading to Toton Lane).
-Trams depart from the tram stop above the rail station, accessible from both the main rail station entrance and
-from the pedestrian bridge connecting platforms. Alight at &amp;ldquo;University of Nottingham&amp;rdquo; after approximately 10 minutes. The venue is a 10-15 minute walk (uphill, sorry!).&lt;/p&gt;
-&lt;h4 id=&#34;car&#34;&gt;Car&lt;/h4&gt;
-&lt;p&gt;If travelling by car, the closest public (pay and display) car park is
-&lt;a href=&#34;https://www.google.co.uk/maps/place/Main+Visitor+Car+Park/@52.940365,-1.1948261,299m/data=!3m1!1e3!4m6!3m5!1s0x4879c208ded048ed:0x19acb9ab0140e036!8m2!3d52.9407657!4d-1.1943649!16s%2Fg%2F11sb7cb_9h&#34;&gt;here&lt;/a&gt;,
-a few minutes&amp;rsquo; walk from the venue.
-You might also want to consider using the Park and Ride at Toton Lane (close to the M1). This provides free parking, and a frequent (not free) tram to University of Nottingham.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Monday 24th April 2023 saw the second edition of the RSE Midlands conference.&#xA;This year was hosted by the &lt;a href=&#34;https://www.nottingham.ac.uk/dts/researcher/digital-research-service/digital-research-service.aspx&#34;&gt;Digital Research Service&lt;/a&gt;&#xA;at the University of Nottingham’s beautiful &lt;a href=&#34;https://www.nottingham.ac.uk/about/campuses/universityparkcampus.aspx&#34;&gt;University Park Campus&lt;/a&gt;,&#xA;and sponsored by &lt;a href=&#34;https://www.hdruk.ac.uk/&#34;&gt;Health Data Research UK&lt;/a&gt; and by the&#xA;&lt;a href=&#34;https://society-rse.org/&#34;&gt;Society of Research Software Engineering&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This year’s conference was a chance to build community, meet new and old friends, and learn more about the incredible&#xA;breadth of skills RSEs in the Midlands possess.&lt;/p&gt;&#xA;&lt;p&gt;The morning had a focus on RSEs in Health Data (applicable to all RSEs, not just those working&#xA;in that field), with the afternoon on more general topics.&lt;/p&gt;&#xA;&lt;p&gt;Below you will find the arrangements for the day. Please look out for a blog post in&#xA;the near future, summarising the day and looking forward to the next one!&lt;/p&gt;&#xA;&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&lt;thead&gt;&#xA;&lt;tr&gt;&#xA;&lt;th&gt;&lt;/th&gt;&#xA;&lt;th&gt;&lt;/th&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/thead&gt;&#xA;&lt;tbody&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;9:30&lt;/td&gt;&#xA;&lt;td&gt;Arrivals&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;10:00&lt;/td&gt;&#xA;&lt;td&gt;Welcome from Nottingham (Sam Cox)&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;&lt;/td&gt;&#xA;&lt;td&gt;&lt;strong&gt;RSEs in Health Data&lt;/strong&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;10:30&lt;/td&gt;&#xA;&lt;td&gt;&lt;a href=&#34;https://www.birmingham.ac.uk/staff/profiles/applied-health/gokhale-krishna.aspx&#34;&gt;Krishna Gokhale&lt;/a&gt; (HDR and Birmingham) - &lt;strong&gt;&amp;lsquo;Dexter - platform for Automated Epidemiology&amp;rsquo;&lt;/strong&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;11:15&lt;/td&gt;&#xA;&lt;td&gt;Refreshment break&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;11:30&lt;/td&gt;&#xA;&lt;td&gt;Tom Giles (Nottingham) - &lt;strong&gt;&amp;lsquo;Building an Open Ecosystem for Data Discovery though Academic and Industrial Collaboration&amp;rsquo;&lt;/strong&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;12:15&lt;/td&gt;&#xA;&lt;td&gt;Round table&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;12:30&lt;/td&gt;&#xA;&lt;td&gt;Photo&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;12:45&lt;/td&gt;&#xA;&lt;td&gt;Lunch&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;&lt;/td&gt;&#xA;&lt;td&gt;&lt;strong&gt;RSE&lt;/strong&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;13:45&lt;/td&gt;&#xA;&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/adam-seed-12450618/&#34;&gt;Adam Seed (ENSEK)&lt;/a&gt; - &lt;strong&gt;&amp;lsquo;ENSEK - An Enterprise SaaS company&amp;rsquo;&lt;/strong&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;14:15&lt;/td&gt;&#xA;&lt;td&gt;Lightning talks&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;14:45&lt;/td&gt;&#xA;&lt;td&gt;Refreshments&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;15:00&lt;/td&gt;&#xA;&lt;td&gt;Round table&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;15:30&lt;/td&gt;&#xA;&lt;td&gt;Wrap up&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;16:00&lt;/td&gt;&#xA;&lt;td&gt;Close&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;We’d love to see you then. Book at &lt;a href=&#34;https://pretix.eu/rsemidlands/2023/&#34;&gt;https://pretix.eu/rsemidlands/2023/&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Thank you to all our wonderful lightning talk volunteers!&lt;/p&gt;&#xA;&lt;p&gt;We don’t want finances to be a barrier to any attendees, and so the Society of Research Software Engineering has&#xA;generously offered support with any travel expenses. Speak to us if you would like to take advantage of this help.&lt;/p&gt;&#xA;&lt;h2 id=&#34;location-and-travel&#34;&gt;Location and travel&lt;/h2&gt;&#xA;&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;&#xA;&lt;p&gt;The conference was be held in Room E06, Monica Partridge Building, University Park Campus.&#xA;This is on the top floor. Stairs and lifts are available, and the building is fully accessible.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.co.uk/maps/place/Monica+Partridge+Building/@52.9388984,-1.1983711,19z/data=!4m6!3m5!1s0x4879c3e2d4c8dc83:0xb48fa08fd229d9a8!8m2!3d52.9391044!4d-1.1980617!16s%2Fg%2F11grnvrdxl&#34;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;travel&#34;&gt;Travel&lt;/h3&gt;&#xA;&lt;p&gt;The University provides information for travel to University Park Campus: &lt;a href=&#34;https://www.nottingham.ac.uk/about/visitorinformation/mapsanddirections/universityparkcampus.aspx&#34;&gt;https://www.nottingham.ac.uk/about/visitorinformation/mapsanddirections/universityparkcampus.aspx&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;train&#34;&gt;Train&lt;/h4&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re travelling by train, travel to Nottingham Rail Station, and then grab a tram (heading to Toton Lane).&#xA;Trams depart from the tram stop above the rail station, accessible from both the main rail station entrance and&#xA;from the pedestrian bridge connecting platforms. Alight at &amp;ldquo;University of Nottingham&amp;rdquo; after approximately 10 minutes. The venue is a 10-15 minute walk (uphill, sorry!).&lt;/p&gt;&#xA;&lt;h4 id=&#34;car&#34;&gt;Car&lt;/h4&gt;&#xA;&lt;p&gt;If travelling by car, the closest public (pay and display) car park is&#xA;&lt;a href=&#34;https://www.google.co.uk/maps/place/Main+Visitor+Car+Park/@52.940365,-1.1948261,299m/data=!3m1!1e3!4m6!3m5!1s0x4879c208ded048ed:0x19acb9ab0140e036!8m2!3d52.9407657!4d-1.1943649!16s%2Fg%2F11sb7cb_9h&#34;&gt;here&lt;/a&gt;,&#xA;a few minutes&amp;rsquo; walk from the venue.&#xA;You might also want to consider using the Park and Ride at Toton Lane (close to the M1). This provides free parking, and a frequent (not free) tram to University of Nottingham.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Inaugural Meeting</title>
       <link>http://rse-midlands.github.io/docs/event-8th-june/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://rse-midlands.github.io/docs/event-8th-june/</guid>
-      <description>&lt;p&gt;In June 2022 we held our &lt;a href=&#34;https://rse-midlands.github.io/docs/event-8th-june/&#34;&gt;inaugural meeting&lt;/a&gt; at the University of Birmingham, with attendees from several cities across the Midlands. This event was organised by a committee of volunteers, and chaired by &lt;a href=&#34;https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx&#34;&gt;Gavin Yearwood&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Our organiser committee for this year are &lt;a href=&#34;https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/james-carpenter.aspx&#34;&gt;James Carpenter&lt;/a&gt;, &lt;a href=&#34;https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/andrew-edmondson.aspx&#34;&gt;Andrew Edmondson&lt;/a&gt;, &lt;a href=&#34;https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/adrian-garcia.aspx&#34;&gt;Adrian Garcia&lt;/a&gt;, &lt;a href=&#34;https://jamestripp.net&#34;&gt;James Tripp&lt;/a&gt;, &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/turner/&#34;&gt;Heather Turner&lt;/a&gt;, &lt;a href=&#34;https://warwick.ac.uk/fac/arts/research/digitalhumanities/team/contactus/&#34;&gt;Godwin Yeboah&lt;/a&gt;, and &lt;a href=&#34;https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/jenny-wong.aspx&#34;&gt;Jenny Wong&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
-&lt;p&gt;09:30 - 10:00 - Arrival tea and coffee&lt;/p&gt;
-&lt;p&gt;10:00 - 10:10 - RSE Midlands Welcome&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/intro.JPG&#34; alt=&#34;Intro&#34;&gt;&lt;/p&gt;
-&lt;p&gt;10:10 - 10:30 - Talk 1 - Claire Wyatt, RSE Community Manager, Software Sustainability Institute - Regional RSE Societies&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/RSE_society.JPG&#34; alt=&#34;RSE Society Talk&#34;&gt;&lt;/p&gt;
-&lt;p&gt;10:30 - 11:15 – Workshop - establishing an RSE Midlands Community&lt;/p&gt;
-&lt;p&gt;11:15 - 11:30 - Refreshment break&lt;/p&gt;
-&lt;p&gt;11:30 – 12:00 - Talk 2 – Rachael Ainsworth (SSI), “The Software Sustainability Institute Community and Events”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/SSI.JPG&#34; alt=&#34;SSI Presentation&#34;&gt;&lt;/p&gt;
-&lt;p&gt;12:00 - 12:45 - Lightning Talks&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/Lightning_all.jpg&#34; alt=&#34;Group lightening talks&#34;&gt;&lt;/p&gt;
-&lt;p&gt;12:45 - 13:45 - Lunch&lt;/p&gt;
-&lt;p&gt;13:45 - 14:15 - Talk 3 – Paul Graham (NVIDIA), “Getting started on using GPUs”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/Nvidia.JPG&#34; alt=&#34;Invidia&#34;&gt;&lt;/p&gt;
-&lt;p&gt;14:15 - 14:45 - Talk 4 - Andrew Mallinson (Intel), “An Introduction to the oneAPI Initiative”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/Intel.JPG&#34; alt=&#34;Intel&#34;&gt;&lt;/p&gt;
-&lt;p&gt;14:45 - 15:05 - Talk 5 - Jim Roche (Lenovo), “Carbon Controlled Computing and Climate Change - Our Responsibility”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/Lenovo.JPG&#34; alt=&#34;Lenovo&#34;&gt;&lt;/p&gt;
-&lt;p&gt;15:00 - 15:15 - Refreshment break&lt;/p&gt;
-&lt;p&gt;15:15 - 15:30 - Talk 6 – Matt Williams (Society of Research Software Engineering)&lt;/p&gt;
-&lt;p&gt;15:30 - 16:00 - Closing Talk&lt;/p&gt;
-&lt;h4 id=&#34;speakers&#34;&gt;Speakers&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.software.ac.uk/about/staff/person/claire-wyatt&#34;&gt;Claire Wyatt&lt;/a&gt;, RSE Community Manager, Software Sustainability Institute&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/rachaelevelyn&#34;&gt;Rachael Ainsworth&lt;/a&gt;, SSI&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/paul-graham-59026513/&#34;&gt;Paul Graham&lt;/a&gt;, NVIDIA&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/milliams&#34;&gt;Matt Williams&lt;/a&gt;, Society of Research Software Engineering&lt;/p&gt;
-&lt;p&gt;Andrew Mallinson, Intel&lt;/p&gt;
-&lt;p&gt;Jim Roche, Lenovo&lt;/p&gt;
-&lt;h3 id=&#34;sponsors&#34;&gt;Sponsors&lt;/h3&gt;
-&lt;p&gt;We are pleased to announce the following organisations are sponsors of our Inaugural meeting.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://society-rse.org/&#34;&gt;&lt;img src=&#34;http://rse-midlands.github.io/images/logo-rse-s.png&#34; alt=&#34;Society of Research Software Engineering&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://support.lenovo.com/gb/en&#34;&gt;&lt;img src=&#34;http://rse-midlands.github.io/images/logo-lenovo.png&#34; alt=&#34;Lenovo&#34;&gt;&lt;/a&gt;  &lt;a href=&#34;https://www.nvidia.com/en-gb/&#34;&gt;&lt;img src=&#34;http://rse-midlands.github.io/images/logo-nvidia-elite-partner-s.png&#34; alt=&#34;NVidia&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.ocf.co.uk/&#34;&gt;&lt;img src=&#34;http://rse-midlands.github.io/images/logo-OCF-s.jpg&#34; alt=&#34;OCF&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;In June 2022 we held our &lt;a href=&#34;https://rse-midlands.github.io/docs/event-8th-june/&#34;&gt;inaugural meeting&lt;/a&gt; at the University of Birmingham, with attendees from several cities across the Midlands. This event was organised by a committee of volunteers, and chaired by &lt;a href=&#34;https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx&#34;&gt;Gavin Yearwood&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Our organiser committee for this year are &lt;a href=&#34;https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/james-carpenter.aspx&#34;&gt;James Carpenter&lt;/a&gt;, &lt;a href=&#34;https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/andrew-edmondson.aspx&#34;&gt;Andrew Edmondson&lt;/a&gt;, &lt;a href=&#34;https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/adrian-garcia.aspx&#34;&gt;Adrian Garcia&lt;/a&gt;, &lt;a href=&#34;https://jamestripp.net&#34;&gt;James Tripp&lt;/a&gt;, &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/turner/&#34;&gt;Heather Turner&lt;/a&gt;, &lt;a href=&#34;https://warwick.ac.uk/fac/arts/research/digitalhumanities/team/contactus/&#34;&gt;Godwin Yeboah&lt;/a&gt;, and &lt;a href=&#34;https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/jenny-wong.aspx&#34;&gt;Jenny Wong&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;&#xA;&lt;p&gt;09:30 - 10:00 - Arrival tea and coffee&lt;/p&gt;&#xA;&lt;p&gt;10:00 - 10:10 - RSE Midlands Welcome&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/intro.JPG&#34; alt=&#34;Intro&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;10:10 - 10:30 - Talk 1 - Claire Wyatt, RSE Community Manager, Software Sustainability Institute - Regional RSE Societies&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/RSE_society.JPG&#34; alt=&#34;RSE Society Talk&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;10:30 - 11:15 – Workshop - establishing an RSE Midlands Community&lt;/p&gt;&#xA;&lt;p&gt;11:15 - 11:30 - Refreshment break&lt;/p&gt;&#xA;&lt;p&gt;11:30 – 12:00 - Talk 2 – Rachael Ainsworth (SSI), “The Software Sustainability Institute Community and Events”&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/SSI.JPG&#34; alt=&#34;SSI Presentation&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;12:00 - 12:45 - Lightning Talks&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/Lightning_all.jpg&#34; alt=&#34;Group lightening talks&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;12:45 - 13:45 - Lunch&lt;/p&gt;&#xA;&lt;p&gt;13:45 - 14:15 - Talk 3 – Paul Graham (NVIDIA), “Getting started on using GPUs”&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/Nvidia.JPG&#34; alt=&#34;Invidia&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;14:15 - 14:45 - Talk 4 - Andrew Mallinson (Intel), “An Introduction to the oneAPI Initiative”&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/Intel.JPG&#34; alt=&#34;Intel&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;14:45 - 15:05 - Talk 5 - Jim Roche (Lenovo), “Carbon Controlled Computing and Climate Change - Our Responsibility”&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://rse-midlands.github.io/photos/Lenovo.JPG&#34; alt=&#34;Lenovo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;15:00 - 15:15 - Refreshment break&lt;/p&gt;&#xA;&lt;p&gt;15:15 - 15:30 - Talk 6 – Matt Williams (Society of Research Software Engineering)&lt;/p&gt;&#xA;&lt;p&gt;15:30 - 16:00 - Closing Talk&lt;/p&gt;&#xA;&lt;h4 id=&#34;speakers&#34;&gt;Speakers&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.software.ac.uk/about/staff/person/claire-wyatt&#34;&gt;Claire Wyatt&lt;/a&gt;, RSE Community Manager, Software Sustainability Institute&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/rachaelevelyn&#34;&gt;Rachael Ainsworth&lt;/a&gt;, SSI&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/paul-graham-59026513/&#34;&gt;Paul Graham&lt;/a&gt;, NVIDIA&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/milliams&#34;&gt;Matt Williams&lt;/a&gt;, Society of Research Software Engineering&lt;/p&gt;&#xA;&lt;p&gt;Andrew Mallinson, Intel&lt;/p&gt;&#xA;&lt;p&gt;Jim Roche, Lenovo&lt;/p&gt;&#xA;&lt;h3 id=&#34;sponsors&#34;&gt;Sponsors&lt;/h3&gt;&#xA;&lt;p&gt;We are pleased to announce the following organisations are sponsors of our Inaugural meeting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://society-rse.org/&#34;&gt;&lt;img src=&#34;http://rse-midlands.github.io/images/logo-rse-s.png&#34; alt=&#34;Society of Research Software Engineering&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://support.lenovo.com/gb/en&#34;&gt;&lt;img src=&#34;http://rse-midlands.github.io/images/logo-lenovo.png&#34; alt=&#34;Lenovo&#34;&gt;&lt;/a&gt;  &lt;a href=&#34;https://www.nvidia.com/en-gb/&#34;&gt;&lt;img src=&#34;http://rse-midlands.github.io/images/logo-nvidia-elite-partner-s.png&#34; alt=&#34;NVidia&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.ocf.co.uk/&#34;&gt;&lt;img src=&#34;http://rse-midlands.github.io/images/logo-OCF-s.jpg&#34; alt=&#34;OCF&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>RSE Midlands Coding Club</title>
       <link>http://rse-midlands.github.io/docs/rse-midlands-coding-club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://rse-midlands.github.io/docs/rse-midlands-coding-club/</guid>
-      <description>The RSE-Midlands coding club aims to provide frequent educational and informative presentations or workshops for Research Software Engineers (RSE) or those in RSE adjacent fields. The club will attract speakers primarily from throughout the midlands area to help solidify the RSE Midlands community. We&amp;rsquo;d love to hear from you about giving a speech or any other coding club queries, if interested please contact Gavin Yearwood g.yearwood@bham.ac.uk.
-We also have a mailing list to keep you up to date with RSE Midlands Coding Club events which you can join by following this link.</description>
+      <description>The RSE-Midlands coding club aims to provide frequent educational and informative presentations or workshops for Research Software Engineers (RSE) or those in RSE adjacent fields. The club will attract speakers primarily from throughout the midlands area to help solidify the RSE Midlands community. We&amp;rsquo;d love to hear from you about giving a speech or any other coding club queries, if interested please contact Gavin Yearwood g.yearwood@bham.ac.uk.&#xA;We also have a mailing list to keep you up to date with RSE Midlands Coding Club events which you can join by following this link.</description>
     </item>
-    
     <item>
       <title>National Center for Supercomputing Applications</title>
       <link>http://rse-midlands.github.io/docs/talks/14-06-2023-ncsa/</link>
       <pubDate>Wed, 14 Jun 2023 15:00:00 +0000</pubDate>
-      
       <guid>http://rse-midlands.github.io/docs/talks/14-06-2023-ncsa/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
