@@ -34,7 +34,7 @@ unsafe= true
   twitter = "RSE_Midlands"
   github = "RSE-Midlands"
   linkedin = "groups/12657864"
-
+  mastodon = "RSE_Midlands"
 
 [menu]
   [[menu.main]]
@@ -51,11 +51,17 @@ unsafe= true
     name = "8th June 2022"
     url = "/docs/event-8th-june"
     parent = "category"
-    weight = 1
+    weight = 3
   [[menu.main]]
     identifier = "category2"
     name = "24th April 2023"
     url = "/docs/event-24th-april-2023"
+    parent = "category"
+    weight = 2
+  [[menu.main]]
+    identifier = "category3"
+    name = "7th March 2024"
+    url = "/docs/event-7th-march-2024"
     parent = "category"
     weight = 1
   [[menu.main]]
