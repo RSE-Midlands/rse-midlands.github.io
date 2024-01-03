@@ -69,4 +69,9 @@ unsafe= true
     name = "Coding Club"
     url = "/docs/rse-midlands-coding-club"
     weight = 4
+  [[menu.main]]
+    identifier = "Representatives"
+    name = "Representatives"
+    url = "/docs/representatives"
+    weight = 5
 # https://codingnconcepts.com/hugo/nested-menu-hugo/
