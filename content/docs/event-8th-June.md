@@ -8,9 +8,9 @@ pager: false
 weight: 3
 ---
 
-In June 2022 we held our [inaugural meeting](https://rse-midlands.github.io/docs/event-8th-june/) at the University of Birmingham, with attendees from several cities across the Midlands. This event was organised by a committee of volunteers, and chaired by [Gavin Yearwood](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx).
+In June 2022 we held our [inaugural meeting](https://rse-midlands.github.io/docs/event-8th-june/) at the University of Birmingham, with attendees from several cities across the Midlands. This event was organised by a committee of volunteers, and chaired by [Gavin Yearwood](https://www.birmingham.ac.uk/research/arc/rsg/staff/gavin-yearwood.aspx).
 
-Our organiser committee for this year are [James Carpenter](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/james-carpenter.aspx), [Andrew Edmondson](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/andrew-edmondson.aspx), [Adrian Garcia](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/adrian-garcia.aspx), [James Tripp](https://jamestripp.net), [Heather Turner](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/turner/), [Godwin Yeboah](https://warwick.ac.uk/fac/arts/research/digitalhumanities/team/contactus/), and [Jenny Wong](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/jenny-wong.aspx).
+Our organiser committee for this year are [James Carpenter](https://www.birmingham.ac.uk/research/arc/rsg/staff/james-carpenter.aspx), [Andrew Edmondson](https://www.birmingham.ac.uk/research/arc/rsg/staff/andrew-edmondson.aspx), [Adrian Garcia](https://www.birmingham.ac.uk/research/arc/rsg/staff/adrian-garcia.aspx), [James Tripp](https://jamestripp.net), [Heather Turner](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/turner/), [Godwin Yeboah](https://warwick.ac.uk/fac/arts/research/digitalhumanities/team/contactus/), and [Jenny Wong](https://uk.linkedin.com/in/thisisjennywong).
 
 ### Agenda
 
