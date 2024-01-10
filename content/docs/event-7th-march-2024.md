@@ -8,47 +8,38 @@ pager: false
 weight: 3
 ---
 
-Thrusday 7th April 2024 saw the third edition of the RSE Midlands conference. 
-This year was hosted by the [University of Warwick](https://warwick.ac.uk/)
+Thursday 7th March 2024 sees the third edition of the RSE Midlands conference. 
+This year is hosted by the [University of Warwick](https://warwick.ac.uk/)
 at the University of Warwick’s beautiful [Scarman Conference Centre](https://warwick.ac.uk/services/conferences/spaces/scarman), 
 and sponsored by [CRiSM (the Centre for Research in Statistical Methodology)](https://warwick.ac.uk/fac/sci/statistics/crism) and by the 
 [Society of Research Software Engineering](https://society-rse.org/).
 
-This year’s conference was a chance to build community, meet new and old friends, and learn more about the incredible 
+This year’s conference is a chance to build community, meet new and old friends, and learn more about the incredible 
 breadth of skills RSEs in the Midlands possess.
 
-The morning had a focus on RSEs in ""**INSERT**"" (applicable to all RSEs, not just those working
-in that field), with the afternoon on more general topics. 
+Below you will find the arrangements for the day.
 
-Below you will find the arrangements for the day. Please look out for a blog post in
-the near future, summarising the day and looking forward to the next one!
-
-## Agenda (to be updated)
+## Agenda (work in progress)
 
 |||
 |--|--|
-| 9:30 | Arrivals |
-| 10:00 | 'Welcome to Warwick' talks (TBC) |
-|   | **sub-theme TBD or removed** |
-| 10:30 | [1st speaker's name or remove](https://www...) (Affiliation) - __'Hold for 1st speaker's topic'__ |
+| 9:30 | Arrivals, tea and coffee |
+| 10:00 | Talks: Welcome to Warwick |
+| 10:30 | Talks: Perspectives of RSE at Warwick |
 | 11:15 | Refreshment break |
-| 11:30 | [2nd speaker's name or remove](https://www...) (Affiliation) - __'Hold for 2nd speaker's topic'__ |
-| 12:15 | Round table |
-| 12:30 | Photo |
+| 11:45 | Group discussion: RSEs as part of the research infrastructure |
+| 12:30 | Group photo |
 | 12:45 | Lunch |
-|   | **sub-theme TBD or removed** |
-| 13:45 | [3rd speaker's name or remove](https://www...) (Affiliation) - __'Hold for 3rd speaker's topic'__ |
-| 14:15 | Lightning talks |
-| 14:45 | Refreshments |
-| 15:00 | Round table |
-| 15:30 | Wrap up |
-| 16:00 | Close |
+| 13:45 | Talks: RSE Community |
+| 14:15 | Lightning talks from participants |
+| 15:00 | Refreshments |
+| 15:30 | Panel: Heterogeneous computing |
+| 16:15 | Closing remarks |
+| 16:30 | Optional social, Scarman bar |
 
-We’d love to see you then. Book at [https://pretix.eu/rsemidlands/2024/](https://pretix.eu/rsemidlands/2024/). 
+We’d love to see you at the event - registration is free. Book at [https://pretix.eu/rsemidlands/2024/](https://pretix.eu/rsemidlands/2024/). 
 
-Thank you to all our wonderful lightning talk volunteers!
-
-We don’t want finances to be a barrier to any attendees, and so [the Society of Research Software Engineering](https://society-rse.org) and [CRiSM (the Centre for Research in Statistical Methodology in Statistics)](https://warwick.ac.uk/fac/sci/statistics/crism) have generously offered support with any travel expenses. Speak to us if you would like to take advantage of this help.
+We don’t want finances to be a barrier to any attendees, and so [the Society of Research Software Engineering](https://society-rse.org) has generously offered support with any travel expenses. Speak to us if you would like to take advantage of this help.
 
 ## Location and travel
 
