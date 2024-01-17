@@ -1,5 +1,7 @@
 ---
-title: 2024 Annual Conference - 7th March, University of Warwick, Coventry.
+title: |
+  2024 Annual Conference - 
+  7th March, University of Warwick, Coventry
 description: Details of the 2024 meeting of the RSE Midlands group
 date:
 authorbox: false
@@ -7,6 +9,8 @@ sidebar: false
 pager: false
 weight: 3
 ---
+
+![Scarman Conference Centre](/photos/scarman.jpg)
 
 Thursday 7th March 2024 sees the third edition of the RSE Midlands conference. 
 This year is hosted by the [University of Warwick](https://warwick.ac.uk/)
@@ -21,8 +25,8 @@ Below you will find the arrangements for the day.
 
 ## Agenda (work in progress)
 
-|||
-|--|--|
+|Time| Activity |
+|--|:--|
 | 9:30 | Arrivals, tea and coffee |
 | 10:00 | Talks: Welcome to Warwick |
 |       | - Welcome from organizing committee |
@@ -46,6 +50,8 @@ Below you will find the arrangements for the day.
 |       |  - Panelists TBC |
 | 16:15 | Closing remarks |
 | 16:30 | Optional social, Scarman bar |
+
+## Registration
 
 We’d love to see you at the event - registration is free. Book at [https://pretix.eu/rsemidlands/2024/](https://pretix.eu/rsemidlands/2024/). 
 
@@ -86,5 +92,11 @@ The U1 and U2 buses serve Warwick Conferences from Leamington Spa. Both services
 If you are travelling by car, the postcode for Scarman building is CV4 7SH and it is located within the University of Warwick campus.
 
 Scarman conference centre is located on central campus, which is signposted off Gibbet Hill Road. Both [static](https://warwick.ac.uk/about/visiting/maps/map_central-campus-september_20204.pdf) and [interactive](https://warwick.ac.uk/maps/) central campus are available from the provided links.
+
+## Sponsors
+
+{{< flex-container >}}
+[![CRiSM](/images/logo-CRiSM.jpg)](https://warwick.ac.uk/fac/sci/statistics/crism/)[![Society of Research Software Engineering](/images/logo-rse-s.png)](https://society-rse.org/)
+{{< /flex-container >}}
 
 <!--more-->
