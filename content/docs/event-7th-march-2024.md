@@ -25,15 +25,25 @@ Below you will find the arrangements for the day.
 |--|--|
 | 9:30 | Arrivals, tea and coffee |
 | 10:00 | Talks: Welcome to Warwick |
+|       | - Welcome from organizing committee |
+|       | - Overview of research computing at Warwick (Matt Ismail, Technical Director of Research Computing) |
+|       | - The Sulis HPC Platform for Ensemble Computing (David Quigley, Director of the Scientific Computing Research Technology Platform) 
 | 10:30 | Talks: Perspectives of RSE at Warwick |
+|       | - Sulis user case study (Nicholas Hine, Professor, Physics) |
+|       | - RSE in Bioinformatics & Biological Sciences (Paul Brown, Senior Research Fellow, Bioinformatics RTP/SBIDER) |
+|       | - RSE in Digital Humanities (Godwin Yeboah, Senior RSE, Digital Humanities Team)
 | 11:15 | Refreshment break |
 | 11:45 | Group discussion: RSEs as part of the research infrastructure |
+|       | - led by Ella Kaye, RSE, Statistics |
 | 12:30 | Group photo |
 | 12:45 | Lunch |
 | 13:45 | Talks: RSE Community |
+|       |  - The Software Sustainability Institute (Oscar Seip, SSI Community Manager) |
+|       |  - Second speaker TBC |
 | 14:15 | Lightning talks from participants |
 | 15:00 | Refreshments |
 | 15:30 | Panel: Heterogeneous computing |
+|       |  - Panelists TBC |
 | 16:15 | Closing remarks |
 | 16:30 | Optional social, Scarman bar |
 
