@@ -15,7 +15,7 @@ weight: 3
 Thursday 7th March 2024 sees the third edition of the RSE Midlands conference. 
 This year is hosted by the [University of Warwick](https://warwick.ac.uk/)
 at the University of Warwick’s beautiful [Scarman Conference Centre](https://warwick.ac.uk/services/conferences/spaces/scarman), 
-and sponsored by [CRiSM (the Centre for Research in Statistical Methodology)](https://warwick.ac.uk/fac/sci/statistics/crism) and by the 
+and is sponsored by [CRiSM (the Centre for Research in Statistical Methodology)](https://warwick.ac.uk/fac/sci/statistics/crism) and by the 
 [Society of Research Software Engineering](https://society-rse.org/).
 
 This year’s conference is a chance to build community, meet new and old friends, and learn more about the incredible 
@@ -92,6 +92,10 @@ The U1 and U2 buses serve Warwick Conferences from Leamington Spa. Both services
 If you are travelling by car, the postcode for Scarman building is CV4 7SH and it is located within the University of Warwick campus.
 
 Scarman conference centre is located on central campus, which is signposted off Gibbet Hill Road. Both [static](https://warwick.ac.uk/about/visiting/maps/map_central-campus-september_20204.pdf) and [interactive](https://warwick.ac.uk/maps/) central campus are available from the provided links.
+
+## Organising Committee
+
+Our organising committee for this year are [Ella Kaye](https://ellakaye.co.uk/), [Pip Grylls](https://www.linkedin.com/in/philip-grylls/), [Heather Turner](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/turner/), and [Godwin Yeboah](https://warwick.ac.uk/fac/arts/research/digitalhumanities/team/contactus/).
 
 ## Sponsors
 
