@@ -43,7 +43,7 @@ Below you will find the arrangements for the day.
 | 12:45 | Lunch |
 | 13:45 | Talks: RSE Community |
 |       |  - The Software Sustainability Institute (Oscar Seip, SSI Community Manager) |
-|       |  - Second speaker TBC |
+|       |  - The Society of Research Software Engineering (Speaker, TBC) |
 | 14:15 | Lightning talks from participants |
 |       |  - RSE Midlands Coding Club (Gavin Yearwood, Research Applications Specialist, Birmingham) |
 |       |  - Data engineering for research data collection (Joe Heffer, Senior Research Data Engineer, Sheffield) |
