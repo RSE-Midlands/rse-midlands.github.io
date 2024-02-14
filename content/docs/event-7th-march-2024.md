@@ -45,6 +45,12 @@ Below you will find the arrangements for the day.
 |       |  - The Software Sustainability Institute (Oscar Seip, SSI Community Manager) |
 |       |  - Second speaker TBC |
 | 14:15 | Lightning talks from participants |
+|       |  - RSE Midlands Coding Club (Gavin Yearwood, Research Applications Specialist, Birmingham) |
+|       |  - TBC (Joe Heffer, Senior Research Data Engineer, Sheffield) |
+|       |  - Making your work replicable (James Brusey, Professor Comp Science, Coventry) | 
+|       |  - Helping run the centralised RSE service at UoB (James Tyrrell, RSE, Birmingham) | 
+|       |  - From industry to academia; crossovers and differences (Iqra Jilani, PGR, AI, Coventry) | 
+|       |  - An Unheard Road: Using Mobile Applications to Capture WiFi/Bluetooth Signals on Holyhead Road (Iain Emsley, RSE, Warwick) |
 | 15:00 | Refreshments |
 | 15:30 | Panel: Heterogeneous computing |
 |       |  - Panelists TBC |
