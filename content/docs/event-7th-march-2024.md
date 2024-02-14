@@ -46,7 +46,7 @@ Below you will find the arrangements for the day.
 |       |  - Second speaker TBC |
 | 14:15 | Lightning talks from participants |
 |       |  - RSE Midlands Coding Club (Gavin Yearwood, Research Applications Specialist, Birmingham) |
-|       |  - TBC (Joe Heffer, Senior Research Data Engineer, Sheffield) |
+|       |  - Data engineering for research data collection (Joe Heffer, Senior Research Data Engineer, Sheffield) |
 |       |  - Making your work replicable (James Brusey, Professor Comp Science, Coventry) | 
 |       |  - Helping run the centralised RSE service at UoB (James Tyrrell, RSE, Birmingham) | 
 |       |  - From industry to academia; crossovers and differences (Iqra Jilani, PGR, AI, Coventry) | 
