@@ -39,8 +39,8 @@ Below you will find the arrangements for the day.
 | 11:15 | Refreshment break |
 | 11:45 | Group discussion: RSEs as part of the research infrastructure |
 |       | - led by Ella Kaye, RSE, Statistics |
-| 12:30 | Group photo |
-| 12:45 | Lunch |
+| 12:15 | Lunch |
+| 13:30 | Group photo |
 | 13:45 | Talks: RSE Community |
 |       |  - The Software Sustainability Institute (Oscar Seip, SSI Community Manager) |
 |       |  - The Society of Research Software Engineering (Speaker, TBC) |
