@@ -37,7 +37,7 @@ Below you will find the arrangements for the day.
 |       | - RSE in Bioinformatics & Biological Sciences (Paul Brown, Senior Research Fellow, Bioinformatics RTP/SBIDER) |
 |       | - RSE in Digital Humanities (Godwin Yeboah, Senior RSE, Digital Humanities Team)
 | 11:15 | Refreshment break |
-| 11:45 | Group discussion: RSEs as part of the research infrastructure |
+| 11:35 | Group discussion: RSEs as part of the research infrastructure |
 |       | - led by Ella Kaye, RSE, Statistics |
 | 12:15 | Lunch |
 | 13:30 | Group photo |
