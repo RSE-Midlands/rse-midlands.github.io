@@ -99,6 +99,12 @@ If you are travelling by car, the postcode for Scarman building is CV4 7SH and i
 
 Scarman conference centre is located on central campus, which is signposted off Gibbet Hill Road. Both [static](https://warwick.ac.uk/about/visiting/maps/map_central-campus-september_20204.pdf) and [interactive](https://warwick.ac.uk/maps/) central campus are available from the provided links.
 
+## Further practical information
+
+Warwick Conferences provide general [information for delegates at Scarman events](./Delegate_Information.pdf).
+
+Car parks are marked on the [PDF campus map](./WarwickUni_Campus_Map.pdf), any one coming by car is recommended to park in the Scarman car park (turn off towards the Scarman building and continue past reception to the car park behind the building).
+
 ## Organising Committee
 
 Our organising committee for this year are [Ella Kaye](https://ellakaye.co.uk/), [Pip Grylls](https://www.linkedin.com/in/philip-grylls/), [Heather Turner](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/turner/), and [Godwin Yeboah](https://warwick.ac.uk/fac/arts/research/digitalhumanities/team/contactus/).
