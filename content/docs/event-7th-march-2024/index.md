@@ -23,7 +23,7 @@ breadth of skills RSEs in the Midlands possess.
 
 Below you will find the arrangements for the day.
 
-## Agenda (work in progress)
+## Agenda
 
 |Time| Activity |
 |--|:--|
@@ -38,12 +38,12 @@ Below you will find the arrangements for the day.
 |       | - RSE in Digital Humanities (Godwin Yeboah, Senior RSE, Digital Humanities Team)
 | 11:15 | Refreshment break |
 | 11:35 | Group discussion: RSEs as part of the research infrastructure |
-|       | - led by Ella Kaye, RSE, Statistics |
+|       | - led by Ella Kaye, RSE, Warwick |
 | 12:15 | Lunch |
 | 13:30 | Group photo |
 | 13:45 | Talks: RSE Community |
 |       |  - The Software Sustainability Institute (Oscar Seip, SSI Community Manager) |
-|       |  - The Society of Research Software Engineering (Speaker, TBC) |
+|       |  - The Society of Research Software Engineering (Heather Turner, EPSRC Fellow, Warwick) |
 | 14:15 | Lightning talks from participants |
 |       |  - RSE Midlands Coding Club (Gavin Yearwood, Research Applications Specialist, Birmingham) |
 |       |  - Data engineering for research data collection (Joe Heffer, Senior Research Data Engineer, Sheffield) |
@@ -53,7 +53,9 @@ Below you will find the arrangements for the day.
 |       |  - An Unheard Road: Using Mobile Applications to Capture WiFi/Bluetooth Signals on Holyhead Road (Iain Emsley, RSE, Warwick) |
 | 15:00 | Refreshments |
 | 15:30 | Panel: Heterogeneous computing |
-|       |  - Panelists TBC |
+|       |  - Tom Deakin, University of Bristol (independent expert in heterogeneous compute) |
+|       |  - Paul Graham, Nvidia |
+|       |  - Fouzhan Hosseini, Intel (joining remotely) |
 | 16:15 | Closing remarks |
 | 16:30 | Optional social, Scarman bar |
 
