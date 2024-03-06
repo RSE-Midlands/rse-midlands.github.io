@@ -42,7 +42,7 @@ Below you will find the arrangements for the day.
 | 12:15 | Lunch |
 | 13:30 | Group photo |
 | 13:45 | Talks: RSE Community |
-|       |  - The Software Sustainability Institute (Oscar Seip, SSI Community Manager) |
+|       |  - The Software Sustainability Institute (Oscar Seip, SSI Community Officer) |
 |       |  - The Society of Research Software Engineering (Heather Turner, EPSRC Fellow, Warwick) |
 | 14:15 | Lightning talks from participants |
 |       |  - RSE Midlands Coding Club (Gavin Yearwood, Research Applications Specialist, Birmingham) |
