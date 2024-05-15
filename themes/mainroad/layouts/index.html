@@ -1,62 +1,64 @@
 {{ define "main" }}
 <main class="main list" role="main">
-	<div class="content main__content clearfix">
-		<p>
-			Welcome to RSE Midlands! We are a community of Research Software Engineers (RSEs) within the Midlands in
-			England.
-		</p>
+    <div class="content main__content clearfix">
+        <p>
+            Welcome to RSE Midlands! We are a community of Research Software Engineers (RSEs) within the Midlands in
+            England.
+        </p>
 
-		<h2>RSE Midlands 2024</h2>
-		<p>
-			The RSE Midlands 2024 meeting was hosted by the the University of Warwick on Thursday the 7th of March 2024. The event was sponsored by CRiSM (the Centre for Research in Statistical Methodology) and by the Society of Research Software Engineering. 
-		</p>
-		<p>
-			More details are available <a href="https://rse-midlands.github.io/docs/event-7th-march-2024/">here</a>.
-		</p>
+        <h2>RSE Midlands 2024</h2>
+        <p>
+            The RSE Midlands 2024 meeting was hosted by the the University of Warwick on Thursday the 7th of March 2024.
+            The event was sponsored by CRiSM (the Centre for Research in Statistical Methodology) and by the Society of
+            Research Software Engineering.
+        </p>
+        <p>
+            More details are available <a href="https://rse-midlands.github.io/docs/event-7th-march-2024/">here</a>.
+        </p>
 
-		<h2>RSE Midlands 2023</h2>
-		<p>
-			The RSE Midlands 2023 meeting was hosted by the Digital Research Service at the University of Nottingham
-			on Monday the 24th of April 2023. The meeting included two sessions: the morning session on health data and
-			the
-			afternoon one on more general RSE topics.
-		</p>
-		<p>
-			More details are available <a href="https://rse-midlands.github.io/docs/event-24th-april-2023/">here</a>.
-		</p>
+        <h2>RSE Midlands 2023</h2>
+        <p>
+            The RSE Midlands 2023 meeting was hosted by the Digital Research Service at the University of Nottingham
+            on Monday the 24th of April 2023. The meeting included two sessions: the morning session on health data and
+            the
+            afternoon one on more general RSE topics.
+        </p>
+        <p>
+            More details are available <a href="https://rse-midlands.github.io/docs/event-24th-april-2023/">here</a>.
+        </p>
 
-		<h2>RSE Midlands 2022</h2>
-		<p> In June 2022 we held our <a href="https://rse-midlands.github.io/docs/event-8th-june/">inaugural meeting</a>
-			at the University of Birmingham, with attendees from several
-			cities across the Midlands. This event was organised by a committee of volunteers, and chaired by <a
-				href="https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx">Gavin
-				Yearwood</a>. This committee is continuing in place and will organise ad hoc online events in 2022. We
-			are in
-			the process of recruiting a new commitee to plan and run our next in person event, RSE Midlands 2023.
-		</p>
-		<h2>Get involved</h2>
-		<p>
-			Please join our slack channel "<a href="https://ukrse.slack.com/archives/C02333HNA64">#midlands</a>" in the
-			<a href="https://join.slack.com/t/ukrse/signup">RSE Society's slack workspace</a> and follow us <a
-				href="https://twitter.com/RSE_Midlands">on twitter</a>!
-			We are also planning to hold an informal RSE Midlands get-together at RSECon22, at lunchtime on Wednesday 7
-			September. To express an interest in this get-together please get in touch via our <a
-				href="https://ukrse.slack.com/archives/C02333HNA64">#midlands</a> slack channel.
-		</p>
+        <h2>RSE Midlands 2022</h2>
+        <p> In June 2022 we held our <a href="https://rse-midlands.github.io/docs/event-8th-june/">inaugural meeting</a>
+            at the University of Birmingham, with attendees from several
+            cities across the Midlands. This event was organised by a committee of volunteers, and chaired by <a
+                href="https://www.birmingham.ac.uk/research/arc/rsg/staff/gavin-yearwoodx">Gavin
+                Yearwood</a>. This committee is continuing in place and will organise ad hoc online events in 2022. We
+            are in
+            the process of recruiting a new commitee to plan and run our next in person event, RSE Midlands 2023.
+        </p>
+        <h2>Get involved</h2>
+        <p>
+            Please join our slack channel "<a href="https://ukrse.slack.com/archives/C02333HNA64">#midlands</a>" in the
+            <a href="https://join.slack.com/t/ukrse/signup">RSE Society's slack workspace</a> and follow us <a
+                href="https://twitter.com/RSE_Midlands">on twitter</a>!
+            We are also planning to hold an informal RSE Midlands get-together at RSECon22, at lunchtime on Wednesday 7
+            September. To express an interest in this get-together please get in touch via our <a
+                href="https://ukrse.slack.com/archives/C02333HNA64">#midlands</a> slack channel.
+        </p>
 
-		<img src="photos/meetup_group.JPG" alt="The RSE Midlands group">
-	</div>
-	{{- with .Content }}
-	<div class="content main__content clearfix">
-		<!-- {{ . }} -->
-	</div>
-	{{- end }}
-	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-	{{- range $paginator.Pages }}
-	{{- .Render "summary" }}
-	{{- end }}
-	{{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
-	<!-- <div class="warning">
+        <img src="photos/meetup_group.JPG" alt="The RSE Midlands group">
+    </div>
+    {{- with .Content }}
+    <div class="content main__content clearfix">
+        <!-- {{ . }} -->
+    </div>
+    {{- end }}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+    {{- range $paginator.Pages }}
+    {{- .Render "summary" }}
+    {{- end }}
+    {{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
+    <!-- <div class="warning">
 		{{ partial "svg/files.svg" (dict "class" "warning__icon") }}
 		<h3 class="warning__headline">{{ T "noposts_warning_title" | safeHTML }}</h3>
 		<div class="warning__text">
@@ -64,7 +66,7 @@
 			<p class="warning__tip">{{ T "noposts_warning_tip" | safeHTML }}</p>
 		</div>
 	</div> -->
-	{{ end }}
+    {{ end }}
 </main>
 {{ partial "pagination.html" . }}
 {{ end }}
