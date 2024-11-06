@@ -75,7 +75,7 @@ John created his first program in 1978 on a black&white Tandy TRS80 machine, sin
 
 **Time**: 11:00-12:00
 
-*Speaker*: [Gavin Yearwood](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx)
+*Speaker*: [Gavin Yearwood](https://www.birmingham.ac.uk/research/arc/rsg/staff/gavin-yearwood)
 
 This will be on the creation of a
 regional group (RSE Midlands) and chairing the first inaugural event last year it will cover my experience and general information on:
@@ -108,6 +108,6 @@ Docker provides a way to replicate a computing environment. We can then run soft
 
 **Time**: 14:00-15:00
 
-*Speaker*: [Gavin Yearwood](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx)
+*Speaker*: [Gavin Yearwood](https://www.birmingham.ac.uk/research/arc/rsg/staff/gavin-yearwood)
 
-The first Coding Club event will be held on 23rd November, 14:00-15:00. One of our RSEs, [Gavin Yearwood](https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/rsg/staff/gavin-yearwood.aspx), will be kicking things off and there will be some information about the 2023 RSE Midlands Conference. Keep updated via the rse-midlands website or on Twitter [@RSE_Midlands](https://twitter.com/RSE_Midlands).
+The first Coding Club event will be held on 23rd November, 14:00-15:00. One of our RSEs, [Gavin Yearwood](https://www.birmingham.ac.uk/research/arc/rsg/staff/gavin-yearwood), will be kicking things off and there will be some information about the 2023 RSE Midlands Conference. Keep updated via the rse-midlands website or on Twitter [@RSE_Midlands](https://twitter.com/RSE_Midlands).
