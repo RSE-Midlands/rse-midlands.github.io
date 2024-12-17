@@ -89,7 +89,7 @@ comments and it may take some time to complete.
   * Be less than 2048 bytes
   * Be minified to a single line with no formatting
   * Not contain any JS or CSS section inside it
-  * Not contain any additional transformations (matrix, translate, scale)
+  * Not contain any additional transformations (matrix, translate, scale) or negative viewBox position values
   * Сompatible with [GPLv2 License](LICENSE.md)
 * Maintain clean commit history and use meaningful commit messages. Pull Requests with messy commit history (with
 commit messages like "update", "another update", etc) are difficult to review and won't be merged, even if the changes
@@ -100,7 +100,7 @@ to those feedback, otherwise the PR will be closed after 2-4 weeks of inactivity
 ### Pull Request Contribution Prerequisites
 
 * You have Node & npm installed
-* You have Hugo installed at v0.48.0+
+* You have Hugo installed at v0.54.0+
 * You are familiar with Git
 
 ### Pull Request Process
