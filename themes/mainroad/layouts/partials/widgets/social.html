@@ -17,6 +17,23 @@
 				<span>Twitter</span>
 			</a>
 		</div>
+					<!-- <div class="widget-social__item widget__item">
+					
+						<a class="twitter-timeline" data-width="320" data-height="400"
+							href="https://twitter.com/RSE_Midlands?ref_src=twsrc%5Etfw">Tweets by RSE_Midlands</a>
+						<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
+
+						<!-- <a href="https://twitter.com/RSE_Midlands?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @RSE_Midlands</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+					</div>-->
+		{{- end }}
+		<!--Adapted image from free service - https://www.svgrepo.com/svg/330895/mastodon-->
+		{{- with .Site.Params.widgets.social.mastadon }}
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Mastadon" rel="noopener noreferrer" href="https://www.mastadon.social/@{{ . }}" target="_blank">
+				{{ partial "svg/mastadon.svg" (dict "class" "widget-social__link-icon") }}
+				<span>Mastadon</span>
+			</a>
+		</div>
 		{{- end }}
 		{{- with .Site.Params.widgets.social.instagram }}
 		<div class="widget-social__item widget__item">
