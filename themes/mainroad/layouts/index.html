@@ -1,6 +1,5 @@
 {{ define "main" }}
 <main class="main list" role="main">
-	{{- with .Content }}
 	<div class="content main__content clearfix">
 		<p>
 			Welcome to RSE Midlands! We are a community of Research Software Engineers (RSEs) within the Midlands in
@@ -47,6 +46,7 @@
 
 		<img src="photos/meetup_group.JPG" alt="The RSE Midlands group">
 	</div>
+	{{- with .Content }}
 		{{ . }}
 	</div>
 	{{- end }}
