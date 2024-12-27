@@ -27,10 +27,10 @@
 					</div>-->
 		{{- end }}
 		<!--Adapted image from free service - https://www.svgrepo.com/svg/330895/mastodon-->
-		{{- with .Site.Params.widgets.social.mastadon }}
+		{{- with .Site.Params.widgets.social.mastodon }}
 		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="Mastadon" rel="noopener noreferrer" href="https://www.mastadon.social/@{{ . }}" target="_blank">
-				{{ partial "svg/mastadon.svg" (dict "class" "widget-social__link-icon") }}
+			<a class="widget-social__link widget__link btn" title="Mastadon" rel="noopener noreferrer" href="https://www.mastodon.social/@{{ . }}" target="_blank">
+				{{ partial "svg/mastodon.svg" (dict "class" "widget-social__link-icon") }}
 				<span>Mastadon</span>
 			</a>
 		</div>
