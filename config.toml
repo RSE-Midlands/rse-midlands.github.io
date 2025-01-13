@@ -45,33 +45,39 @@ unsafe= true
   [[menu.main]]
     identifier = "category"
     name = "Events"
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "category1"
     name = "8th June 2022"
     url = "/docs/event-8th-june"
     parent = "category"
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "category2"
     name = "24th April 2023"
     url = "/docs/event-24th-april-2023"
     parent = "category"
-    weight = 2
+    weight = 3
   [[menu.main]]
     identifier = "category3"
     name = "7th March 2024"
     url = "/docs/event-7th-march-2024"
+    parent = "category"
+    weight = 2
+  [[menu.main]]
+    identifier = "category4"
+    name = "7th April 2025"
+    url = "/docs/event-7th-april-2025"
     parent = "category"
     weight = 1
   [[menu.main]]
     identifier = "Coding Club"
     name = "Coding Club"
     url = "/docs/rse-midlands-coding-club"
-    weight = 4
+    weight = 5
   [[menu.main]]
     identifier = "Representatives"
     name = "Representatives"
     url = "/docs/representatives"
-    weight = 5
+    weight = 6
 # https://codingnconcepts.com/hugo/nested-menu-hugo/
