@@ -10,23 +10,23 @@ weight: 1
 
 ### Agenda
 
-Below is the Agenda for the day, please not this is may change closer to the event
+Below is the agenda for the day. Please note that this is **provisional** and may change closer to the event.
 
-| Time          | Activity                                    |
-| ------------- | ------------------------------------------- |
-| 09:00 - 10:00 | Registration and refreshments - *Arrival, coffee and setup*              |
-| 10:00 - 10:15 | Introduction and welcome - *Introduction and opening of RSE Midlands 2025*                   |
-| 10:15 - 10:30 | RSE Society talk - *Talk from a member of RSE Society about wider RSE community*                           |
-| 10:30 - 11:00 | Group workshop / community discussion       |
-| 11:00 - 11:30 | Refreshments (AM)                           |
-| 11:30 - 12:30 | Academic talk(s) & Baskerville case studies |
-| 12:30 - 13:00 | Lightning Talks (Part 1) - *Short talks by members of the RSE Midlands community*                   |
-| 13:00 - 14:00 | Lunch                                       |
-| 14:00 - 15:00 | SSI + Fellows' talks                        |
-| 15:00 - 15:30 | Lightning Talks (Part 2) - *Short talks by members of the RSE Midlands community*                   |
-| 15:30 - 16:00 | Refreshments (PM)                           |
-| 16:00 - 17:00 | Sponsor / Vendor talks + close              |
-| 17:00 - 17:10 | End                                         |
+| Time  | Activity                                                                 |
+| :---- | :----------------------------------------------------------------------- |
+| 09:00 | Registration and refreshments                                            |
+| 10:00 | Introduction and welcome                                                 |
+| 10:15 | **Community talks:** the Society of Research Software Engineering        |
+| 10:30 | **Group activity:** workshop / community discussion                      |
+| 11:00 | Refreshments (AM)                                                        |
+| 11:30 | **Academic talks:** invited speakers and Baskerville case studies        |
+| 12:30 | **Lightning talks** (Part 1)                                             |
+| 13:00 | Lunch                                                                    |
+| 14:00 | **Community talks:** the Software Sustainability Institute (and Fellows) |
+| 15:00 | **Lightning talks** (Part 2)                                             |
+| 15:30 | Refreshments (PM)                                                        |
+| 16:00 | **Sponsor talks**                                                        |
+| 17:00 | End                                                                      |
 
 ### Lightning Talks
 
