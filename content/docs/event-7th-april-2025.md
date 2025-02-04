@@ -30,11 +30,13 @@ Below is the agenda for the day. Please note that this is **provisional** and ma
 
 ### Lightning Talks
 
-We are currently seeking expressions of interest from anybody who would like to deliver a lightning talk during the day. Talks will be limited to:
+We are currently seeking **expressions of interest** from anybody who would like to deliver a lightning talk during the day. For guidance, talks should generally be:
 
 - A maximum of ten minutes in length
-- No more than three slides
+- No more than five slides
 
 We are particularly interested in hearing about any **practical tips, tricks, and tools** you use in your everyday career, but this is by no means exhaustive; if you would like to propose a broader topic, please do get in touch.
-Submissions from members of underrepresented communities are strongly encouraged.
-If you are interested in delivering a lightning talk or have any questions about RSE Midlands 2025, please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk)
+
+**Submissions from members of underrepresented communities are strongly encouraged.**
+
+If you are interested in delivering a lightning talk or have any questions about RSE Midlands 2025, please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk).
