@@ -1,5 +1,5 @@
 ---
-title: RSE Midlands 2025
+title: 2025 Annual Conference - 7th April, Birmingham
 description: Annual RSE Midlands meeting 2025 
 date:
 authorbox: false
@@ -7,6 +7,11 @@ sidebar: false
 pager: false
 weight: 1
 ---
+
+RSE Midlands 2025 will take place on Monday 7th April 2025 at
+[The Exchange, 3 Centenary Square, B1 2DR](https://conferences.bham.ac.uk/venues/the-exchange/),
+hosted by the University of Birmingham's
+[Advanced Research Computing team](https://www.birmingham.ac.uk/research/arc/team). 
 
 ### Agenda
 
