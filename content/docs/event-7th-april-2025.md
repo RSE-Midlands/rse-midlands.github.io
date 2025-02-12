@@ -59,3 +59,23 @@ We are particularly interested in hearing about any **practical tips, tricks, an
 **Submissions from members of underrepresented communities are strongly encouraged.**
 
 If you would like to discuss your ideas further before registering, please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk).
+
+## Venue and Travel
+
+[The Exchange website](https://conferences.bham.ac.uk/venues/the-exchange/) should contain all the information you'll
+need about our venue, including a virtual building tour. We have booked the Assembly Room for RSE Midlands 2025 and will
+also be making use of the Shared Catering Lounge during refreshment breaks.
+
+Please pay particular attention to the following if you plan on travelling by car:
+
+> **Travelling by car**
+>
+> Centenary Square cannot be accessed directly by car. Therefore, we recommend putting the postcode of your chosen car park into your satnav, rather than The Exchange’s postcode.
+>
+> The Exchange lies within Birmingham’s Clean Air Zone. You can find out if you need to pay for your vehicle via the GOV.UK website, as well as pay the daily fee (if eligible) after or before your journey.
+>
+> **Parking**
+>
+> There is no on-site parking at the venue, however, you’ll find plenty of pay-and-display parking nearby. The nearest multi-storey car parks are Town Hall and Navigation Street, just a 5-minute walk away (0.3 miles). Street parking is also available at Bridge Street, just 5 minutes away.
+>
+> The nearest car park to The Exchange with designated Blue Badge parking bays is Cambridge Street. From here, the venue is just 192 yards away. A good alternative is Paradise Circus multi-storey car park (243 yards away).
