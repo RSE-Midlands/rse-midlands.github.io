@@ -45,7 +45,11 @@ for further details.
 
 ## Lightning Talks
 
-We are currently seeking **expressions of interest** from anybody who would like to deliver a lightning talk during the day. For guidance, talks should generally be:
+Part of the day has been set aside for lightning talks from the community, and we are very keen to hear from **you!**
+If you are interested in delivering a lightning talk, please provide a brief outline of your idea when asked during the
+registration process.
+
+For guidance, talks should generally be:
 
 - A maximum of ten minutes in length
 - No more than five slides
@@ -54,4 +58,4 @@ We are particularly interested in hearing about any **practical tips, tricks, an
 
 **Submissions from members of underrepresented communities are strongly encouraged.**
 
-If you are interested in delivering a lightning talk or have any questions about RSE Midlands 2025, please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk).
+If you would like to discuss your ideas further before registering, please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk).
