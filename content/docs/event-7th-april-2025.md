@@ -13,7 +13,7 @@ RSE Midlands 2025 will take place on Monday 7th April 2025 at
 hosted by the University of Birmingham's
 [Advanced Research Computing team](https://www.birmingham.ac.uk/research/arc/team). 
 
-### Agenda
+## Agenda
 
 Below is the agenda for the day. Please note that this is **provisional** and may change closer to the event.
 
@@ -33,7 +33,7 @@ Below is the agenda for the day. Please note that this is **provisional** and ma
 | 16:00 | **Sponsor talks**                                                        |
 | 17:00 | End                                                                      |
 
-### Lightning Talks
+## Lightning Talks
 
 We are currently seeking **expressions of interest** from anybody who would like to deliver a lightning talk during the day. For guidance, talks should generally be:
 
