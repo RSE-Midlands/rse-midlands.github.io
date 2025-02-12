@@ -79,3 +79,10 @@ Please pay particular attention to the following if you plan on travelling by ca
 > There is no on-site parking at the venue, however, you’ll find plenty of pay-and-display parking nearby. The nearest multi-storey car parks are Town Hall and Navigation Street, just a 5-minute walk away (0.3 miles). Street parking is also available at Bridge Street, just 5 minutes away.
 >
 > The nearest car park to The Exchange with designated Blue Badge parking bays is Cambridge Street. From here, the venue is just 192 yards away. A good alternative is Paradise Circus multi-storey car park (243 yards away).
+
+## Organising Committee
+
+Our organising committee for this year are [James Tyrrell](https://www.birmingham.ac.uk/research/arc/rsg/staff/james-tyrrell),
+[Gavin Yearwood](https://www.birmingham.ac.uk/research/arc/rsg/staff/gavin-yearwood),
+[Matthew Barton](https://www.birmingham.ac.uk/research/arc/rsg/staff/matthew-barton),
+and [Adrian Garcia](https://www.birmingham.ac.uk/research/arc/rsg/staff/adrian-garcia).
