@@ -86,3 +86,12 @@ Our organising committee for this year are [James Tyrrell](https://www.birmingha
 [Gavin Yearwood](https://www.birmingham.ac.uk/research/arc/rsg/staff/gavin-yearwood),
 [Matthew Barton](https://www.birmingham.ac.uk/research/arc/rsg/staff/matthew-barton),
 and [Adrian Garcia](https://www.birmingham.ac.uk/research/arc/rsg/staff/adrian-garcia).
+
+## Sponsors
+
+Our sponsors for this year are:
+
+- [Lenovo](https://www.lenovo.com/)
+- [Intel](https://www.intel.com/)
+- [The Society of Research Software Engineering](https://society-rse.org/)
+- [Advanced Research Computing (University of Birmingham)](https://www.birmingham.ac.uk/research/arc)
