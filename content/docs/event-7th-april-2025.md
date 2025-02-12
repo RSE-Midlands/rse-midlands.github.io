@@ -13,6 +13,16 @@ RSE Midlands 2025 will take place on Monday 7th April 2025 at
 hosted by the University of Birmingham's
 [Advanced Research Computing team](https://www.birmingham.ac.uk/research/arc/team). 
 
+## Registration
+
+We’d love to see you at the event - registration is free. Book at [https://pretix.eu/rsemidlands/2025/](https://pretix.eu/rsemidlands/2025/). 
+
+The registration process includes a series of questions designed to ensure that we are able to fully consider any
+potential barriers to your attendance (e.g. accessibility, dietary, financial, etc.).
+Of particular note, [the Society of Research Software Engineering](https://society-rse.org) has generously offered
+financial support with any travel, childcare, or similar expenses. Please see our [FAQ](https://pretix.eu/rsemidlands/2025/page/faq/)
+for further details.
+
 ## Agenda
 
 Below is the agenda for the day. Please note that this is **provisional** and may change closer to the event.
@@ -32,16 +42,6 @@ Below is the agenda for the day. Please note that this is **provisional** and ma
 | 15:30 | Refreshments (PM)                                                        |
 | 16:00 | **Sponsor talks**                                                        |
 | 17:00 | End                                                                      |
-
-## Registration
-
-We’d love to see you at the event - registration is free. Book at [https://pretix.eu/rsemidlands/2025/](https://pretix.eu/rsemidlands/2025/). 
-
-The registration process includes a series of questions designed to ensure that we are able to fully consider any
-potential barriers to your attendance (e.g. accessibility, dietary, financial, etc.).
-Of particular note, [the Society of Research Software Engineering](https://society-rse.org) has generously offered
-financial support with any travel, childcare, or similar expenses. Please see our [FAQ](https://pretix.eu/rsemidlands/2025/page/faq/)
-for further details.
 
 ## Lightning Talks
 
