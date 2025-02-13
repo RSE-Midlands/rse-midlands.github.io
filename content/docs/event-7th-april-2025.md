@@ -27,6 +27,10 @@ for further details.
 
 Below is the agenda for the day. Please note that this is **provisional** and may change closer to the event.
 
+Registration and refreshments will be available from 09:00 and are an **optional** opportunity to catch up with
+colleagues before the day begins in earnest. Please aim to arrive in good time for the introductory talks at 10:00
+(allowing some time for us to address any questions you might have about the day).
+
 | Time  | Activity                                                                 |
 | :---- | :----------------------------------------------------------------------- |
 | 09:00 | Registration and refreshments                                            |
