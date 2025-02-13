@@ -13,9 +13,23 @@ RSE Midlands 2025 will take place on Monday 7th April 2025 at
 hosted by the University of Birmingham's
 [Advanced Research Computing team](https://www.birmingham.ac.uk/research/arc/team). 
 
-### Agenda
+## Registration
+
+We’d love to see you at the event - registration is free. Book at [https://pretix.eu/rsemidlands/2025/](https://pretix.eu/rsemidlands/2025/). 
+
+The registration process includes a series of questions designed to ensure that we are able to fully consider any
+potential barriers to your attendance (e.g. accessibility, dietary, financial, etc.).
+Of particular note, [the Society of Research Software Engineering](https://society-rse.org) has generously offered
+financial support with any travel, childcare, or similar expenses. Please see our [FAQ](https://pretix.eu/rsemidlands/2025/page/faq/)
+for further details.
+
+## Agenda
 
 Below is the agenda for the day. Please note that this is **provisional** and may change closer to the event.
+
+Registration and refreshments will be available from 09:00 and are an **optional** opportunity to catch up with
+colleagues before the day begins in earnest. Please aim to arrive in good time for the introductory talks at 10:00
+(allowing some time for us to address any questions you might have about the day).
 
 | Time  | Activity                                                                 |
 | :---- | :----------------------------------------------------------------------- |
@@ -33,9 +47,13 @@ Below is the agenda for the day. Please note that this is **provisional** and ma
 | 16:00 | **Sponsor talks**                                                        |
 | 17:00 | End                                                                      |
 
-### Lightning Talks
+## Lightning Talks
 
-We are currently seeking **expressions of interest** from anybody who would like to deliver a lightning talk during the day. For guidance, talks should generally be:
+Part of the day has been set aside for lightning talks from the community, and we are very keen to hear from **you!**
+If you are interested in delivering a lightning talk, please provide a brief outline of your idea when asked during the
+registration process.
+
+For guidance, talks should generally be:
 
 - A maximum of ten minutes in length
 - No more than five slides
@@ -44,4 +62,41 @@ We are particularly interested in hearing about any **practical tips, tricks, an
 
 **Submissions from members of underrepresented communities are strongly encouraged.**
 
-If you are interested in delivering a lightning talk or have any questions about RSE Midlands 2025, please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk).
+If you would like to discuss your ideas further before registering, please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk).
+
+## Venue and Travel
+
+[The Exchange website](https://conferences.bham.ac.uk/venues/the-exchange/) should contain all the information you'll
+need about our venue, including a virtual building tour. We have booked the Assembly Room for RSE Midlands 2025 and will
+also be making use of the Shared Catering Lounge during refreshment breaks.
+
+Please pay particular attention to the following if you plan on travelling by car
+(copied verbatim from the link above):
+
+> **Travelling by car**
+>
+> Centenary Square cannot be accessed directly by car. Therefore, we recommend putting the postcode of your chosen car park into your satnav, rather than The Exchange’s postcode.
+>
+> The Exchange lies within Birmingham’s Clean Air Zone. You can find out if you need to pay for your vehicle via the GOV.UK website, as well as pay the daily fee (if eligible) after or before your journey.
+>
+> **Parking**
+>
+> There is no on-site parking at the venue, however, you’ll find plenty of pay-and-display parking nearby. The nearest multi-storey car parks are Town Hall and Navigation Street, just a 5-minute walk away (0.3 miles). Street parking is also available at Bridge Street, just 5 minutes away.
+>
+> The nearest car park to The Exchange with designated Blue Badge parking bays is Cambridge Street. From here, the venue is just 192 yards away. A good alternative is Paradise Circus multi-storey car park (243 yards away).
+
+## Organising Committee
+
+Our organising committee for this year are [James Tyrrell](https://www.birmingham.ac.uk/research/arc/rsg/staff/james-tyrrell),
+[Gavin Yearwood](https://www.birmingham.ac.uk/research/arc/rsg/staff/gavin-yearwood),
+[Matthew Barton](https://www.birmingham.ac.uk/research/arc/rsg/staff/matthew-barton),
+and [Adrian Garcia](https://www.birmingham.ac.uk/research/arc/rsg/staff/adrian-garcia).
+
+## Sponsors
+
+Our sponsors for this year are:
+
+- [Lenovo](https://www.lenovo.com/)
+- [Intel](https://www.intel.com/)
+- [The Society of Research Software Engineering](https://society-rse.org/)
+- [Advanced Research Computing (University of Birmingham)](https://www.birmingham.ac.uk/research/arc)
