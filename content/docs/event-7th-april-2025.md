@@ -66,7 +66,8 @@ If you would like to discuss your ideas further before registering, please conta
 need about our venue, including a virtual building tour. We have booked the Assembly Room for RSE Midlands 2025 and will
 also be making use of the Shared Catering Lounge during refreshment breaks.
 
-Please pay particular attention to the following if you plan on travelling by car:
+Please pay particular attention to the following if you plan on travelling by car
+(copied verbatim from the link above):
 
 > **Travelling by car**
 >
