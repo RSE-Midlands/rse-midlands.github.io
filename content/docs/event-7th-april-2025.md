@@ -85,6 +85,12 @@ Please pay particular attention to the following if you plan on travelling by ca
 >
 > The nearest car park to The Exchange with designated Blue Badge parking bays is Cambridge Street. From here, the venue is just 192 yards away. A good alternative is Paradise Circus multi-storey car park (243 yards away).
 
+The venue is located within walking distance of several of central Birmingham's major train stations:
+
+> **Travelling by rail**
+>
+> The nearest train station to The Exchange is Birmingham New Street, a short 10-minute walk away. Snow Hill and Five Ways stations are 0.7 miles away, whilst Moor Street is 0.9 miles from the venue. All are within a 20-minute walk of The Exchange.
+
 ## Organising Committee
 
 Our organising committee for this year are [James Tyrrell](https://www.birmingham.ac.uk/research/arc/rsg/staff/james-tyrrell),
