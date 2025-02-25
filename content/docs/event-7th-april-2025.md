@@ -106,3 +106,9 @@ Our sponsors for this year are:
 - [Intel](https://www.intel.com/)
 - [The Society of Research Software Engineering](https://society-rse.org/)
 - [Advanced Research Computing (University of Birmingham)](https://www.birmingham.ac.uk/research/arc)
+
+## Contact
+
+You can find us on our slack channel [#midlands](https://ukrse.slack.com/archives/C02333HNA64) in the [RSE Society's slack workspace](https://join.slack.com/t/ukrse/signup) and [on twitter](https://twitter.com/RSE_Midlands)!
+
+For any other questions not covered by our [FAQ](https://ukrse.slack.com/archives/C02333HNA64), please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk). 
