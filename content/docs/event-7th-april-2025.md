@@ -31,21 +31,34 @@ Registration and refreshments will be available from 09:00 and are an **optional
 colleagues before the day begins in earnest. Please aim to arrive in good time for the introductory talks at 10:00
 (allowing some time for us to address any questions you might have about the day).
 
-| Time  | Activity                                                                 |
-| :---- | :----------------------------------------------------------------------- |
-| 09:00 | Registration and refreshments                                            |
-| 10:00 | Introduction and welcome                                                 |
-| 10:15 | **Community talks:** the Society of Research Software Engineering        |
-| 10:30 | **Group activity:** workshop / community discussion                      |
-| 11:00 | Refreshments (AM)                                                        |
-| 11:30 | **Academic talks:** invited speakers and Baskerville case studies        |
-| 12:30 | **Lightning talks** (Part 1)                                             |
-| 13:00 | Lunch                                                                    |
-| 14:00 | **Community talks:** the Software Sustainability Institute (and Fellows) |
-| 15:00 | **Lightning talks** (Part 2)                                             |
-| 15:30 | Refreshments (PM)                                                        |
-| 16:00 | **Sponsor talks**                                                        |
-| 17:00 | End                                                                      |
+| Time  | Activity                                                                                                   |
+| :---- | :--------------------------------------------------------------------------------------------------------- |
+| 09:00 | Registration and refreshments                                                                              |
+| 10:00 | Introduction and welcome                                                                                   |
+| 10:15 | **Community talks** (Society of Research Software Engineering)                                             |
+| 10:30 | **Group activity:** workshop / community discussion                                                        |
+| 11:00 | Refreshments (AM)                                                                                          |
+| 11:30 | **Academic talks**                                                                                         |
+|       | - Computational statistics to tackle modern slavery (Dr Rowland Seymour, University of Birmingham)         |
+|       | - [DIATOMIC][1] digital twin project for Birmingham (Dr Grant Wilson, University of Birmingham)            |
+|       | - [Baskerville][2] case studies (Dr Matthew Barton, University of Birmingham)                              |
+| 12:30 | **Lightning talks** (Part 1)                                                                               |
+| 13:00 | Lunch                                                                                                      |
+| 14:00 | **Community talks** (Software Sustainability Institute and Fellows)                                        |
+|       | - [The SSI Fellowship Programme][3] (Oscar Seip, SSI)                                                           |
+|       | - [DAHRSE-Midlands][4] (Godwin Yeboah, University of Warwick)                                              |
+|       | - TBC (Catherine Smith, University of Birmingham)                                                          |
+|       | - Sustainability and EDI in the R Project (?TBC?) (Ella Kaye, University of Warwick)                       |
+| 15:00 | **Lightning talks** (Part 2)                                                                               |
+| 15:30 | Refreshments (PM)                                                                                          |
+| 16:00 | **Sponsor talks**                                                                                          |
+| 17:00 | End                                                                                                        |
+
+[1]: https://digitalbirmingham.co.uk/diatomic/
+[2]: https://www.baskerville.ac.uk/
+[3]: https://www.software.ac.uk/programmes/fellowship-programme
+[4]: https://dahrse-midlands.github.io/
+
 
 ## Lightning Talks
 
