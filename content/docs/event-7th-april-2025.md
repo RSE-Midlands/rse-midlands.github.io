@@ -39,16 +39,16 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 | 10:30 | **Group activity:** workshop / community discussion                                                |
 | 11:00 | Refreshments (AM)                                                                                  |
 | 11:30 | **Academic talks**                                                                                 |
-|       | - Computational statistics to tackle modern slavery (Dr Rowland Seymour, University of Birmingham) |
-|       | - [DIATOMIC][1] digital twin project for Birmingham (Dr Grant Wilson, University of Birmingham)    |
-|       | - [Baskerville][2] case studies (Dr Matthew Barton, University of Birmingham)                      |
+|       | - Computational statistics to tackle modern slavery (Rowland Seymour, University of Birmingham)    |
+|       | - [DIATOMIC][1] digital twin project for Birmingham (Grant Wilson, University of Birmingham)       |
+|       | - [Baskerville][2] case studies (Matthew Barton, University of Birmingham)                         |
 | 12:30 | **Lightning talks** (Part 1)                                                                       |
 | 13:00 | Lunch                                                                                              |
 | 14:00 | **Community talks** (Software Sustainability Institute and Fellows)                                |
 |       | - [The SSI Fellowship Programme][3] (Oscar Seip, SSI)                                              |
 |       | - [DAHRSE-Midlands][4] (Godwin Yeboah, University of Warwick)                                      |
+|       | - TBC (Ella Kaye, University of Warwick)                                                           |
 |       | - TBC (Catherine Smith, University of Birmingham)                                                  |
-|       | - Sustainability and EDI in the R Project (?TBC?) (Ella Kaye, University of Warwick)               |
 | 15:00 | **Lightning talks** (Part 2)                                                                       |
 | 15:30 | Refreshments (PM)                                                                                  |
 | 16:00 | **Sponsor talks**                                                                                  |
