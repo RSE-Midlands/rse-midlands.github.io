@@ -36,18 +36,17 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 | 09:00 | Registration and refreshments                                                                      |
 | 10:00 | Introduction and welcome                                                                           |
 | 10:15 | **Community talks** (Society of Research Software Engineering)                                     |
-| 10:30 | **Group activity:** workshop / community discussion                                                |
+| 10:30 | **Group activity** - "What can RSE Midlands do for you?"                                           |
 | 11:00 | Refreshments (AM)                                                                                  |
 | 11:30 | **Academic talks**                                                                                 |
-|       | - Computational statistics to tackle modern slavery (Rowland Seymour, University of Birmingham)    |
 |       | - [DIATOMIC][1] digital twin project for Birmingham (Grant Wilson, University of Birmingham)       |
 |       | - [Baskerville][2] case studies (Matthew Barton, University of Birmingham)                         |
 | 12:30 | **Lightning talks** (Part 1)                                                                       |
 | 13:00 | Lunch                                                                                              |
 | 14:00 | **Community talks** (Software Sustainability Institute and Fellows)                                |
 |       | - [The SSI Fellowship Programme][3] (Oscar Seip, SSI)                                              |
-|       | - [DAHRSE-Midlands][4] (Godwin Yeboah, University of Warwick)                                      |
-|       | - TBC (Ella Kaye, University of Warwick)                                                           |
+|       | - [Building a Community of Digital Arts and Humanities RSEs in the Midlands: The SSI Fellowship][4] (Godwin Yeboah, University of Warwick) |
+|       | - [rainbowR][5]: a community for LGBTQ+ folk who code in R (Ella Kaye, University of Warwick)      |
 |       | - TBC (Catherine Smith, University of Birmingham)                                                  |
 | 15:00 | **Lightning talks** (Part 2)                                                                       |
 | 15:30 | Refreshments (PM)                                                                                  |
@@ -58,7 +57,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 [2]: https://www.baskerville.ac.uk/
 [3]: https://www.software.ac.uk/programmes/fellowship-programme
 [4]: https://dahrse-midlands.github.io/
-
+[5]: https://rainbowr.org/
 
 ## Lightning Talks
 
