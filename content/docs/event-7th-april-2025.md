@@ -42,6 +42,10 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 |       | - [DIATOMIC][1] digital twin project for Birmingham (Grant Wilson, University of Birmingham)       |
 |       | - [Baskerville][2] case studies (Matthew Barton, University of Birmingham)                         |
 | 12:00 | **Lightning talks**                                                                                |
+|       | - Software as a research output (Boutheina Nedjai, University of Birmingham)                       |
+|       | - TBC (Jeremy Pike, University of Exeter)                                                          |
+|       | - Reproducible research software environments with Binder (Jenny Wong, 2i2c)                       |
+|       | - (More awaiting confirmation!)                                                                    |
 | 13:00 | Lunch                                                                                              |
 | 14:00 | **Community talks** (Software Sustainability Institute and Fellows)                                |
 |       | - [The SSI Fellowship Programme][3] (Oscar Seip, SSI)                                              |
