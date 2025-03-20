@@ -45,6 +45,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 |       | - Software as a research output (Boutheina Nedjai, University of Birmingham)                       |
 |       | - TBC (Jeremy Pike, University of Exeter)                                                          |
 |       | - Reproducible research software environments with Binder (Jenny Wong, 2i2c)                       |
+|       | - Researcher development and training workshops (Steph Thompson, University of Birmingham)         |
 |       | - (More awaiting confirmation!)                                                                    |
 | 13:00 | Lunch                                                                                              |
 | 14:00 | **Community talks** (Software Sustainability Institute and Fellows)                                |
