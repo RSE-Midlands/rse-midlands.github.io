@@ -57,7 +57,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 |       | - Working with RSEs on the [Compositor][6] Project (Hazel Wilkinson, University of Birmingham)     |
 | 15:30 | Refreshments (PM)                                                                                  |
 | 16:00 | **Sponsor talks**                                                                                  |
-| 17:00 | End                                                                                                |
+| 16:30 | End                                                                                                |
 
 [1]: https://digitalbirmingham.co.uk/diatomic/
 [2]: https://www.baskerville.ac.uk/
