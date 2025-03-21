@@ -36,6 +36,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 | 09:00 | Registration and refreshments                                                                      |
 | 10:00 | Introduction and welcome                                                                           |
 | 10:15 | **Community talks** (Society of Research Software Engineering)                                     |
+|       | - RSESoc and RSECon25 (Pip Grylls, Uniersity of Warwick)                                           | 
 | 10:30 | **Group activity** - "What can RSE Midlands do for you?"                                           |
 | 11:00 | Refreshments (AM)                                                                                  |
 | 11:30 | **Academic talks** (Part 1)                                                                        |
@@ -45,7 +46,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 |       | - Software as a research output (Boutheina Nedjai, University of Birmingham)                       |
 |       | - TBC (Jeremy Pike, University of Exeter)                                                          |
 |       | - Reproducible research software environments with Binder (Jenny Wong, 2i2c)                       |
-|       | - EOSC-EVERSE (Jonathan Tedds, ELIXIR Hub)
+|       | - EOSC-EVERSE (Jonathan Tedds, ELIXIR Hub)                                                         |
 |       | - Researcher development and training workshops (Steph Thompson, University of Birmingham)         |
 | 13:00 | Lunch                                                                                              |
 | 14:00 | **Community talks** (Software Sustainability Institute and Fellows)                                |
