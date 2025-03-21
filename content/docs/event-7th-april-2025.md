@@ -36,12 +36,19 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 | 09:00 | Registration and refreshments                                                                      |
 | 10:00 | Introduction and welcome                                                                           |
 | 10:15 | **Community talks** (Society of Research Software Engineering)                                     |
+|       | - SocRSE and RSECon25 (Pip Grylls, Uniersity of Warwick)                                           | 
 | 10:30 | **Group activity** - "What can RSE Midlands do for you?"                                           |
 | 11:00 | Refreshments (AM)                                                                                  |
 | 11:30 | **Academic talks** (Part 1)                                                                        |
 |       | - [DIATOMIC][1] digital twin project for Birmingham (Grant Wilson, University of Birmingham)       |
 |       | - [Baskerville][2] case studies (Matthew Barton, University of Birmingham)                         |
 | 12:00 | **Lightning talks**                                                                                |
+|       | - Software as a research output (Boutheina Nedjai, University of Birmingham)                       |
+|       | - TBC (Jeremy Pike, University of Exeter)                                                          |
+|       | - Reproducible research software environments with Binder (Jenny Wong, 2i2c)                       |
+|       | - Julia programming language Special Interest Group (Vincenzo Brachetta, University of Birmingham) |
+|       | - EOSC-EVERSE: a framework for research software excellence (Jonathan Tedds, ELIXIR Hub)           |
+|       | - Researcher development and training workshops (Steph Thompson, University of Birmingham)         |
 | 13:00 | Lunch                                                                                              |
 | 14:00 | **Community talks** (Software Sustainability Institute and Fellows)                                |
 |       | - [The SSI Fellowship Programme][3] (Oscar Seip, SSI)                                              |
@@ -52,7 +59,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 |       | - Working with RSEs on the [Compositor][6] Project (Hazel Wilkinson, University of Birmingham)     |
 | 15:30 | Refreshments (PM)                                                                                  |
 | 16:00 | **Sponsor talks**                                                                                  |
-| 17:00 | End                                                                                                |
+| 16:30 | End                                                                                                |
 
 [1]: https://digitalbirmingham.co.uk/diatomic/
 [2]: https://www.baskerville.ac.uk/
