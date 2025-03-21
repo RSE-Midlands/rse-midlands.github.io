@@ -46,6 +46,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 |       | - Software as a research output (Boutheina Nedjai, University of Birmingham)                       |
 |       | - TBC (Jeremy Pike, University of Exeter)                                                          |
 |       | - Reproducible research software environments with Binder (Jenny Wong, 2i2c)                       |
+|       | - Julia programming language Special Interest Group (Vincenzo Brachetta, University of Birmingham) |
 |       | - EOSC-EVERSE: a framework for research software excellence (Jonathan Tedds, ELIXIR Hub)           |
 |       | - Researcher development and training workshops (Steph Thompson, University of Birmingham)         |
 | 13:00 | Lunch                                                                                              |
