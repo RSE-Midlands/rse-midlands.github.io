@@ -54,7 +54,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 |       | - [The SSI Fellowship Programme][3] (Oscar Seip, SSI)                                              |
 |       | - [Building a Community of Digital Arts and Humanities RSEs in the Midlands: The SSI Fellowship][4] (Godwin Yeboah, University of Warwick) |
 |       | - [rainbowR][5]: a community for LGBTQ+ folk who code in R (Ella Kaye, University of Warwick)      |
-|       | - TBC (Catherine Smith, University of Birmingham)                                                  |
+|       | - Exploring Communities: The SSI Fellowship and Beyond (Catherine Smith, University of Birmingham) |
 | 15:00 | **Academic talks** (Part 2)                                                                        |
 |       | - Working with RSEs on the [Compositor][6] Project (Hazel Wilkinson, University of Birmingham)     |
 | 15:30 | Refreshments (PM)                                                                                  |
