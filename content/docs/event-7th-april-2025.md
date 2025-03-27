@@ -44,7 +44,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 |       | - [Baskerville][2] case studies (Matthew Barton, University of Birmingham)                         |
 | 12:00 | **Lightning talks**                                                                                |
 |       | - Software as a research output (Boutheina Nedjai, University of Birmingham)                       |
-|       | - TBC (Jeremy Pike, University of Exeter)                                                          |
+|       | - Research Software and Analytics at the University of Exeter (Jeremy Pike, University of Exeter)  |
 |       | - Reproducible research software environments with Binder (Jenny Wong, 2i2c)                       |
 |       | - Julia programming language Special Interest Group (Vincenzo Brachetta, University of Birmingham) |
 |       | - EOSC-EVERSE: a framework for research software excellence (Jonathan Tedds, ELIXIR Hub)           |
@@ -54,7 +54,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 |       | - [The SSI Fellowship Programme][3] (Oscar Seip, SSI)                                              |
 |       | - [Building a Community of Digital Arts and Humanities RSEs in the Midlands: The SSI Fellowship][4] (Godwin Yeboah, University of Warwick) |
 |       | - [rainbowR][5]: a community for LGBTQ+ folk who code in R (Ella Kaye, University of Warwick)      |
-|       | - TBC (Catherine Smith, University of Birmingham)                                                  |
+|       | - Exploring Communities: The SSI Fellowship and Beyond (Catherine Smith, University of Birmingham) |
 | 15:00 | **Academic talks** (Part 2)                                                                        |
 |       | - Working with RSEs on the [Compositor][6] Project (Hazel Wilkinson, University of Birmingham)     |
 | 15:30 | Refreshments (PM)                                                                                  |
