@@ -36,7 +36,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 | 09:00 | Registration and refreshments                                                                      |
 | 10:00 | Introduction and welcome                                                                           |
 | 10:15 | **Community talks** (Society of Research Software Engineering)                                     |
-|       | - SocRSE and RSECon25 (Pip Grylls, Uniersity of Warwick)                                           | 
+|       | - SocRSE and RSECon25 (Pip Grylls, University of Warwick)                                          | 
 | 10:30 | **Group activity** - "What can RSE Midlands do for you?"                                           |
 | 11:00 | Refreshments (AM)                                                                                  |
 | 11:30 | **Academic talks** (Part 1)                                                                        |
