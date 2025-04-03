@@ -132,4 +132,4 @@ Our sponsors for this year are:
 
 You can find us on our slack channel [#midlands](https://ukrse.slack.com/archives/C02333HNA64) in the [RSE Society's slack workspace](https://join.slack.com/t/ukrse/signup) and [on twitter](https://twitter.com/RSE_Midlands)!
 
-For any other questions not covered by our [FAQ](https://ukrse.slack.com/archives/C02333HNA64), please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk). 
+For any other questions not covered by our [FAQ](https://pretix.eu/rsemidlands/2025/page/faq/), please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk). 
