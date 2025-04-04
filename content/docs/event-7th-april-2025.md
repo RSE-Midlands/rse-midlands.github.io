@@ -35,13 +35,11 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 | :---- | :------------------------------------------------------------------------------------------------- |
 | 09:00 | Registration and refreshments                                                                      |
 | 10:00 | Introduction and welcome                                                                           |
-| 10:15 | **Community talks** (Society of Research Software Engineering)                                     |
-|       | - SocRSE and RSECon25 (Pip Grylls, University of Warwick)                                          | 
-| 10:30 | **Group activity** - "What can RSE Midlands do for you?"                                           |
+| 10:15 | **Sponsor talk:** SocRSE and RSECon25 (Pip Grylls, University of Warwick)                          | 
+| 10:30 | **Group activity:** "What can RSE Midlands do for you?" (Gavin Yearwood, University of Birmingham) |
 | 11:00 | Refreshments (AM)                                                                                  |
-| 11:30 | **Academic talks** (Part 1)                                                                        |
-|       | - [DIATOMIC][1] digital twin project for Birmingham (Grant Wilson, University of Birmingham)       |
-|       | - [Baskerville][2] case studies (Matthew Barton, University of Birmingham)                         |
+| 11:30 | **Sponsor talk:** Intel Updates (Bogdan Stefan Pop, Intel)                                         |
+|       | **Community talk:** [Baskerville][2] case studies (Matthew Barton, University of Birmingham)       |
 | 12:00 | **Lightning talks**                                                                                |
 |       | - Software as a research output (Boutheina Nedjai, University of Birmingham)                       |
 |       | - Research Software and Analytics at the University of Exeter (Jeremy Pike, University of Exeter)  |
@@ -55,10 +53,10 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 |       | - [Building a Community of Digital Arts and Humanities RSEs in the Midlands: The SSI Fellowship][4] (Godwin Yeboah, University of Warwick) |
 |       | - [rainbowR][5]: a community for LGBTQ+ folk who code in R (Ella Kaye, University of Warwick)      |
 |       | - Exploring Communities: The SSI Fellowship and Beyond (Catherine Smith, University of Birmingham) |
-| 15:00 | **Academic talks** (Part 2)                                                                        |
-|       | - Working with RSEs on the [Compositor][6] Project (Hazel Wilkinson, University of Birmingham)     |
+| 15:00 | **Academic talk:** Working with RSEs on the [Compositor][6] Project (Hazel Wilkinson, University of Birmingham)    |
 | 15:30 | Refreshments (PM)                                                                                  |
-| 16:00 | **Sponsor talks**                                                                                  |
+| 16:00 | **Academic talk:** [DIATOMIC][1] digital twin project for Birmingham (Grant Wilson, University of Birmingham)      |
+|       | **Sponsor talk:** The Research Software Group – the story so far (Andrew Edmondson, University of Birmingham) |
 | 16:30 | End                                                                                                |
 
 [1]: https://digitalbirmingham.co.uk/diatomic/
