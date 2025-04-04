@@ -36,7 +36,7 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 | 09:00 | Registration and refreshments                                                                      |
 | 10:00 | Introduction and welcome                                                                           |
 | 10:15 | **Community talks** (Society of Research Software Engineering)                                     |
-|       | - SocRSE and RSECon25 (Pip Grylls, Uniersity of Warwick)                                           | 
+|       | - SocRSE and RSECon25 (Pip Grylls, University of Warwick)                                          | 
 | 10:30 | **Group activity** - "What can RSE Midlands do for you?"                                           |
 | 11:00 | Refreshments (AM)                                                                                  |
 | 11:30 | **Academic talks** (Part 1)                                                                        |
@@ -132,4 +132,4 @@ Our sponsors for this year are:
 
 You can find us on our slack channel [#midlands](https://ukrse.slack.com/archives/C02333HNA64) in the [RSE Society's slack workspace](https://join.slack.com/t/ukrse/signup) and [on twitter](https://twitter.com/RSE_Midlands)!
 
-For any other questions not covered by our [FAQ](https://ukrse.slack.com/archives/C02333HNA64), please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk). 
+For any other questions not covered by our [FAQ](https://pretix.eu/rsemidlands/2025/page/faq/), please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk). 
