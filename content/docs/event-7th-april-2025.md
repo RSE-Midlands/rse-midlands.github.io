@@ -8,7 +8,7 @@ pager: false
 weight: 1
 ---
 
-RSE Midlands 2025 has taken place on Monday 7th April 2025 at
+RSE Midlands 2025 took place on Monday 7th April 2025 at
 [The Exchange, 3 Centenary Square, B1 2DR](https://conferences.bham.ac.uk/venues/the-exchange/),
 and was hosted by the University of Birmingham's
 [Advanced Research Computing team](https://www.birmingham.ac.uk/research/arc/team). 
