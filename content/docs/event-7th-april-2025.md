@@ -15,7 +15,7 @@ and was hosted by the University of Birmingham's
 
 ## Agenda
 
-Below is the agenda for the day.
+Below was the agenda for the day.
 
 Registration and refreshments were available from 09:00 and were an **optional** opportunity to catch up with
 colleagues before the day begins in earnest. Thank you for aiming to arrive in good time for the introductory talks at 10:00
