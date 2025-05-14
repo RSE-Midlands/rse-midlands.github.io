@@ -1,5 +1,5 @@
 ---
-title: Inaugural Meeting
+title: 2022 Annual Conference - 8th June Inaugural Meeting
 description: Details of the first meeting of the RSE Midlands group
 date:
 authorbox: false

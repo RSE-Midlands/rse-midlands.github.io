@@ -20,8 +20,7 @@ breadth of skills RSEs in the Midlands possess.
 The morning had a focus on RSEs in Health Data (applicable to all RSEs, not just those working
 in that field), with the afternoon on more general topics. 
 
-Below you will find the arrangements for the day. Please look out for a blog post in
-the near future, summarising the day and looking forward to the next one!
+Below you will find the arrangements for the day. 
 
 ## Agenda
 
@@ -44,36 +43,36 @@ the near future, summarising the day and looking forward to the next one!
 | 15:30 | Wrap up |
 | 16:00 | Close |
 
-We’d love to see you then. Book at [https://pretix.eu/rsemidlands/2023/](https://pretix.eu/rsemidlands/2023/). 
 
 Thank you to all our wonderful lightning talk volunteers!
 
-We don’t want finances to be a barrier to any attendees, and so the Society of Research Software Engineering has 
-generously offered support with any travel expenses. Speak to us if you would like to take advantage of this help.
+## Registration
+
+We didn't want finances to be a barrier to any attendees, and so [the Society of Research Software Engineering](https://society-rse.org) had generously offered support with any travel expenses. People were able to speak to us if they would have liked to take advantage of this help.
 
 ## Location and travel
 
 ### Location
-The conference was be held in Room E06, Monica Partridge Building, University Park Campus. 
-This is on the top floor. Stairs and lifts are available, and the building is fully accessible.
+The conference was held in Room E06, Monica Partridge Building, University Park Campus. 
+This was on the top floor. Stairs and lifts were available, and the building was fully accessible.
 
 [Google Maps](https://www.google.co.uk/maps/place/Monica+Partridge+Building/@52.9388984,-1.1983711,19z/data=!4m6!3m5!1s0x4879c3e2d4c8dc83:0xb48fa08fd229d9a8!8m2!3d52.9391044!4d-1.1980617!16s%2Fg%2F11grnvrdxl)
 
 
 ### Travel
 
-The University provides information for travel to University Park Campus: https://www.nottingham.ac.uk/about/visitorinformation/mapsanddirections/universityparkcampus.aspx
+The University provided information for travel to University Park Campus: https://www.nottingham.ac.uk/about/visitorinformation/mapsanddirections/universityparkcampus.aspx
 
 #### Train
-If you're travelling by train, travel to Nottingham Rail Station, and then grab a tram (heading to Toton Lane). 
+If you were travelling by train, we recommended to travel to Nottingham Rail Station, and then grab a tram (heading to Toton Lane). 
 Trams depart from the tram stop above the rail station, accessible from both the main rail station entrance and 
-from the pedestrian bridge connecting platforms. Alight at "University of Nottingham" after approximately 10 minutes. The venue is a 10-15 minute walk (uphill, sorry!).
+from the pedestrian bridge connecting platforms. Alight at "University of Nottingham" after approximately 10 minutes. The venue was a 10-15 minute walk (uphill, sorry!).
 
 #### Car
-If travelling by car, the closest public (pay and display) car park is 
+If you were travelling by car, the closest public (pay and display) car park was 
 [here](https://www.google.co.uk/maps/place/Main+Visitor+Car+Park/@52.940365,-1.1948261,299m/data=!3m1!1e3!4m6!3m5!1s0x4879c208ded048ed:0x19acb9ab0140e036!8m2!3d52.9407657!4d-1.1943649!16s%2Fg%2F11sb7cb_9h), 
 a few minutes' walk from the venue. 
-You might also want to consider using the Park and Ride at Toton Lane (close to the M1). This provides free parking, and a frequent (not free) tram to University of Nottingham.
+You might have also wanted to consider using the Park and Ride at Toton Lane (close to the M1). This provides free parking, and a frequent (not free) tram to University of Nottingham.
 
 
 <!--more-->
