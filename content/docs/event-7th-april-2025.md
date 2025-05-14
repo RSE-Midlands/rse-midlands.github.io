@@ -66,6 +66,7 @@ Talks were generally:
 - No more than five slides
 
 We loved to hear about the **practical tips, tricks, and tools** you use in your everyday career, as well as the broader topics.
+
 **Submissions from members of underrepresented communities were strongly encouraged.**
 
 
