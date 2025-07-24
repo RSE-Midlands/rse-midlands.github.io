@@ -8,28 +8,18 @@ pager: false
 weight: 1
 ---
 
-RSE Midlands 2025 will take place on Monday 7th April 2025 at
+RSE Midlands 2025 took place on Monday 7th April 2025 at
 [The Exchange, 3 Centenary Square, B1 2DR](https://conferences.bham.ac.uk/venues/the-exchange/),
-hosted by the University of Birmingham's
+and was hosted by the University of Birmingham's
 [Advanced Research Computing team](https://www.birmingham.ac.uk/research/arc/team). 
-
-## Registration
-
-We’d love to see you at the event - registration is free. Book at [https://pretix.eu/rsemidlands/2025/](https://pretix.eu/rsemidlands/2025/). 
-
-The registration process includes a series of questions designed to ensure that we are able to fully consider any
-potential barriers to your attendance (e.g. accessibility, dietary, financial, etc.).
-Of particular note, [the Society of Research Software Engineering](https://society-rse.org) has generously offered
-financial support with any travel, childcare, or similar expenses. Please see our [FAQ](https://pretix.eu/rsemidlands/2025/page/faq/)
-for further details.
 
 ## Agenda
 
-Below is the agenda for the day. Please note that this is **provisional** and may change closer to the event.
+Below was the agenda for the day.
 
-Registration and refreshments will be available from 09:00 and are an **optional** opportunity to catch up with
-colleagues before the day begins in earnest. Please aim to arrive in good time for the introductory talks at 10:00
-(allowing some time for us to address any questions you might have about the day).
+Registration and refreshments were available from 09:00 and were an **optional** opportunity to catch up with
+colleagues before the day begins in earnest. Thank you for aiming to arrive in good time for the introductory talks at 10:00
+(to allow some time for us to address any questions you might have had about the day).
 
 | Time  | Activity                                                                                           |
 | :---- | :------------------------------------------------------------------------------------------------- |
@@ -68,28 +58,23 @@ colleagues before the day begins in earnest. Please aim to arrive in good time f
 
 ## Lightning Talks
 
-Part of the day has been set aside for lightning talks from the community, and we are very keen to hear from **you!**
-If you are interested in delivering a lightning talk, please provide a brief outline of your idea when asked during the
-registration process.
+Part of the day was set aside for lightning talks from the community, and we listened to people give quick talks.
 
-For guidance, talks should generally be:
+Talks were generally:
 
 - A maximum of ten minutes in length
 - No more than five slides
 
-We are particularly interested in hearing about any **practical tips, tricks, and tools** you use in your everyday career, but this is by no means exhaustive; if you would like to propose a broader topic, please do get in touch.
+We loved to hear about the **practical tips, tricks, and tools** you use in your everyday career, as well as the broader topics.
 
-**Submissions from members of underrepresented communities are strongly encouraged.**
+**Submissions from members of underrepresented communities were strongly encouraged.**
 
-If you would like to discuss your ideas further before registering, please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk).
 
 ## Venue and Travel
 
-[The Exchange website](https://conferences.bham.ac.uk/venues/the-exchange/) should contain all the information you'll
-need about our venue, including a virtual building tour. We have booked the Assembly Room for RSE Midlands 2025 and will
-also be making use of the Shared Catering Lounge during refreshment breaks.
+[The Exchange website](https://conferences.bham.ac.uk/venues/the-exchange/) should contain all the information about our venue, including a virtual building tour. We booked the Assembly Room for RSE Midlands 2025 and made use of the Shared Catering Lounge during refreshment breaks.
 
-Please pay particular attention to the following if you plan on travelling by car
+Here is what the website says about travel
 (copied verbatim from the link above):
 
 > **Travelling by car**
@@ -112,14 +97,14 @@ The venue is located within walking distance of several of central Birmingham's 
 
 ## Organising Committee
 
-Our organising committee for this year are [James Tyrrell](https://www.birmingham.ac.uk/research/arc/rsg/staff/james-tyrrell),
+Our organising committee for this year were [James Tyrrell](https://www.birmingham.ac.uk/research/arc/rsg/staff/james-tyrrell),
 [Gavin Yearwood](https://www.birmingham.ac.uk/research/arc/rsg/staff/gavin-yearwood),
 [Matthew Barton](https://www.birmingham.ac.uk/research/arc/rsg/staff/matthew-barton),
 and [Adrian Garcia](https://www.birmingham.ac.uk/research/arc/rsg/staff/adrian-garcia).
 
 ## Sponsors
 
-Our sponsors for this year are:
+Our sponsors for this year were:
 
 - [Lenovo](https://www.lenovo.com/)
 - [Intel](https://www.intel.com/)
@@ -128,6 +113,5 @@ Our sponsors for this year are:
 
 ## Contact
 
-You can find us on our slack channel [#midlands](https://ukrse.slack.com/archives/C02333HNA64) in the [RSE Society's slack workspace](https://join.slack.com/t/ukrse/signup) and [on twitter](https://twitter.com/RSE_Midlands)!
+You can find us on our slack channel [#midlands](https://ukrse.slack.com/archives/C02333HNA64) in the [RSE Society's slack workspace](https://join.slack.com/t/ukrse/signup) and [on X](https://x.com/RSE_Midlands)!
 
-For any other questions not covered by our [FAQ](https://pretix.eu/rsemidlands/2025/page/faq/), please contact [James Tyrrell](mailto:j.m.tyrrell@bham.ac.uk). 
