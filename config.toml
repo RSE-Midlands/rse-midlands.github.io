@@ -35,6 +35,7 @@ unsafe= true
   github = "RSE-Midlands"
   linkedin = "groups/12657864"
   mastodon = "RSE_Midlands"
+  bluesky = "Rse-midlands.bsky.social"
 
 [menu]
   [[menu.main]]
