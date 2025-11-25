@@ -26,6 +26,15 @@
 						<!-- <a href="https://twitter.com/RSE_Midlands?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @RSE_Midlands</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 					</div>-->
 		{{- end }}
+		<!--Adapted image from free service - https://www.streamlinehq.com/icons/download/bluesky-->
+		{{- with .Site.Params.widgets.social.bluesky }}
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Bluesky" rel="noopener noreferrer" href="https://bsky.app/profile/{{ . }}" target="_blank">
+				{{ partial "svg/bluesky.svg" (dict "class" "widget-social__link-icon") }}
+				<span>Bluesky</span>
+			</a>
+		</div>
+		{{- end }}
 		<!--Adapted image from free service - https://www.svgrepo.com/svg/330895/mastodon-->
 		{{- with .Site.Params.widgets.social.mastodon }}
 		<div class="widget-social__item widget__item">
