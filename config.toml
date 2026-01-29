@@ -46,7 +46,7 @@ unsafe= true
   [[menu.main]]
     identifier = "category"
     name = "Events"
-    weight = 6
+    weight = 5
   [[menu.main]]
     identifier = "category1"
     name = "8th June 2022"
@@ -81,10 +81,10 @@ unsafe= true
     identifier = "Coding Club"
     name = "Coding Club"
     url = "/docs/rse-midlands-coding-club"
-    weight = 7
+    weight = 6
   [[menu.main]]
     identifier = "Representatives"
     name = "Representatives"
     url = "/docs/representatives"
-    weight = 8
+    weight = 7
 # https://codingnconcepts.com/hugo/nested-menu-hugo/
