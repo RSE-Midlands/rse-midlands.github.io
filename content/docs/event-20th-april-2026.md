@@ -24,7 +24,7 @@ If you have a project you have worked on, a useful tool that you wish to share o
 
 ### Lightning talks
 
-If you have content fot a shorter 5 - 10 minute speech, we have lightning talk speaking slots available.
+If you have content for a shorter 5 - 10 minute speech, we have lightning talk speaking slots available.
 This is an opportunity for those in the RSE Midlands space to give a talk that can either be on their work or community projects that they are involved with: This can be to inform or seek assistance.
 
 ## Preliminary Agenda
