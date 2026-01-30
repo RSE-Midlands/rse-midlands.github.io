@@ -13,19 +13,19 @@ RSE Midlands 2026 will take place on 20th April 2026 at
 
 ## Tickets
 
-Tickets will be availble early February.
+Tickets will become available in early February.
 
 ## Call for talks
 
 ### Full speeches
 
-There are 2 30 minute speaking slots available to give a detailed talk.
-If you have a project you have worked on, useful tool that you wish to share or even a talk about being an RSE from your institution please get in contact with us.
+There are two, 30-minute speaking slots available to give a detailed talk.
+If you have a project you have worked on, a useful tool that you wish to share or even a talk about being an RSE from your institution, then please get in contact with us.
 
 ### Lightning talks
 
-If you have content fot a shorter 5 - 10 minute speech we have lightning talk speaking slots available.
-This is an opportunity for those in the RSE Midlands space to give a talk that can either be on their work or community projects they are involved with. This can be to inform or seek assistance.
+If you have content fot a shorter 5 - 10 minute speech, we have lightning talk speaking slots available.
+This is an opportunity for those in the RSE Midlands space to give a talk that can either be on their work or community projects that they are involved with: This can be to inform or seek assistance.
 
 ## Preliminary Agenda
 
