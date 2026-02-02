@@ -21,12 +21,12 @@ If you would like to give a talk please can you email Kwabena Amponsah [kwabena.
 
 ### 30 - 15 minute talks
 
-There are two, 30-minute or four 15 minute slots available to give a talk.
+There are two, 30-minute or four 15-minute slots available to give a talk.
 If you have a project you have worked on, a useful tool that you wish to share or even a talk about being an RSE from your institution, then please get in contact with us.
 
 ### Lightning talks
 
-We have slots for shorter 5 - 10 minute lightning talks.
+We have slots for shorter 5 to 10-minute lightning talks.
 This is an opportunity for those in the RSE Midlands space to give a talk that can either be on their work or community projects that they are involved with:
 This can be to inform or seek assistance.
 
