@@ -17,9 +17,11 @@ Tickets out now you can get your tickets [here](https://pretix.eu/rsemidlands/20
 
 ## Call for talks
 
-### 30 - 15 minute tlaks
+If you would like to give a talk please can you email Kwabena Amponsah [kwabena.amponsah1@nottingham.ac.uk](mailto:kwabena.amponsah1@nottingham.ac.uk) with the details of your request.
 
-There are two, 30-minute or 4 15 minute slots available to give a detailed talk.
+### 30 - 15 minute talks
+
+There are two, 30-minute or four 15 minute slots available to give a talk.
 If you have a project you have worked on, a useful tool that you wish to share or even a talk about being an RSE from your institution, then please get in contact with us.
 
 ### Lightning talks
