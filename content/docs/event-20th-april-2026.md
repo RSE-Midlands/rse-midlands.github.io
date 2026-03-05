@@ -30,16 +30,34 @@ We have slots for shorter 5 to 10-minute lightning talks.
 This is an opportunity for those in the RSE Midlands space to give a talk that can either be on their work or community projects that they are involved with:
 This can be to inform or seek assistance.
 
-## Preliminary Agenda
+## Agenda
 
-| Time  | Activity                          |
-| ----- | ----------------------------------|
-| 09:00 | Registration                      |
-| 10:00 | Session 1 - Academic              |
-| 11:00 | Refreshments                      |
-| 11:30 | Session 2 - EDI & Lightning talks |
-| 13:00 | Lunch                             |
-| 14:00 | Session 3 - Practical             |
-| 15:30 | Refreshments                      |
-| 16:00 | Session 4 - RSESoc & Panel        |
-| 16:55 | Closing Remarks                   |
+| Time  | Activity                                                                                                    |
+| ----- | ------------------------------------------------------------------------------------------------------------|
+| 09:00 | Registration                                                                                                |
+| 10:00 | Session 1 - Academic                                                                                        |
+|       | Open-source, but paying the bills: PsychoPy's story - Jonathan Peirce                                       |
+|       | Grazziela Figueredo                                                                                         |
+| 11:00 | Refreshments                                                                                                |
+| 11:30 | Session 2 - EDI & Lightning talks                                                                           |
+|       | EDI = Jeremy Cohen                                                                                          |
+|       | Lightning talks                                                                                             |
+| 13:00 | Lunch                                                                                                       |
+| 14:00 | Session 3 - Practical                                                                                       |
+|       | VisP2: The Data Visualization process for software development - Robert Laramee                             |
+|       | An introduction to Apptainer: Portable and Reproducable Workflow on HPC - Bradley Davy (OCF sponsored talk) |
+|       | The reluctant developer's guide to software development universe - Mike Croucher (Mathworks)                |
+| 15:30 | Refreshments                                                                                                |
+| 16:00 | Session 4 - RSESoc & Panel                                                                                  |
+|       | RSE Society Sponsored talk James Tyrell                                                                     |
+|       | Panel Session: Raising the visibility of RSE groups within Universities, details below                      |
+| 16:55 | Closing Remarks                                                                                             |
+
+### Panel Session
+
+**Panel Coordinator:** Louise Brown
+**Panel Chair:** Armando Mendez
+**Panel Members:**
+* Adrian Garcia, University of Birmingham
+* Andrew Hadfield, University of Nottingham
+* Mike Croucher, Mathworks
