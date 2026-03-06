@@ -49,7 +49,7 @@ This can be to inform or seek assistance.
 |       | The reluctant developer's guide to software development universe - Mike Croucher (Mathworks)                |
 | 15:30 | Refreshments                                                                                                |
 | 16:00 | Session 4 - RSESoc & Panel                                                                                  |
-|       | RSE Society Sponsored talk James Tyrell                                                                     |
+|       | RSE Society Sponsored talk James Tyrrell                                                                     |
 |       | Panel Session: Raising the visibility of RSE groups within Universities, details below                      |
 | 16:55 | Closing Remarks                                                                                             |
 
