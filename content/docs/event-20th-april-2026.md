@@ -40,7 +40,7 @@ This can be to inform or seek assistance.
 |       | Grazziela Figueredo (University of Nottingham)                                                              |
 | 11:00 | Refreshments                                                                                                |
 | 11:30 | Session 2 - EDI & Lightning talks                                                                           |
-|       | EDI - Jeremy Cohen (Imperial College London)                                                                |
+|       | EDI - Jeremy Cohen (Imperial College London), Ella Kaye (University of Birmingham)                          |
 |       | Lightning talks                                                                                             |
 | 13:00 | Lunch                                                                                                       |
 | 14:00 | Session 3 - Practical                                                                                       |
