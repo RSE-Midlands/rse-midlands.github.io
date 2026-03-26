@@ -37,7 +37,7 @@ This can be to inform or seek assistance.
 | 09:00 | Registration                                                                                                 |
 | 10:00 | Session 1 - Academic                                                                                         |
 |       | Open-source, but paying the bills: PsychoPy's story - Jonathan Peirce (University of Nottingham)             |
-|       | Data-driven AI research - Grazziela Figueredo (University of Nottingham)                                     |
+|       | RSE for data-driven AI research - Grazziela Figueredo (University of Nottingham)                             |
 | 11:00 | Refreshments                                                                                                 |
 | 11:30 | Session 2 - EDI & Lightning talks                                                                            |
 |       | EDI - Jeremy Cohen (Imperial College London), Ella Kaye (University of Birmingham)                           |
