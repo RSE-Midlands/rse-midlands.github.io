@@ -19,7 +19,7 @@ Registration for the 2026 conference is now open. Please register in advance usi
 
 ## Call for talks
 
-### 30 - 15 minute talks
+### 15 - 30 minute talks
 
 There are still a few slots available for 15-minute or 30-minute talks. If you have a project you have worked on, a 
 useful tool to share, or would like to speak about your experience as an RSE at your institution, we would be glad to 
@@ -56,6 +56,7 @@ reimbursement of any costs unless this has been agreed with us in advance.
 | 11:30 | **Session 2**                                                                                                |
 |       | EDI - Jeremy Cohen (Imperial College London), Ella Kaye (University of Birmingham)                           |
 |       | Lightning talks                                                                                              |
+|       | Digital Skills Training - Tom Giles (University of Nottingham)                                               |
 | 13:00 | Lunch                                                                                                        |
 | 14:00 | **Session 3**                                                                                                |
 |       | VisP2: The Data Visualization process for software development - Robert Laramee (University of Nottingham)   |

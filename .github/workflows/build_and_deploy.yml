@@ -8,11 +8,15 @@ jobs:
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - name: Check out repository code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
       - name: Get latest Hugo version
         run: |
           LATEST_HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name')
-          curl -sSL https://github.com/gohugoio/hugo/releases/download/${LATEST_HUGO_VERSION}/hugo_extended_${LATEST_HUGO_VERSION:1}_Linux-64bit.tar.gz | tar -xvzf-
+          echo "Downloading Hugo version: ${LATEST_HUGO_VERSION}"
+          FILENAME="hugo_extended_${LATEST_HUGO_VERSION:1}_Linux-64bit.tar.gz"
+          curl -o ${FILENAME} -sSL https://github.com/gohugoio/hugo/releases/download/${LATEST_HUGO_VERSION}/${FILENAME}
+          file ${FILENAME}
+          tar -xvzf ${FILENAME}
       - name: Move Hugo executable file
         run: |
           sudo mv hugo /usr/local/bin/
