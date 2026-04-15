@@ -46,27 +46,30 @@ reimbursement of any costs unless this has been agreed with us in advance.
 
 ## Agenda
 
-| Time  | Activity                                                                                                     |
-| ----- | -------------------------------------------------------------------------------------------------------------|
-| 09:00 | Registration                                                                                                 |
-| 10:00 | **Session 1**                                                                                                |
-|       | Open-source, but paying the bills: PsychoPy's story - Jonathan Peirce (University of Nottingham)             |
-|       | RSE for data-driven AI research - Grazziela Figueredo (University of Nottingham)                             |
-| 11:00 | Refreshments                                                                                                 |
-| 11:30 | **Session 2**                                                                                                |
-|       | EDI - Jeremy Cohen (Imperial College London), Ella Kaye (University of Birmingham)                           |
-|       | Lightning talks                                                                                              |
-|       | Digital Skills Training - Tom Giles (University of Nottingham)                                               |
-| 13:00 | Lunch                                                                                                        |
-| 14:00 | **Session 3**                                                                                                |
-|       | VisP2: The Data Visualization process for software development - Robert Laramee (University of Nottingham)   |
-|       | An introduction to Apptainer: Portable and Reproducible Workflows on HPC - Bradley Davy (OCF sponsored talk) |
-|       | The reluctant developer's guide to the software development universe - Mike Croucher (Mathworks)             |
-| 15:30 | Refreshments                                                                                                 |
-| 16:00 | **Session 4**                                                                                                |
-|       | RSE Society Sponsored talk - James Tyrrell (University of Birmingham)                                        |
-|       | Panel Session: Raising the visibility of RSE groups within Universities (details below)                      |
-| 16:55 | Closing Remarks                                                                                              |
+| Time  | Activity                                                                                                      |
+| ----- | :-------------------------------------------------------------------------------------------------------------|
+| 09:00 | 📋 Registration and refreshments                                                                              |
+|       | **Session 1** (Chair: Kwabena Amponsah)                                                                       |
+| 10:00 | Welcome remarks                                                                                               |
+|       | Open-source, but paying the bills: PsychoPy's story - Jonathan Peirce (University of Nottingham)              |
+| 10:30 | RSE for data-driven AI research - Grazziela Figueredo (University of Nottingham)                              |
+| 11:00 | ☕ Refreshments                                                                                                |
+|       | **Session 2** (Chair: Godwin Yeboah)                                                                          |
+| 11:30 | EDI - Jeremy Cohen (Imperial College London), Ella Kaye (University of Birmingham)                            |
+| 12:00 | Embrace Angels - Dominic Price (University of Nottingham)                                                     |
+| 12:15 | Web Scraping - Louise Brown (University of Birmingham)                                                        |
+| 12:30 | Physics-Informed Machine Learning for Optical Surface Metrology: Bridging AI Research and Manufacturing - Ruidong Xue (University of Nottingham) |
+| 12:45 | Digital Skills Training - Tom Giles (University of Nottingham)                                                |
+| 13:00 | ☕ Lunch                                                                                                       |
+|       | **Session 3**  (Chair: Louise Brown)                                                                          |
+| 14:00 | VisP2: The Data Visualization process for software development - Robert Laramee (University of Nottingham)    |
+| 14:30 | An introduction to Apptainer: Portable and Reproducible Workflows on HPC - Bradley Davy (OCF sponsored talk)  |
+| 15:00 | The reluctant developer's guide to the software development universe - Mike Croucher (Mathworks)              |
+| 15:30 | ☕ Refreshments                                                                                                |
+|       | **Session 4**   (Chair: Armando Mendez Villalon)                                                              |
+| 16:00 | RSE Society Sponsored talk - James Tyrrell (University of Birmingham)                                         |
+| 16:15 | Panel Session: Raising the visibility of RSE groups within Universities (details below)                       |
+| 16:55 | Closing remarks                                                                                               |
 
 ### Panel Session
 
