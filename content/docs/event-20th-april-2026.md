@@ -26,7 +26,7 @@ Below you will find the agenda for the day. Talks ranged from 15-minute presenta
 | 11:00 | ☕ Refreshments                                                                                                |
 |       | **Session 2** (Chair: Godwin Yeboah)                                                                          |
 | 11:30 | EDI - Jeremy Cohen (Imperial College London), Ella Kaye (University of Birmingham)                            |
-| 12:15 | Web Scraping - Louise Brown (University of Birmingham)                                                        |
+| 12:15 | Web Scraping Training - Louise Brown (University of Birmingham)                                               |
 | 12:30 | Digital Skills Training - Tom Giles (University of Nottingham)                                                |
 | 12:45 | Physics-Informed Machine Learning for Optical Surface Metrology: Bridging AI Research and Manufacturing - Ruidong Xue (University of Nottingham) |
 | 13:00 | ☕ Lunch                                                                                                       |
