@@ -57,7 +57,7 @@ Below you will find the agenda for the day. Talks ranged from 15-minute presenta
 Thanks to generous funding from the Society of Research Software Engineering's 
 [Events and Initiatives Grant](https://society-rse.org/policy-for-socrse-events-and-initiatives-grant/),
 we were able to offer support to help cover travel expenses where these would be
-a barrier to attendance. Attendees were able to request support via the registration form or getting in contact 
+a barrier to attendance. Attendees were able to request support via the registration form or by getting in contact 
 with us.
 
 
@@ -78,7 +78,7 @@ If you were travelling by train, we recommended travelling to nearest station, *
 
 ### Travelling by car
 
-If you were travelling by car, there was [visitor parking](https://www.nottingham.ac.uk/estates/security/carparking/home.aspx) available on **Jubilee Campus** in designated areas. Visitors were encouraged to use the **RingGo app**. Pay-and-display machines were also available in some areas. [EV charging points](https://www.nottingham.ac.uk/sustainability/transport/electricvehicles.aspx] were available on Jubilee Campus for people who needed them. Alternatively, [park and ride](https://www.thetram.net/park-and-ride) options were also available from several locations on the outskirts of Nottingham.
+If you were travelling by car, there was [visitor parking](https://www.nottingham.ac.uk/estates/security/carparking/home.aspx) available on **Jubilee Campus** in designated areas. Visitors were encouraged to use the **RingGo app**. Pay-and-display machines were also available in some areas. [EV charging points](https://www.nottingham.ac.uk/sustainability/transport/electricvehicles.aspx) were available on Jubilee Campus for people who needed them. Alternatively, [park and ride](https://www.thetram.net/park-and-ride) options were also available from several locations on the outskirts of Nottingham.
 
 
 ## Organising Committee
