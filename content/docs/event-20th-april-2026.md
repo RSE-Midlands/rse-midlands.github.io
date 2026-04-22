@@ -8,41 +8,11 @@ pager: false
 weight: 1
 ---
 
-RSE Midlands 2026 will take place on 20th April 2026 at the 
-[Advanced Manufacturing Building, University of Nottingham, NG7 2GX](https://www.nottingham.ac.uk/mcm/howtofindus.aspx).
+On Monday 20th April 2026, the RSE Midlands community gathered at the [Advanced Manufacturing Building](https://www.nottingham.ac.uk/mcm/howtofindus.aspx) on the Jubilee Campus of the University of Nottingham for its annual meeting, bringing together colleagues with an interest in research software from across the region.
 
-## Tickets
+This was the fifth year we were running the conference and the second time we were hosting it in Nottingham. This year’s event continued the growing tradition of the RSE Midlands event. Informal and welcoming, with attendees from  multiple institutions working in various disciplines, the day provided a space to exchange ideas, reconnect with familiar faces, meet new colleagues, and strengthen the RSE community across the Midlands.
 
-Registration for the 2026 conference is now open. Please register in advance using the link below:<br>
- [https://pretix.eu/rsemidlands/2026/](https://pretix.eu/rsemidlands/2026/)
-
-
-## Call for talks
-
-### 15 - 30 minute talks
-
-There are still a few slots available for 15-minute or 30-minute talks. If you have a project you have worked on, a 
-useful tool to share, or would like to speak about your experience as an RSE at your institution, we would be glad to 
-hear from you. Please get in touch with us or indicate your interest on the [registration form](https://pretix.eu/rsemidlands/2026/).
-
-### Lightning talks
-
-We have slots available for short 5 to 10-minute lightning talks. This is a great opportunity to showcase your work or 
-highlight community projects you are involved in. Talks can be used to share insights, inform others, or seek feedback 
-and collaboration. Please get in touch with us or indicate your interest on the [registration form](https://pretix.eu/rsemidlands/2026/).
-
-
-## Financial support
-
-Thanks to funding from the Society of Research Software Engineering's 
-[Events and Initiatives Grant](https://society-rse.org/policy-for-socrse-events-and-initiatives-grant/),
-we may be able to offer some support to help cover costs such as travel or childcare where these would otherwise be
-a barrier to attendance. If you would like to request support , please indicate this on the 
-[registration form](https://pretix.eu/rsemidlands/2026/) or contact 
-Kwabena Amponsah ([kwabena.amponsah1@nottingham.ac.uk](mailto:kwabena.amponsah1@nottingham.ac.uk))
-at your earliest convenience to discuss how we may be able to assist. Please note that we cannot guarantee 
-reimbursement of any costs unless this has been agreed with us in advance.
-
+Below you will find the agenda for the day. Talks ranged from 15-minute presentations to longer 30-minute sessions, covering real-world projects, community building, training delivery, tools, and approaches to research software. Beyond the talks, the event offered opportunities for informal discussion during breaks, carving out time for attendees to continue conversations offline that were sparked during the talks.
 
 ## Agenda
 
@@ -56,10 +26,9 @@ reimbursement of any costs unless this has been agreed with us in advance.
 | 11:00 | ☕ Refreshments                                                                                                |
 |       | **Session 2** (Chair: Godwin Yeboah)                                                                          |
 | 11:30 | EDI - Jeremy Cohen (Imperial College London), Ella Kaye (University of Birmingham)                            |
-| 12:00 | Embrace Angels - Dominic Price (University of Nottingham)                                                     |
-| 12:15 | Web Scraping - Louise Brown (University of Birmingham)                                                        |
-| 12:30 | Physics-Informed Machine Learning for Optical Surface Metrology: Bridging AI Research and Manufacturing - Ruidong Xue (University of Nottingham) |
-| 12:45 | Digital Skills Training - Tom Giles (University of Nottingham)                                                |
+| 12:15 | Web Scraping Training - Louise Brown (University of Birmingham)                                               |
+| 12:30 | Digital Skills Training - Tom Giles (University of Nottingham)                                                |
+| 12:45 | Physics-Informed Machine Learning for Optical Surface Metrology: Bridging AI Research and Manufacturing - Ruidong Xue (University of Nottingham) |
 | 13:00 | ☕ Lunch                                                                                                       |
 |       | **Session 3**  (Chair: Louise Brown)                                                                          |
 | 14:00 | VisP2: The Data Visualization process for software development - Robert Laramee (University of Nottingham)    |
@@ -78,74 +47,43 @@ reimbursement of any costs unless this has been agreed with us in advance.
 **Panel Chair:** Armando Mendez Villalon
 
 **Panel Members:**
-* Adrian Garcia, University of Birmingham
+* James Tyrrell, University of Birmingham
 * Andrew Hadfield, University of Nottingham
 * Mike Croucher, Mathworks
 
 
+## Registration
+
+Thanks to generous funding from the Society of Research Software Engineering's 
+[Events and Initiatives Grant](https://society-rse.org/policy-for-socrse-events-and-initiatives-grant/),
+we were able to offer support to help cover travel expenses where these would be
+a barrier to attendance. Attendees were able to request support via the registration form or by getting in contact 
+with us.
+
+
 ## Venue and Travel
 
-The venue for RSE Midlands 2026 will be:
+The venue for RSE Midlands 2026 was:
 
 > **Advanced Manufacturing Building**<br>
 > Jubilee Campus, University of Nottingham<br>
 > Derby Rd, Nottingham<br>
 > NG7 2GX
 
+The conference was held in room C11 on the top floor, and stairs and lifts were available.
+
 ### Travelling by train
 
-The nearest station is **Nottingham Railway Station**.<br>
-From the station, continue to Jubilee Campus by tram or bus.
-
-#### By tram (recommended)
-
-* From Nottingham Railway Station / city centre, take the tram towards **Toton Lane**.
-* Alight at **Queen's Medical Centre** tram stop
-* The venue is a 10-minute walk from the stop.
-
-Tickets must be purchased before boarding.<br>
-https://www.thetram.net/network-information
-
-#### By bus
-
-* Take a bus (or connecting buses) to **Hillside bus stop (Stop LE12, Lenton)**
-* The venue is a short walk from the stop
-
-Bus services run regularly from Nottingham city centre and the railway station.<br>
-Visitors are advised to check routes and timetables in advance.
-
-For further travel details, please visit:<br>
-https://www.nottingham.ac.uk/mcm/howtofindus.aspx
-
+If you were travelling by train, we recommended travelling to nearest station, **Nottingham Railway Station**, and continuing to Jubilee Campus by tram or bus. Continuing by tram was the recommended route, which involved taking a tram towards **Toton Lane**, alighting at **Queen's Medical Centre** tram stop, and walking 10 minutes to the venue. We provided alternative directions by bus, which involved taking a bus (or connecting buses) to **Hillside bus stop (Stop LE12, Lenton)** and walking a short distance to the venue.
 
 ### Travelling by car
 
-#### Parking
-
-Visitor parking is available on **Jubilee Campus** in designated areas.
-
-* Visitors are encouraged to use the **RingGo app**.
-* Pay-and-display machines are also available in some areas.
-* Typical weekday tariffs: **£12** for all-day parking.
-
-For parking maps and full details, please visit:<br>
-https://www.nottingham.ac.uk/estates/security/carparking/home.aspx
-
-
-#### Park and ride
-
-Park and ride options are also available from several locations on the outskirts of Nottingham.<br>
-https://www.thetram.net/park-and-ride
-
-#### Electric Vehicles
-
-EV charging points are available on Jubilee Campus. More information can be found here:<br>
-https://www.nottingham.ac.uk/sustainability/transport/electricvehicles.aspx
+If you were travelling by car, there was [visitor parking](https://www.nottingham.ac.uk/estates/security/carparking/home.aspx) available on **Jubilee Campus** in designated areas. Visitors were encouraged to use the **RingGo app**. Pay-and-display machines were also available in some areas. [EV charging points](https://www.nottingham.ac.uk/sustainability/transport/electricvehicles.aspx) were available on Jubilee Campus for people who needed them. Alternatively, [park and ride](https://www.thetram.net/park-and-ride) options were also available from several locations on the outskirts of Nottingham.
 
 
 ## Organising Committee
 
-Our organising committee for this year are 
+Our organising committee for this year were 
 [Andrew Warry](https://orcid.org/0000-0002-7647-9164), 
 [Armando Mendez Villalon](https://orcid.org/0000-0001-5948-7560), 
 [Gavin Yearwood](https://www.birmingham.ac.uk/research/arc/rsg/staff/gavin-yearwood), 
@@ -157,7 +95,7 @@ Our organising committee for this year are
 
 ## Sponsors
 
-Our sponsors for this year are:
+Our sponsors for this year were:
 
 * [OCF](https://ocf.co.uk)
 * [The Society of Research Software Engineering](https://society-rse.org/)
