@@ -97,8 +97,9 @@ Our organising committee for this year were
 
 Our sponsors for this year were:
 
-* [OCF](https://ocf.co.uk)
-* [The Society of Research Software Engineering](https://society-rse.org/)
+{{< flex-container >}}
+[![OCF](/images/logo-OCF.jpg)](https://ocf.co.uk)[![Society of Research Software Engineering](/images/logo-rse-s.png)](https://society-rse.org/)
+{{< /flex-container >}}
 
 
 ## Contact
