@@ -87,4 +87,9 @@ unsafe= true
     name = "Representatives"
     url = "/docs/representatives"
     weight = 7
+  [[menu.main]]
+    identifier = "RSE Society"
+    name = "RSE Society"
+    url = "/docs/rse-society"
+    weight = 8
 # https://codingnconcepts.com/hugo/nested-menu-hugo/

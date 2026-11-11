@@ -42,7 +42,7 @@ If you use Git to version control your software development you can automate you
 
 *Speaker*: Catherine (Cat) Smith
 
-In this talk I will highlight some of the things I learned when I started testing my code, and the code of other people. It is not a tutorial on how to write tests, so is not specific to a particular language. Instead it focusses on the general approach although I will use code examples where relevant. Most of this has been learned by trial and error and I hope that there will be time for others to share alternative approaches, or additional tips in the discussion afterwards.
+In this talk I will highlight some of the things I learned when I started testing my code, and the code of other people. It is not a tutorial on how to write tests, so is not specific to a particular language. Instead it focuses on the general approach although I will use code examples where relevant. Most of this has been learned by trial and error and I hope that there will be time for others to share alternative approaches, or additional tips in the discussion afterwards.
 
 *Presentation*: [link](https://bham-my.sharepoint.com/personal/g_yearwood_bham_ac_uk/_layouts/15/guestaccess.aspx?docid=0fb31777292164edd978c317c597198ca&authkey=AdewUuDgg1rDvUmKYRkjUiE&e=Q1m7wXa)
 
